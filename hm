@@ -1,0 +1,165 @@
+1 37M Tokyo
+2 26M Jakarta
+3 23M Seoul
+4 22M Delhi
+5 22M Manila
+6 21M SH
+7 20M NYC
+8 20M Sao Paulo
+9 19M Mexico City
+10 18M Cairo
+11 16M Moscow
+12 15M Dhaka
+13 14M Karachi
+14 14M Buenos Aires
+15 14M Istanbul
+16 12M Lagos
+17 11M Paris
+18 9.1M Lima
+19 9.0M Kinshasa
+20 8.7M Bogota
+21 8.6M London
+22 8.3M Saigon
+23 7.6M Johannesburg
+24 7.4M Tehran
+25 7.3M Essen
+26 7.2M Bangkok
+27 6.2M Baghdad
+28 6.1M Toronto
+29 6.1M Kuala Lumpur
+30 6.0M Santiago
+31 5.4M Madrid
+32 5.2M Milan
+33 5.2M Luanda
+34 5.2M Singapore
+35 5.0M Riyadh
+36 4.9M Khartoum
+37 4.5M Yangon
+38 4.4M Abidjan
+39 3.8M Accra
+40 3.8M Sydney
+41 3.7M Tanzania: Dar es Salaam
+42 3.5M Kenya: Nairobi
+43 3.4M Israel: Tel Aviv
+44 3.3M Afghanistan: Kabul
+45 3.3M Greece: Athens
+46 3.2M United Arab Emirates: Dubai
+47 3.2M Venezuela: Caracas
+48 3.2M Syria: Aleppo
+49 3.1M Ethiopia: Addis Abeba
+50 3.1M Senegal: Dakar
+51 3.1M Morocco: Casablanca
+52 3.1M Portugal: Lisbon
+53 2.9M Algeria: Algiers
+54 2.9M North Korea: Pyongyang
+55 2.8M Ukraine: Kiyev
+56 2.6M Jordan: Amman
+57 2.6M Mozambique: Maputo
+58 2.5M Poland: Katowice-Gliwice-Tychy
+59 2.5M Yemen: Sana
+60 2.5M Cameroon: Douala
+61 2.4M Tunisia: Tunis
+62 2.4M Kuwait: Kuwait
+63 2.3M Ecuador: Guayaquil
+64 2.3M Uzbekistan: Tashkent
+65 2.3M Haiti: Port-au-Prince
+66 2.2M Dominican Republic: Santo Domingo
+67 2.2M Paraguay: Ascunsion
+68 2.1M Sri Lanka: Colombo
+69 2.1M Panama: Panama City
+70 2.1M Cuba: Havana
+71 2.1M Netherlands: Rotterdam-Hague
+72 2.1M Mali: Bamako
+73 2.1M Azerbaijan: Baku
+74 2.1M Burkina Faso: Ouagadougou
+75 2.0M Lebanon: Beirut
+76 2.0M Madagascar: Antananarivo
+77 1.9M Romania: Bucharest
+78 1.9M Belgium: Brussels
+79 1.9M Belarus: Minsk
+80 1.8M Zambia: Lusaka
+81 1.8M Togo: Lome
+82 1.8M Guinea: Conakry
+83 1.7M Bolivia: La Paz
+84 1.7M Uganda: Kampala
+85 1.7M Hungary: Budapest
+86 1.7M Austria: Vienna
+87 1.7M Uruguay: Montevideo
+88 1.6M Congo (Rep.): Brazzaville
+89 1.6M Cambodia: Phhom Pehn
+90 1.6M El Salvador: San Salvador
+91 1.6M Zimbabwe: Harrare
+92 1.6M Somalia: Mogadishu
+93 1.5M Costa Rica: San Jose
+94 1.4M Kazakhstan: Almaty
+95 1.3M Armenia: Yerevan
+96 1.3M New Zealand: Auckland
+97 1.3M Sweden: Stockholm
+98 1.3M Czech Republic: Prague
+99 1.2M Guatemala: Guatemala City
+100 1.2M Denmark: Copenhagen
+101 1.2M Bulgaria: Sofia
+102 1.1M Niger: Niamey
+103 1.1M Libya: Tripoli
+104 1.1M Chad: Niamey
+105 1.1M Finland: Helsinki
+106 1.1M Ireland: Dublin
+107 1.1M Georgia: Tblisi
+108 1.1M Honduras: Tegucigalpa
+109 1.1M Serbia: Belgrade
+110 1.1M Mongolia: Ulaanbaatar
+111 1.1M Nepal: Kathmandu
+112 1.0M Rwanda: Kigali
+113 1.0M Liberia: Monrovia
+114 970k Nicaragua: Managua
+115 960k Sierra Leone: Freetown
+116 920k Norway: Oslo
+117 900k Benin: Cotonou
+118 880k Jamaica: Kingston
+119 860k Malawi: Blantyre
+120 830k Kyrgyzstan: Bishkek
+121 760k Laos: Vientienne
+122 750k Latvia: Riga
+123 740k Switzerland: Zurich
+124 720k Palestine: Gaza
+125 700k Croatia: Zagreb
+126 600k Dijibouti: Dijibouti
+127 600k Qatar: Doha
+128 600k Turkmenistan: Ashgabad
+129 560k Albania: Tirana
+130 550k Gabon: Libreville
+131 550k Lithuania: Vilnius
+132 550k Mauretania: Nouakchott
+133 550k Moldova: Chisinau
+134 550k Tajikistan: Dushanbe
+135 540k Oman: Muscat
+136 520k Bahrain: Al-Manamah
+137 520k Trinidad & Tobago: Port of Spain
+138 500k Central African Rep.: Bangui
+139 500k Eritrea: Asmara
+140 500k Gambia: Bangui
+141 450k Macedonia: Skopje
+142 400k Estonia: Talinn
+143 400k Slovakia: Bratislava
+144 350k Bosnia & Herzegovina: Sarajevo
+145 340k Guinea-Bissau: Bissau
+146 310k Burundi: Bujumbura
+147 300k Malta: Valetta
+148 280k Botswana: Gaborone
+149 240k Suriname: Paramaraibo
+150 230k Cyprus: Nicosia
+151 220k Namibia: Windhoek
+152 220k Slovenia: Ljubljana
+153 210k Bahamas: Nassau
+154 200k Lesotho: Meseru
+155 180k Iceland: Reykjavik
+156 180k Western Sahara: Laayoune
+157 170k East Timor: Dili
+158 140k Guyana: Gerogetown
+159 120k Serbia-Montenegro: Podgorica
+160 100k Equitorial Guinea: Malabo
+161 100k Luxembourg: Luxembourg
+162 100k Maldives: Male
+163 60k Comoros: Moroni
+164 45k Bhutan: Thimphu
+165 14k Greenland: Nuuk
