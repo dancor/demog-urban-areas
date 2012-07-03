@@ -4,7 +4,7 @@
 22M India: Delhi, DL-HR-UP
 22M Philippines: Manila
 21M China: Shanghai, SHG
-20M United States: New York, NY-NJ-CT
+20M USA: New York, NY-NJ-CT
 20M Brazil: Sao Paulo
 19M Mexico: Mexico City
 18M Egypt: Cairo
@@ -14,7 +14,7 @@
 17M China: Guangzhou-Foshan, GD
 16M Russia: Moscow
 15M Bangladesh: Dhaka
-15M United States: Los Angeles, CA
+15M USA: Los Angeles, CA
 14M India: Kolkota, WB
 14M Pakistan: Karachi
 14M Argentina: Buenos Aires
@@ -25,15 +25,15 @@
 11M France: Paris
 10M Japan: Nagoya
 9.1M Peru: Lima
-9.1M United States: Chicago, IL-IN-WI
-9.0M Congo (Dem. Rep.): Kinshasa
+9.1M USA: Chicago, IL-IN-WI
+9.0M DRCongo: Kinshasa
 8.9M China: Tianjin, TJ
 8.9M India: Chennai, TN
 8.7M Colombia: Bogota
 8.7M India: Bangalore, KAR
-8.6M United Kingdom: London
+8.6M UK: London
 8.3M China: Taiwan: Taipei
-8.3M Viet Nam: Ho Chi Minh City
+8.3M Vietnam: Ho Chi Minh City
 8.3M China: Dongguan, GD
 7.9M India: Hyderabad, AP
 7.9M China: Chengdu, SC
@@ -51,16 +51,16 @@
 6.1M Canada: Toronto, ON
 6.1M Malaysia: Kuala Lumpur
 6.0M Chile: Santiago
-5.9M United States: Dallas-Fort Worth, TX
-5.9M United States: San Francisco-San Jose, CA
+5.9M USA: Dallas-Fort Worth, TX
+5.9M USA: San Francisco-San Jose, CA
 5.8M China: Quanzhou, FJ
-5.6M United States: Miami, FL
+5.6M USA: Miami, FL
 5.6M China: Shenyang, LN
 5.5M Brazil: Belo Horizonte
-5.5M United States: Philadelphia, PA-NJ-DE-MD
+5.5M USA: Philadelphia, PA-NJ-DE-MD
 5.5M China: Nanjing, JS
 5.4M Spain: Madrid
-5.4M United States: Houston, TX
+5.4M USA: Houston, TX
 5.3M China: Xi'an, SAA
 5.2M Italy: Milan
 5.2M Angola: Luanda
@@ -69,24 +69,24 @@
 5.0M Saudi Arabia: Riyadh
 4.9M Sudan: Khartoum
 4.9M Russia: St. Petersburg
-4.7M United States: Atlanta, GA
+4.7M USA: Atlanta, GA
 4.7M India: Surat, GUJ
-4.7M United States: Washington, DC-VA-MD
+4.7M USA: Washington, DC-VA-MD
 4.7M Indonesia: Bandung
 4.6M Indonesia: Surabaya
 4.5M Myanmar: Yangon
 4.5M Egypt: Alexandria
 4.5M Mexico: Guadalajara
 4.5M China: Harbin, HL
-4.4M United States: Boston, MA-NH-RI
+4.4M USA: Boston, MA-NH-RI
 4.4M China: Zhengzhou, HEN
 4.4M China: Qingdao, SD
-4.4M Ivory Coast: Abidjan
+4.4M Côte d'Ivoire: Abidjan
 4.2M Spain: Barcelona
 4.2M Mexico: Monterey
 4.2M Turkey: Ankara
 4.2M China: Suzhou, JS
-4.1M United States: Phoenix, AZ
+4.1M USA: Phoenix, AZ
 4.0M Brazil: Salvador
 4.0M Brazil: Porto Alegre
 3.8M Italy: Rome
@@ -94,7 +94,7 @@
 3.8M Australia: Sydney, NSW
 3.8M Brazil: Recife
 3.7M Italy: Naples
-3.7M United States: Detroit, MI
+3.7M USA: Detroit, MI
 3.7M China: Dalian, LN
 3.7M China: Fuzhou, FJ
 3.7M Colombia: Medellin
@@ -118,14 +118,14 @@
 3.3M China: Xiamen, FJ
 3.3M Greece: Athens
 3.2M China: Ningbo, ZJ
-3.2M United Arab Emirates: Dubai
+3.2M UAE: Dubai
 3.2M Venezuela: Caracas
 3.2M Syria: Aleppo
 3.2M Brazil: Curitiba
 3.2M China: Changsha, HUN
 3.2M China: Changchun, JL
 3.1M India: Jaipur, RAJ
-3.1M United States: Seattle, WA
+3.1M USA: Seattle, WA
 3.1M Ethiopia: Addis Abeba
 3.1M Pakistan: Faisalabad
 3.1M Senegal: Dakar
@@ -133,7 +133,7 @@
 3.1M Portugal: Lisbon
 3.0M Pakistan: Rawalpindi-Islamabad
 3.0M Nigeria: Ibadan
-3.0M United States: San Diego, CA
+3.0M USA: San Diego, CA
 3.0M China: Shijiazhuang, HEB
 3.0M Bangladesh: Chittagong
 3.0M India: Kanpur, UP
@@ -150,7 +150,7 @@
 2.8M China: Taiwan: Kaohsiung
 2.7M Iran: Masbad
 2.7M Ghana: Kumasi
-2.7M United States: Minneapolis-St. Paul, MN-WI
+2.7M USA: Minneapolis-St. Paul, MN-WI
 2.7M China: Guiyang, GZ
 2.7M US: Puerto Rico: San Juan, PR
 2.7M Syria: Damascus
@@ -160,16 +160,16 @@
 2.6M Mozambique: Maputo
 2.6M Japan: Fukuoka
 2.6M India: Nagpur, MAH
-2.5M United States: Tampa-St. Petersburg, FL
+2.5M USA: Tampa-St. Petersburg, FL
 2.5M Brazil: Campinas
-2.5M Poland: Katowice-Gliwice-Tychy
+2.5M Poland: Katowice
 2.5M Yemen: Sana
-2.5M Viet Nam: Hanoi
+2.5M Vietnam: Hanoi
 2.5M Cameroon: Douala
 2.5M China: Lanzhou, GS
 2.5M South Africa: Pretoria (Tshwane)
 2.5M Colombia: Cali
-2.4M United States: Denver, CO
+2.4M USA: Denver, CO
 2.4M Cameroon: Yaounde
 2.4M China: Nanchang, JX
 2.4M Tunisia: Tunis
@@ -181,22 +181,22 @@
 2.3M China: Shantou, GD
 2.3M Venezuela: Maracaibo
 2.3M Germany: Frankfurt
-2.3M United Kingdom: Birmingham
+2.3M UK: Birmingham
 2.3M Uzbekistan: Tashkent
 2.3M China: Zhongshan, GD
 2.3M Haiti: Port-au-Prince
 2.3M China: Zhangjiaggang-Jiangyin, (Suzhou-Wuxi) JS
 2.2M Nigeria: Abuja
-2.2M United Kingdom: Manchester
+2.2M UK: Manchester
 2.2M China: Nanning, GX
-2.2M United States: Baltimore, MD
+2.2M USA: Baltimore, MD
 2.2M Dominican Republic: Santo Domingo
 2.2M India: Indore, MP
 2.2M Indonesia: Medan
 2.2M China: Chaoyang-Chaonan (Shantou,) GD
 2.2M India: Coimbatore, TN
 2.2M India: Kalyan, MAH
-2.2M United States: St. Louis, MO-IL
+2.2M USA: St. Louis, MO-IL
 2.2M India: Kochi, KER
 2.2M Paraguay: Ascunsion
 2.2M Canada: Vancouver, BC
@@ -219,15 +219,15 @@
 2.0M Lebanon: Beirut
 2.0M Madagascar: Antananarivo
 2.0M Japan: Kitakyushu
-2.0M United States: Las Vegas, NV
+2.0M USA: Las Vegas, NV
 1.9M China: Hohhot, NM
 1.9M Nigeria: Port Harcourt
 1.9M Romania: Bucharest
 1.9M Belgium: Brussels
 1.9M India: Bhopal, MP
 1.9M Colombia: Barranquilla
-1.9M United States: Portland, OR-WA
-1.9M United States: Orlando, FL
+1.9M USA: Portland, OR-WA
+1.9M USA: Orlando, FL
 1.9M Brazil: Manaus
 1.9M Venezuela: Valencia
 1.9M India: Vadodara. GUJ
@@ -235,7 +235,7 @@
 1.9M India: Thrissur, KER
 1.9M Morocco: Rabat
 1.8M China: Huaiyin, JS
-1.8M United States: San Antonio, TX
+1.8M USA: San Antonio, TX
 1.8M Pakistan: Multan
 1.8M Indonesia: Semarang
 1.8M Pakistan: Gujranwala
@@ -247,9 +247,9 @@
 1.8M Germany: Hamburg
 1.8M India: Agra, UP
 1.8M Guinea: Conakry
-1.8M United States: Sacramento, CA
+1.8M USA: Sacramento, CA
 1.8M India: Visakhpatnam.AP
-1.8M United States: Cleveland, OH
+1.8M USA: Cleveland, OH
 1.7M Pakistan: Hyderabad
 1.7M Bolivia: La Paz
 1.7M Uganda: Kampala
@@ -258,7 +258,7 @@
 1.7M Hungary: Budapest
 1.7M Austria: Vienna
 1.7M India: Thiruvananthapuram, KL
-1.7M United States: Pittsburgh, PA
+1.7M USA: Pittsburgh, PA
 1.7M Bolivia: Santa Cruz
 1.7M Poland: Warsaw
 1.7M Turkey: Bursa
@@ -272,10 +272,10 @@
 1.6M India: Ludhiana, PU
 1.6M Mexico: Leon
 1.6M India: Kannur, KER
-1.6M Congo (Rep.): Brazzaville
+1.6M RCongo: Brazzaville
 1.6M Cambodia: Phhom Pehn
-1.6M Congo (Dem. Rep.): Lumumbashi
-1.6M United States: Cincinnati, OH--KY--IN
+1.6M DRCongo: Lumumbashi
+1.6M USA: Cincinnati, OH--KY--IN
 1.6M El Salvador: San Salvador
 1.6M China: Jilin, JL
 1.6M China: Haikou, HA
@@ -291,14 +291,14 @@
 1.6M Pakistan: Peshawar
 1.6M Argentina: Cordoba
 1.5M China: Anshan, LN
-1.5M United States: Kansas City, MO-KS
-1.5M United Kingdom: Leeds-Bradford
+1.5M USA: Kansas City, MO-KS
+1.5M UK: Leeds-Bradford
 1.5M Saudi Arabia: Mecca
 1.5M Iraq: Mosul
 1.5M China: Yangzhou, JS
 1.5M India: Vijayawada. AP
 1.5M Iran: Tabriz
-1.5M United States: Indianapolis, IN
+1.5M USA: Indianapolis, IN
 1.5M Costa Rica: San Jose
 1.5M Indonesia: Palembang
 1.5M South Korea: Daejeon
@@ -312,18 +312,18 @@
 1.5M India: Varanasi.UP
 1.5M Turkey: Adana
 1.5M India: Meerut, UP
-1.5M United States: Virginia Beach-Norfolk, VA
+1.5M USA: Virginia Beach-Norfolk, VA
 1.4M Malaysia: Penang
 1.4M Ukraine: Kharkov
-1.4M Congo (Dem. Rep.): Mjubi Mayi (Bakwanga)
-1.4M United States: Austin, TX
+1.4M DRCongo: Mjubi Mayi (Bakwanga)
+1.4M USA: Austin, TX
 1.4M India: Rajkot, GUJ
 1.4M Kazakhstan: Almaty
 1.4M China: Weifang, SD
 1.4M Nigeria: Benin City
-1.4M United States: Columbus, OH
+1.4M USA: Columbus, OH
 1.4M China: Fushun, LN
-1.4M United States: Milwaukee, WI
+1.4M USA: Milwaukee, WI
 1.4M China: Kunshan (Suzhou), JS
 1.4M India: Jamshedpur, JHA
 1.4M China: Xuzhou, JS
@@ -336,7 +336,7 @@
 1.3M Japan: Sendai
 1.3M Brazil: Natal
 1.3M Japan: Hiroshima
-1.3M United States: Charlotte, NC-SC
+1.3M USA: Charlotte, NC-SC
 1.3M Brazil: SaO Luis
 1.3M India: Srinigar, JK
 1.3M Armenia: Yerevan
@@ -361,12 +361,12 @@
 1.2M India: Aurangabad, MH
 1.2M India: Amritsar, PU
 1.2M Brazil: Maceio
-1.2M United Kingdom: Glasgow
+1.2M UK: Glasgow
 1.2M China: Cixi (Ningbo), ZJ
 1.2M China: Qiqihar, HL
 1.2M Guatemala: Guatemala City
 1.2M Turkey: Gaziantep
-1.2M United States: Providence, RI-MA
+1.2M USA: Providence, RI-MA
 1.2M Brazil: Joao Pessoa
 1.2M Denmark: Copenhagen
 1.2M Bulgaria: Sofia
@@ -400,7 +400,7 @@
 1.1M Honduras: Tegucigalpa
 1.1M China: Xiangyang, HUB
 1.1M India: Vasai-Virar, MAH
-1.1M United States: Jacksonville, FL
+1.1M USA: Jacksonville, FL
 1.1M Morocco: Fez
 1.1M Serbia: Belgrade
 1.1M China: Huainan, AH
@@ -413,14 +413,14 @@
 1.1M Brazil: Joinville
 1.1M Myanmar: Nay Pyi Taw
 1.1M Mongolia: Ulaanbaatar
-1.1M United States: Memphis, TN-MS-AR
+1.1M USA: Memphis, TN-MS-AR
 1.1M Iran: Qom
 1.1M South Africa: Port Elizabeth (N. Mandela)
 1.1M Israel: Haifa
 1.1M China: Dongying, SD
 1.1M China: Jiamusi, HL
 1.1M Nepal: Kathmandu
-1.1M United States: Salt Lake City, UT
+1.1M USA: Salt Lake City, UT
 1.1M Turkey: Konya
 1.1M Iraq: Erbil
 1.0M France-Belgium: Lille
@@ -442,7 +442,7 @@
 1.0M Rwanda: Kigali
 1.0M India: Mysore, KAR
 1.0M Ukraine: Odessa
-1.0M United States: Nashville, TN
+1.0M USA: Nashville, TN
 1.0M India: Bareilly, UP
 1.0M China: Putian, FJ
 1.0M Japan: Hamamatsu
@@ -452,9 +452,9 @@
 1.0M Russia: Volgograd
 990k India: Guwahati, AS
 990k Russia: Perm
-990k United States: Louisville, KY-IN
+990k USA: Louisville, KY-IN
 990k Colombia: Cartagena
-980k United States: Richmond, VA
+980k USA: Richmond, VA
 980k China: Changshu (Suzhou), JS
 980k China: Zhanjiang, GD
 970k India: Solapur, MAH
@@ -481,19 +481,19 @@
 940k India: Salem, TN
 940k Saudi Arabia: Damman
 940k China: Fuxin, LN
-930k United States: Raleigh, NC
+930k USA: Raleigh, NC
 930k China: Bengbu, AH
-930k United States: Hartford, CT
+930k USA: Hartford, CT
 930k India: Aligarh, UP
 930k Pakistan: Quetta
-920k United States: Buffalo, NY
+920k USA: Buffalo, NY
 920k Brazil: Teresina
 920k Norway: Oslo
 920k China: Jaingmen, GD
 920k China: Shaoguan, GD
-920k Congo (Dem. Rep.): Kananga
+920k DRCongo: Kananga
 910k China: Puning (Jieyang,) GD
-910k United States: New Orleans, LA
+910k USA: New Orleans, LA
 910k France: Toulouse
 910k Nigeria: Onitsha
 910k Poland: Lodz
@@ -506,15 +506,15 @@
 900k China: Guilin, GX
 900k Indonesia: Padang
 890k China: Pingdingshan, HEN
-890k United Kingdom: Newcastle upon Tyne
+890k UK: Newcastle upon Tyne
 890k India: Moradabad, UP
-890k Ivory Coast: Yamoussoukro
+890k Côte d'Ivoire: Yamoussoukro
 890k China: Benxi, LN
 890k Indonesia: Bandar Lampung
 880k China: Mudanjiang, HL
 880k China: Hengyang, HUN
 880k India: Bhubaveswar, OR
-880k United States: Oklahoma City, OK
+880k USA: Oklahoma City, OK
 880k Russia: Voronezh
 880k Chile: Valparaiso-Vina del Mar
 880k Italy: Palermo
@@ -528,7 +528,7 @@
 860k Malawi: Blantyre
 860k Mexico: Chihuahua
 860k Mexico: Culiacan
-850k United States: Tucson, AZ
+850k USA: Tucson, AZ
 850k France: Bordeaux
 840k Mexico: Saltillo
 840k China: Jinzhou, LN
@@ -536,24 +536,24 @@
 840k Iraq: Sulaymaniyah
 840k Nigeria: Ilorin
 830k Kyrgyzstan: Bishkek
-830k Viet Nam: Haiphong
+830k Vietnam: Haiphong
 820k Indonesia: Malang
 820k Italy: Florence
-820k United Kingdom: Liverpool
+820k UK: Liverpool
 820k China: Baoji, SAA
-810k Congo (Rep.): Pointe Noire
+810k RCongo: Pointe Noire
 810k Spain: Valencia
 810k Brazil: Cuiaba
-810k United States: El Paso, TX-NM
+810k USA: El Paso, TX-NM
 810k Indonesia: Pekan Baru
 810k Nigeria: Enugu
 800k Algeria: Wahran
-800k United States: Honolulu, HI
+800k USA: Honolulu, HI
 800k Brazil: Londrina
 800k China: Rizhao, SD
 800k Japan: Niigata
-800k United Arab Emirates: Abu Dhabi
-800k Viet Nam: Da Nang
+800k UAE: Abu Dhabi
+800k Vietnam: Da Nang
 800k China: Jiaozuo, HEN
 800k Russia: Saratov
 800k Brazil: Campo Grande
@@ -561,13 +561,13 @@
 790k Morocco: Agadir
 790k Morocco: Tangier
 790k Peru: Arequippa
-780k Congo (Dem. Rep.): Kisangani
+780k DRCongo: Kisangani
 780k Israel: Jerusalem
 780k Venezuela: Ciudada Guayana
 780k China: Zaozhuang, SD
 780k Brazil: Sorocaba
 780k Colombia: Cucuta
-780k Ivory Coast: Bouake
+780k Côte d'Ivoire: Bouake
 780k Japan: Otsu
 780k Poland: Gdansk
 770k Ukraine: Zaporizhzhya
@@ -578,7 +578,7 @@
 760k Laos: Vientienne
 760k Mexico: Tampico
 760k Poland: Krakow
-760k United States: Birmingham, AL
+760k USA: Birmingham, AL
 750k China: Dandong, LN
 750k China: Tainan, SD
 750k Indonesia: Denpasar
@@ -588,24 +588,24 @@
 750k Spain: Seville
 750k Ukraine: Kryvyy Rih
 750k Ukraine: Lviv
-750k United States: Albuquerque, NM
+750k USA: Albuquerque, NM
 750k Brazil: Aracaju
 740k Switzerland: Zurich
 740k Syria: Hims
 740k Malawi: Lilonge
 740k Russia: Krasnodar
-740k United States: McAllen, TX
+740k USA: McAllen, TX
 740k Yemen: Aden
 740k China: Yancheng, JS
 740k India: Bhiwandi, MAH
 730k Algeria: Constantine
 730k Mexico: Reynosa
-730k United States: Omaha, NE-IA
+730k USA: Omaha, NE-IA
 720k Germany: Hannover
 720k Palestine: Gaza
-720k United States: Dayton, OH
+720k USA: Dayton, OH
 720k Italy: Catania
-720k United States: Rochester, NY
+720k USA: Rochester, NY
 710k India: Dehradun, UTL
 710k Japan: Fuji
 710k Russia: Tojatti
@@ -631,13 +631,13 @@
 670k Canada: Winnipeg, MB
 670k India: Jammu, JK
 670k China: Yueyang, HUN
-670k United Kingdom: Nottingham
-660k United States: Allentown, PA--NJ
-660k United States: Fresno, CA
+670k UK: Nottingham
+660k USA: Allentown, PA--NJ
+660k USA: Fresno, CA
 660k Chile: Concepcion
 660k China: Jieyang, GD
 660k India: Cuttack, OR
-660k United States: Tulsa, OK
+660k USA: Tulsa, OK
 660k China: Xiangfan, HUB
 650k India: Pudacherry, PUD
 650k Iran: Eslamshahr
@@ -653,12 +653,12 @@
 650k Japan: Okayama
 650k Mexico: Morelia
 650k South Africa: East London (Buffalo City)
-650k United States: Sarasota, FL
+650k USA: Sarasota, FL
 650k Zimbabwe: Bulawayo
 650k China: Leshan, SC
 650k India: Bikaner, RAJ
 650k India: Amravati, MAH
-640k United Kingdom: Sheffield
+640k UK: Sheffield
 640k Germany: Dresden
 640k Yemen: Al-Hudaydah
 630k China: Yingkou, LN
@@ -667,7 +667,7 @@
 620k Malaysia: Ipoh
 620k Mexico: Villahermosa
 620k South Korea: Cheongju
-620k United States: Springfield, MA-CT
+620k USA: Springfield, MA-CT
 620k India: Mangalore, KAR
 620k Philippines: Zamboanga
 620k Russia: Izevsk
@@ -679,7 +679,7 @@
 600k China: Changzhi, SAA
 600k China: Jining, SD
 600k Brazil: Ribiero Preto
-600k Dijibouti: Dijibouti
+600k Djibouti: Djibouti
 600k India: Jamnagar.GUJ
 600k Indonesia: Banjarmasin
 600k Indonesia: Tasikmalaya
@@ -696,8 +696,8 @@
 600k Turkey: Mersin
 600k Turkmenistan: Ashgabad
 600k Uzbekistan: Samarkand
-600k United States: Baton Rouge, LA
-600k United States: Albany, NY
+600k USA: Baton Rouge, LA
+600k USA: Albany, NY
 600k China: Huangshi, HUB
 590k China: Lufeng (Shanwei), GD
 590k Russia: Vladivostock
@@ -715,31 +715,31 @@
 580k Japan: Nagano
 580k Russia: Jaroslavl
 580k Turkey: Diyarbakir
-570k United States: Grand Rapids, MI
+570k USA: Grand Rapids, MI
 570k Germany: Liepzig
 570k India: Hubli, KL
 570k Russia: Chabarovsk
 570k Russia: Machackala
 570k Turkey: Eskisehir
-570k United States: Akron, OH
+570k USA: Akron, OH
 570k France: Nantes
-560k United States: Colorado Springs, CO
-560k United States: Knoxville, TN
+560k USA: Colorado Springs, CO
+560k USA: Knoxville, TN
 560k India: Bokaro Steel City, JHA
 560k India: Kolhapur, MAH
 560k Albania: Tirana
 560k China: Macau, AO
 560k China: Yangquan, SAX
 560k Iran: Zahedan
-550k United States: Charleston, SC
-550k United States: Columbia, SC
+550k USA: Charleston, SC
+550k USA: Columbia, SC
 550k China: Fuyang, AH
 550k India: Raurkela, OR
-550k United States: Ogden, UT
+550k USA: Ogden, UT
 550k China: Mianyang, SC
 550k China: Xinyang, HEN
 550k India: Ajmer, RAJ
-550k United Kingdom: Bristol
+550k UK: Bristol
 550k Belgium: Liege
 550k Egypt: Port Said
 550k Gabon: Libreville
@@ -758,12 +758,12 @@
 540k Oman: Muscat
 540k China: Xinyu, JX
 540k France: Toulon
-540k United States: Cape Coral, FL
+540k USA: Cape Coral, FL
 540k India: Gulbarga, KAR
 540k Japan: Kagoshima
 540k Russia: Novokuzneck
 540k Russia: Orenburg
-530k United States: Bakersfield, CA
+530k USA: Bakersfield, CA
 530k Russia: Kemerovo
 520k Argentina: Salta
 520k Bahrain: Al-Manamah
@@ -797,18 +797,18 @@
 510k Russia: Penza
 510k Sweden: Goteborg
 510k Bangladesh: Rajshahi
-510k United States: Toledo, OH-MI
+510k USA: Toledo, OH-MI
 500k China: Zhangzhou, FJ
 500k Argentina: Santa Fe
 500k Belarus: Gomel
 500k Brazil: Maringa
-500k Central African Rep.: Bangui
+500k CAR: Bangui
 500k China: Lhasa, TIB
 500k China: Luohe, HEN
 500k China: Zhuji, (Shaoxing), ZJ
 500k Colombia: Pereira
-500k Congo (Dem. Rep.): Goma
-500k Congo (Dem. Rep.): Kolwezi
+500k DRCongo: Goma
+500k DRCongo: Kolwezi
 500k Dominican Republic: Santiago
 500k Egypt: Suez
 500k Eritrea: Asmara
@@ -842,24 +842,24 @@
 500k China: Shangqui, HEN
 500k China: Xingtai, HEB
 490k China: Langfang, HEB-TJ
-490k United States: Provo, UT
-490k United States: Worcester, MA-CT
+490k USA: Provo, UT
+490k USA: Worcester, MA-CT
 490k China: Zigong, SC
-480k United Kingdom: Belfast
+480k UK: Belfast
 480k China: Shaoyang, HUN
 480k Czech Republic: Ostrava
 480k Japan: Yamaguchi
-480k United States: Wichita, KS
+480k USA: Wichita, KS
 470k Russia: Kirov
 460k China: Maanshan, AH
 460k China: Anshun, GZ
-460k United States: Murrieta, CA
-460k United Kingdom: Brighton
+460k USA: Murrieta, CA
+460k UK: Brighton
 460k Japan: Nagasaki
 460k China: Wuhu, AH
-460k United States: Palm Bay, FL
+460k USA: Palm Bay, FL
 460k Australia: Gold Coast, QLD-NSW
-460k United States: Des Moines, IA
+460k USA: Des Moines, IA
 450k Argentina: San Juan
 450k China: Zunyi, GX
 450k Colombia: Ibague
@@ -871,16 +871,16 @@
 450k Malaysia: Kuching
 450k Netherlands: Haarlem
 450k Pakistan: Bahawalpur
-450k United States: Harrisburg, PA
+450k USA: Harrisburg, PA
 440k Canada: Kitchener, ON
-440k United Kingdom: Portsmouth
-440k United Kingdom: Leicester
+440k UK: Portsmouth
+440k UK: Leicester
 440k China: Shiyan, HUB
 440k China: Liaoyuan, JL
-430k United States: Little Rock, AR
+430k USA: Little Rock, AR
 430k Japan: Wakayama
 430k France: Strasbourg
-430k United States: Poughkeepsie, NY-NJ
+430k USA: Poughkeepsie, NY-NJ
 420k Burkina Faso: Bobo-Dioulasso
 420k China: Pingxiang, GX
 420k China: Taicang (Suzhou), JS
@@ -888,7 +888,7 @@
 420k Japan: Kochi
 420k Pakistan: Sukkur
 420k Russia: Kaliningrad
-420k United Kingdom: Edinburgh
+420k UK: Edinburgh
 420k China: Ganzhou, JX
 420k China: Huizhou, GD
 420k China: Jiujiang, JX
@@ -896,17 +896,17 @@
 420k Italy: Venice
 420k France: Grenoble
 420k China: Shuangyashan, HL
-410k United States: Syracuse, NY
+410k USA: Syracuse, NY
 410k Japan: Kurume
 410k Japan: Oita
 410k Russia: Kursk
 410k China: Tianshui, GS
 410k China: Jinxi, LN
 400k China: Chaoyang, LN
-400k United States: Madison, WI
-400k United States: Lancaster, PA
+400k USA: Madison, WI
+400k USA: Lancaster, PA
 400k China: Jixi, HL
-400k United States: Greenville, SC
+400k USA: Greenville, SC
 400k China: Heze, SD
 400k China: Jinhua, ZJ
 400k China: Loudi, HUN
@@ -925,57 +925,57 @@
 400k Russia: Magnitogorsk
 400k Russia: Tver
 400k Slovakia: Bratislava
-400k United States: Reno, NV-CA
+400k USA: Reno, NV-CA
 400k China: Songyuan, JL
-390k United States: Winston-Salem, NC
-390k United States: Spokane, WA
+390k USA: Winston-Salem, NC
+390k USA: Spokane, WA
 390k China: Fuyang (Hangzhou), ZJ
 390k France: Rouen
 390k Russia: Stavropol
-390k United States: Augusta, GA--SC
-390k United States: Youngstown, OH-PA
+390k USA: Augusta, GA--SC
+390k USA: Youngstown, OH-PA
 380k China: Cangzhou, HEB
 380k China: Puyang, HEN
 380k China: Xucheng, HEN
 380k China: Yiyang, HUN
 380k Colombia: Santa Marta
-380k United Kingdom: Bournemouth
-380k United States: Chattanooga, TN-GA
-380k United States: Port St. Lucie, FL
-380k United States: Scranton, PA
+380k UK: Bournemouth
+380k USA: Chattanooga, TN-GA
+380k USA: Port St. Lucie, FL
+380k USA: Scranton, PA
 380k China: Yulin, GX
 380k China: Jiaojiang (Taizhou), ZJ
 380k China: Yangi, JL
 380k India: Gaya, BR
 380k Mexico: Mazatlan
 380k Russia: Archangelsk
-380k United Arab Emirates: Al Ain
-380k United States: Stockton, CA
+380k UAE: Al Ain
+380k USA: Stockton, CA
 370k China: Korla, XJ
 370k China: Laiwu, SD
 370k China: Tonghua, JL
 370k Germany: Bielefeld
-370k United Kingdom: Reading
+370k UK: Reading
 370k India: Kakinada, AP
-370k United States: Oxnard, CA
+370k USA: Oxnard, CA
 370k Canada: London, ON
 370k China: Zhaotong, YN
 360k China: Baicheng, JL
-360k United Kingdom: Middlesborough (Teeside)
-360k United Kingdom: Stoke-on-Trent
-360k United States: Indio, CA
-360k United States: Modesto, CA
+360k UK: Middlesborough (Teeside)
+360k UK: Stoke-on-Trent
+360k USA: Indio, CA
+360k USA: Modesto, CA
 360k China: Akesu, XJ
 360k Germany: Augsburg
 360k France: Valenciennes
 360k Australia: Canberra, ACT-NSW
-360k United States: Boise City, ID
+360k USA: Boise City, ID
 360k China: Yining, XJ
-360k United States: Flint, MI
-350k United States: Jackson, MS
-350k United States: Lancaster, CA
-350k United States: Palm Coast, FL
-350k United States: Durham, NC
+360k USA: Flint, MI
+350k USA: Jackson, MS
+350k USA: Lancaster, CA
+350k USA: Palm Coast, FL
+350k USA: Durham, NC
 350k Austria: Graz
 350k Belgium: Ghent
 350k Bosnia & Herzegovina: Sarajevo
@@ -994,16 +994,16 @@
 350k Syria: Hamah
 340k China: Anging, AH
 340k China: Weihei, SD
-340k United States: Victorville, CA
-340k United States: Pensacola, FL-AL
+340k USA: Victorville, CA
+340k USA: Pensacola, FL-AL
 340k Guinea-Bissau: Bissau
-340k United Kingdom: Coventry
+340k UK: Coventry
 340k China: Kashi, XJ
 330k France: Nancy
 330k China: Jinzhong, SAX
 330k China: Neijiang, SC
-330k United Kingdom: Cardiff
-330k United States: Mobile, AL
+330k UK: Cardiff
+330k USA: Mobile, AL
 320k China: Chenzhou, HUN
 320k China: Tieling (Shenyang), LN
 320k China: Wuhai, NM
@@ -1013,28 +1013,28 @@
 320k Russia: Ulan Ude
 320k Ukraine: Sebastopol
 320k France: Metz
-320k United States: Corpus Christi, TX
+320k USA: Corpus Christi, TX
 320k China: Dezhou, SD
 320k China: Shaoyang, LN
 320k Russia: Smolensk
-320k United Kingdom: Birkenhead
+320k UK: Birkenhead
 320k Uzbekistan: Andijon
 320k Nigeria: Ogbomosho
 320k Canada: Victoria, BC
 320k Japan: Toyama
-310k United States: Fort Wayne, IN
-310k United States: Greensboro, NC
-310k United States: Lansing, MI
-310k United States: Bonita Springs, FL
+310k USA: Fort Wayne, IN
+310k USA: Greensboro, NC
+310k USA: Lansing, MI
+310k USA: Bonita Springs, FL
 310k Burundi: Bujumbura
 310k China: Chengde, HEB
 310k China: Zhaoqing, GD
-310k United States: Fayetteville, NC
+310k USA: Fayetteville, NC
 310k Canada: St. Catharines, ON
-310k United States: Ann Arbor, MI
-310k United States: Santa Rosa, CA
-300k United Kingdom: Southamption
-300k United Kingdom: Kingston
+310k USA: Ann Arbor, MI
+310k USA: Santa Rosa, CA
+300k UK: Southamption
+300k UK: Kingston
 300k Azerbaijan: Ganca
 300k Brazil: Rio Branco
 300k China: Acheng, HL
@@ -1050,31 +1050,31 @@
 300k Malta: Valetta
 300k North Korea: Sinuju
 300k Russia: Murmansk
-300k United States: Fayetteville, AR-MO
+300k USA: Fayetteville, AR-MO
 300k Uzbekistan: Bukhara
 300k Uzbekistan: Namangan
-300k United States: Rockford, IL
-300k United States: Shreveport LA
+300k USA: Rockford, IL
+300k USA: Shreveport LA
 300k US: Puerto Rico: Aguadilla, PR
 300k Canada: Halifax, NS
 300k France: Tours
 300k China: Tongling, AH
 290k France: Saint-Etienne
-290k United States: Lexington, KY
+290k USA: Lexington, KY
 290k China: Taizhou, ZJ
 290k China: Yongkang (Jinhua), ZJ
 290k Japan: Hakodate
-290k United States: Huntsville, AL
+290k USA: Huntsville, AL
 290k Australia: Newcastle, NSW
 290k France: Montpellier
 280k Australia: Central Coast, NSW
-280k United States: Asheville, NC
+280k USA: Asheville, NC
 280k Germany: Kiel
-280k United States: Davenport, IA-IL
-280k United States: Canton, OH
-280k United States: Antioch, CA
-280k United States: South Bend, IN-MI
-280k United States: Springfield, MO
+280k USA: Davenport, IA-IL
+280k USA: Canton, OH
+280k USA: Antioch, CA
+280k USA: South Bend, IN-MI
+280k USA: Springfield, MO
 280k Canada: Windsor, ON
 280k Austria & Germany: Salzburg
 280k Azerbaijan: Sumqayit
@@ -1082,55 +1082,55 @@
 280k Chile: Antofagasta
 270k China: Tongliao, NM
 270k France: Rennes
-270k United Kingdom: Swansea
+270k UK: Swansea
 270k China: Xiantao, HEB
-270k United Kingdom: Southend
-270k United States: Reading, PA
-270k United States: Fort Collins, CO
-270k United States: Lakeland, FL
-270k United States: Peoria, IL
-270k United States: Santa Clarita, CA
-260k United Kingdom: Preston
-260k United States: Montgomery, AL
-260k United States: Savannah, GA
+270k UK: Southend
+270k USA: Reading, PA
+270k USA: Fort Collins, CO
+270k USA: Lakeland, FL
+270k USA: Peoria, IL
+270k USA: Santa Clarita, CA
+260k UK: Preston
+260k USA: Montgomery, AL
+260k USA: Savannah, GA
 260k France: Orleans
 260k China: Yichun, JX
-260k United Kingdom: Blackpool
-260k United States: Lincoln, NE
+260k UK: Blackpool
+260k USA: Lincoln, NE
 260k China: Dongyang (Jinhua), ZJ
 260k Germany: Magdeburg
 260k Mexico: Coatzacoalcos
 260k France: Bethune
 260k France: Clermont-Ferrand
 260k Sweden: Malmo
-260k United States: Lafayette, LA
+260k USA: Lafayette, LA
 250k France: Avignon
-250k United States: Columbus, GA-AL
-250k United States: Anchorage, AK
+250k USA: Columbus, GA-AL
+250k USA: Anchorage, AK
 250k Brazil: Boa Vista
 250k Chile: Temuco
 250k China: Hailar, NM
 250k China: Hunjiang, JL
 250k China: Shangzhi, HL
-250k Congo (Dem. Rep.): Bukava
+250k DRCongo: Bukava
 250k Denmark: Arhus
 250k France: Le Havre
-250k United States: Atlantic City, NJ
-250k United States: Eugene, OR
-250k United States: Barnstable Town, MA
-240k United States: Tallahassee, FL
+250k USA: Atlantic City, NJ
+250k USA: Eugene, OR
+250k USA: Barnstable Town, MA
+240k USA: Tallahassee, FL
 240k China: Shanwei, GD
 240k Russia: Dzerzhinsk
 240k Suriname: Paramaraibo
-240k United States: Laredo, TX
-240k United States: Salem, OR
-240k United States: Lubbock, TX
+240k USA: Laredo, TX
+240k USA: Salem, OR
+240k USA: Lubbock, TX
 240k France: Dijon
 230k Australia: Wollongong, NSW
 230k France: Mulhouse
-230k United States: York, PA
+230k USA: York, PA
 230k Cyprus: Nicosia
-230k United States: Evansville, IN-KY
+230k USA: Evansville, IN-KY
 230k France: Angers
 230k Norway: Bergen
 220k Finland: Tampere
@@ -1140,35 +1140,35 @@
 220k Russia: Yakutsk
 220k Slovenia: Ljubljana
 220k Turkey: Tarsus
-220k United States: Wilmington, NC
+220k USA: Wilmington, NC
 220k Canada: Saskatoon, SK
-220k United States: Visalia, CA
+220k USA: Visalia, CA
 220k China: Lanxi (Jinhua), ZJ
 220k China: Suqian, JS
-220k United States: Brownsville, TX
-220k United States: Killeen, TX
-220k United States: Myrtle Beach, SC-NC
+220k USA: Brownsville, TX
+220k USA: Killeen, TX
+220k USA: Myrtle Beach, SC-NC
 220k France: Reims
-220k United States: Appleton, WI
-220k United States: Thousand Oaks, CA
+220k USA: Appleton, WI
+220k USA: Thousand Oaks, CA
 220k Switzerland: Berne
-220k United States: Concord, NC
-210k United States: Aberdeen, MD
-210k United States: Kennewick, WA
-210k United States: Hickory, NC
-210k United States: Roanoke, VA
+220k USA: Concord, NC
+210k USA: Aberdeen, MD
+210k USA: Kennewick, WA
+210k USA: Hickory, NC
+210k USA: Roanoke, VA
 210k Bahamas: Nassau
 210k China: Hengshui, HEB
 210k France: Brest
 210k Germany: Frieburg
 210k Russia: Blagoveshchensk
-210k United States: Kalamazoo, MI
-210k United States: Gulfport, MS
-210k United States: Norwich, CT-RI
-210k United States: Green Bay, WI
-200k United States: Portland, ME
-200k United States: Huntington, WV-KY-OH
-200k United States: Winter Haven, FL
+210k USA: Kalamazoo, MI
+210k USA: Gulfport, MS
+210k USA: Norwich, CT-RI
+210k USA: Green Bay, WI
+200k USA: Portland, ME
+200k USA: Huntington, WV-KY-OH
+200k USA: Winter Haven, FL
 200k China: Anda, HL
 200k China: Anqiu, SD
 200k China: Guiyuan, NX
@@ -1180,228 +1180,228 @@
 200k Ireland: Cork
 200k Lesotho: Meseru
 200k France: Caen
-200k United States: Bremerton, WA
-200k United States: Amarillo, TX
-200k United Kingdom: Northampton
-200k United States: Erie, PA
-200k United States: Santa Barbara, CA
+200k USA: Bremerton, WA
+200k USA: Amarillo, TX
+200k UK: Northampton
+200k USA: Erie, PA
+200k USA: Santa Barbara, CA
 200k China: Yichun, HL
 200k France: Le Mans
-200k United Kingdom: Norwich
-200k United States: Waterbury, CT
+200k UK: Norwich
+200k USA: Waterbury, CT
 200k US: Puerto Rico: Ponce, PR
 190k Canada: Regina,SK
-190k United Kingdom: Aberdeen
-190k United States: Fort Walton Beach, FL
+190k UK: Aberdeen
+190k USA: Fort Walton Beach, FL
 190k France: Dunkerque
 190k Egypt: Luzor
 190k Mexico: Nogales
-190k United States: Gainesville, FL
+190k USA: Gainesville, FL
 190k Norway: Stavenger
 180k Australia: Sunshine Coast, QLD
 180k Iceland: Reykjavik
-180k United Kingdom: Milton Keynes
-180k United States: Salinas, CA
-180k United States: Deltona, FL
-180k United Kingdom: Sunderland
-180k United States: Hagerstown, MD--WV--PA
-180k United States: Spartanburg, SC
+180k UK: Milton Keynes
+180k USA: Salinas, CA
+180k USA: Deltona, FL
+180k UK: Sunderland
+180k USA: Hagerstown, MD--WV--PA
+180k USA: Spartanburg, SC
 180k France: Pau
-180k United States: Lorain, OH
+180k USA: Lorain, OH
 180k China: Hebi, HEN
-180k United Kingdom: Crawley
+180k UK: Crawley
 180k Western Sahara: Laayoune
 180k France: Bayonne
-180k United States: Cedar Rapids, IA
-180k United States: Olympia, WA
-180k United States: Fargo, ND--MN
+180k USA: Cedar Rapids, IA
+180k USA: Olympia, WA
+180k USA: Fargo, ND--MN
 180k China: Liuan, AH
 180k Argentina: Comodora Rivadavia
 180k Brazil: Santarem
 170k France: Limoges
-170k United States: Waco, TX
+170k USA: Waco, TX
 170k China: Suining, SC
-170k United States: College Station, TX
+170k USA: College Station, TX
 170k East Timor: Dili
 170k India: Bahadurgarh, HAR
-170k United States: North Port, FL
-170k United States: Gastonia, NC--SC
+170k USA: North Port, FL
+170k USA: Gastonia, NC--SC
 170k Canada: Barrie, ON
-170k United Kingdom: Wigan
-170k United States: High Point, NC
+170k UK: Wigan
+170k USA: High Point, NC
 160k Canada: St. John's, NL
-160k United States: Santa Cruz, CA
+160k USA: Santa Cruz, CA
 160k France: Perpignan
-160k United States: Hemet, CA
+160k USA: Hemet, CA
 160k France: Amiens
-160k United States: Muskegon, MI
-160k United States: Springfield, IL
+160k USA: Muskegon, MI
+160k USA: Springfield, IL
 160k Cyprus: Lemesos
 160k Norway: Trondheim
 160k Russia: Berezniki
-160k United States: Ocala, FL
-160k United States: Clarksville, TN--KY
-160k United States: Manchester, NH
-160k United States: Sioux Falls, SD
-160k United Kingdom: Dundee
-160k United Kingdom: Mansfield
-160k United Kingdom: Warrington
-160k United States: Binghamton, NY--PA
+160k USA: Ocala, FL
+160k USA: Clarksville, TN--KY
+160k USA: Manchester, NH
+160k USA: Sioux Falls, SD
+160k UK: Dundee
+160k UK: Mansfield
+160k UK: Warrington
+160k USA: Binghamton, NY--PA
 160k New Zealand: Hamilton
-160k United Kingdom: Swindon
-150k United States: Medford, OR
-150k United States: Charleston, WV
-150k United States: Port Arthur, TX
-150k United States: Nampa, ID
+160k UK: Swindon
+150k USA: Medford, OR
+150k USA: Charleston, WV
+150k USA: Port Arthur, TX
+150k USA: Nampa, ID
 150k Brazil: Maraba
 150k Canada: Abbotsford, BC
 150k China: Gaoyou, Yangzhou, JS
 150k Kazakhstan: Temertau
-150k United Kingdom: Burnley
-150k United States: Topeka, KS
+150k UK: Burnley
+150k USA: Topeka, KS
 150k France: Nimes
-150k United States: New Bedford, MA
-150k United States: Sebastian, FL
-150k United States: Beaumont, TX
-150k United States: Lafayette, IN
-150k United States: Spring Hill, FL
+150k USA: New Bedford, MA
+150k USA: Sebastian, FL
+150k USA: Beaumont, TX
+150k USA: Lafayette, IN
+150k USA: Spring Hill, FL
 150k US: Puerto Rico: Arecibo, PR
-140k United States: Champaign, IL
-140k United States: Houma, LA
-140k United States: Marysville, WA
-140k United States: Elkhart, IN--MI
-140k United Kingdom: Oxford
-140k United States: Lake Charles, LA
-140k United States: Panama City, FL
+140k USA: Champaign, IL
+140k USA: Houma, LA
+140k USA: Marysville, WA
+140k USA: Elkhart, IN--MI
+140k UK: Oxford
+140k USA: Lake Charles, LA
+140k USA: Panama City, FL
 140k Canada: Kelowna,BC
-140k United Kingdom: Ipswich
-140k United Kingdom: Slough
-140k United States: Frederick, MD
+140k UK: Ipswich
+140k UK: Slough
+140k USA: Frederick, MD
 140k Canada: Sherbrooke, QC
-140k United States: Fredericksburg, VA
-140k United Kingdom: Grimsby
-140k United Kingdom: Newport
-140k United States: Tuscaloosa, AL
-140k United Kingdom: Telford
-140k United Kingdom: York
-140k United States: Macon, GA
-140k United States: Merced, CA
+140k USA: Fredericksburg, VA
+140k UK: Grimsby
+140k UK: Newport
+140k USA: Tuscaloosa, AL
+140k UK: Telford
+140k UK: York
+140k USA: Macon, GA
+140k USA: Merced, CA
 140k Australia: Geelong, VIC
 140k France: Annecy
 140k France: Saint-Nazaire
-140k United Kingdom: Blackburn
-140k United States: Pueblo, CO
-140k United Kingdom: Gloucester
-140k United Kingdom: Peterborough
-140k United States: Harlingen, TX
+140k UK: Blackburn
+140k USA: Pueblo, CO
+140k UK: Gloucester
+140k UK: Peterborough
+140k USA: Harlingen, TX
 140k Guyana: Gerogetown
-140k United States: Yuma, AZ--CA
+140k USA: Yuma, AZ--CA
 130k France: Besancon
-130k United States: Fairfield, CA
-130k United States: Racine, WI
-130k United States: Bloomington, IL
-130k United States: Murfreesboro, TN
-130k United States: Warner Robins, GA
-130k United Kingdom: Nuneaton
+130k USA: Fairfield, CA
+130k USA: Racine, WI
+130k USA: Bloomington, IL
+130k USA: Murfreesboro, TN
+130k USA: Warner Robins, GA
+130k UK: Nuneaton
 130k US: Guam: Hagatna
-130k United Kingdom: Cambridge
-130k United States: Gainesville, GA
-130k United States: Leesburg, FL
+130k UK: Cambridge
+130k USA: Gainesville, GA
+130k USA: Leesburg, FL
 130k France: Thionville
 130k Russia: Norilsk
-130k United States: Santa Maria, CA
-130k United States: Tyler, TX
-130k United States: Yakima, WA
+130k USA: Santa Maria, CA
+130k USA: Tyler, TX
+130k USA: Yakima, WA
 130k Australia: Hobart, TAS
 130k Australia: Townsville, QLD
 130k France: Troyes
-130k United States: Athens, GA
-130k United States: Las Cruces, NM
+130k USA: Athens, GA
+130k USA: Las Cruces, NM
 130k Sweden: Upsalla
-130k United Kingdom: Doncaster
-130k United States: Grand Junction, CO
+130k UK: Doncaster
+130k USA: Grand Junction, CO
 130k Canada: Trois-Rivières, QC
-130k United Kingdom: Hastings
-130k United States: Odessa, TX
-130k United States: Saginaw, MI
-120k Serbia-Montenegro: Podgorica
-120k United States: Columbia, MO
-120k United States: Simi Valley, CA
-120k United States: Fort Smith, AR-OK
+130k UK: Hastings
+130k USA: Odessa, TX
+130k USA: Saginaw, MI
+120k Montenegro: Podgorica
+120k USA: Columbia, MO
+120k USA: Simi Valley, CA
+120k USA: Fort Smith, AR-OK
 120k Canada: Guelph, ON
-120k United States: Mauldin, SC
-120k United States: Burlington, NC
-120k United States: Duluth, MN--WI
-120k United States: Greeley, CO
-120k United States: Johnson City, TN
-120k United States: South Lyon, MI
+120k USA: Mauldin, SC
+120k USA: Burlington, NC
+120k USA: Duluth, MN--WI
+120k USA: Greeley, CO
+120k USA: Johnson City, TN
+120k USA: South Lyon, MI
 120k France: Poitiers
-120k United Kingdom: Thanet
+120k UK: Thanet
 120k US: Puerto Rico: Mayaguez, PR
 120k Canada: Kingston, ON
-120k United Kingdom: High Wycombe
-120k United States: Greenville, NC
-120k United States: Lynchburg, VA
-120k United States: Midland, TX
-120k United States: Redding, CA
+120k UK: High Wycombe
+120k USA: Greenville, NC
+120k USA: Lynchburg, VA
+120k USA: Midland, TX
+120k USA: Redding, CA
 120k France: Valence
-120k United States: Leominster, MA
-120k United States: Monroe, LA
-120k United States: Utica, NY
-120k United States: Yuba City, CA
+120k USA: Leominster, MA
+120k USA: Monroe, LA
+120k USA: Utica, NY
+120k USA: Yuba City, CA
 120k France: La Rochelle
 120k France: Lorient
-120k United Kingdom: Southport
-120k United States: Boulder, CO
-120k United Kingdom: St. Albans
-120k United States: Billings, MT
-110k United States: Bellingham, WA
-110k United States: Kailua, HI
-110k United States: Seaside, CA
+120k UK: Southport
+120k USA: Boulder, CO
+120k UK: St. Albans
+120k USA: Billings, MT
+110k USA: Bellingham, WA
+110k USA: Kailua, HI
+110k USA: Seaside, CA
 110k France: Chambery
 110k France: Montbeliard
-110k United States: Lady Lake, FL
-110k United States: Waterloo, IA
+110k USA: Lady Lake, FL
+110k USA: Waterloo, IA
 110k US: Puerto Rico: San German, PR
-110k United States: Dover, DE
-110k United States: St. Cloud, MN
-110k United Kingdom: Cheltenham
-110k United Kingdom: Torbay
-110k United States: Abilene, TX
-110k United States: Waldorf, MD
+110k USA: Dover, DE
+110k USA: St. Cloud, MN
+110k UK: Cheltenham
+110k UK: Torbay
+110k USA: Abilene, TX
+110k USA: Waldorf, MD
 110k China: Yibin, SC
-110k United States: Bloomington, IN
-110k United States: Burlington, VT
-110k United States: El Centro, CA
-110k United States: Pottstown, PA
-110k United States: Rochester, MN
+110k USA: Bloomington, IN
+110k USA: Burlington, VT
+110k USA: El Centro, CA
+110k USA: Pottstown, PA
+110k USA: Rochester, MN
 110k US: Puerto Rico: Yauco, PR
 110k Canada: Chicoutimi, QC
 110k Canada: Moncton, NB
 110k Canada: Sudbury, ON
 110k Sweden: Vasteras
-110k United Kingdom: Eastbourne
-110k United Kingdom: Exeter
-110k United States: Iowa City, IA
-110k United States: Kingsport, TN--VA
-110k United States: Sioux City, IA--NE--SD
-110k United States: Texas City, TX
+110k UK: Eastbourne
+110k UK: Exeter
+110k USA: Iowa City, IA
+110k USA: Kingsport, TN--VA
+110k USA: Sioux City, IA--NE--SD
+110k USA: Texas City, TX
 100k France: Calais
 100k New Zealand: Dunedin
-100k United States: Jacksonville, NC
-100k United States: Rock Hill, SC
+100k USA: Jacksonville, NC
+100k USA: Rock Hill, SC
 100k France: Angouleme
-100k United Kingdom: Colchester
-100k United Kingdom: Lincoln
-100k United States: Norman, OK
-100k United States: Eau Claire, WI
+100k UK: Colchester
+100k UK: Lincoln
+100k USA: Norman, OK
+100k USA: Eau Claire, WI
 100k Canada: Kanata, ON
 100k Canada: Thunder Bay, ON
 100k Norway: Frederikstad
-100k United Kingdom: Bedford
-100k United Kingdom: Basildon
-100k United Kingdom: Chesterfield
-100k United States: La Crosse, WI--MN
+100k UK: Bedford
+100k UK: Basildon
+100k UK: Chesterfield
+100k USA: La Crosse, WI--MN
 100k China: Xingyi, GS
 100k China: Xuancheng, AN
 100k Equitorial Guinea: Malabo

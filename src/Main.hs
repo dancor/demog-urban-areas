@@ -78,9 +78,27 @@ getPage cs = do
         Just r2 -> r2
   return (zip3 countries cities pops ++ r)
 
-countryIsUN c =
-  not $ any (`isInfixOf` c) 
-  [":", "Germany-", "France-", "Switzerland &", "Austria &", "Bermuda"]
+nationIsUN n =
+  not $ any (`isInfixOf` n) [
+    ":", "Germany-", "France-", "Switzerland &", "Austria &", "Bermuda",
+    "Greenland", "Western Sahara"]
+
+-- I have a certain set of names and abbrs. that I tend to stick too.
+-- Also some other normalization and cleanup.
+cleanData (n, c, p) = (f n, f c, p) where
+  f x = case x of
+    "United States" -> "USA"
+    "Viet Nam" -> "Vietnam"
+    "Congo (Dem. Rep.)" -> "DRCongo"
+    "United Kingdom" -> "UK"
+    "Ivory Coast" -> "Côte d'Ivoire"
+    "United Arab Emirates" -> "UAE"
+    "Congo (Rep.)" -> "RCongo"
+    "Dijibouti" -> "Djibouti"
+    "Central African Rep." -> "CAR"
+    "Serbia-Montenegro" -> "Montenegro"
+    "Katowice-Gliwice-Tychy" -> "Katowice"
+    _ -> x
 
 n2cp :: (String, String, String) -> (String, (Int, String))
 n2cp (n, c, p) = (n, (read $ filter isDigit p, c))
@@ -135,11 +153,25 @@ showLol (n, (p, c)) = showN p ++ " " ++ n ++ ": " ++ c
 main :: IO ()
 main = do
   ls <- lines <$> readFile "data/raw_pdf_copy"
+  args <- getArgs
   let 
     typeChunks =
-      map (\ xs -> (fst (head xs), map snd xs)) $ 
+      map (\ xs -> (fst (head xs), map snd xs)) .
       groupBy ((==) `on` fst) $
       map (\ l -> (lineGetType l, l)) ls    
+    usageErr = error "Program was invoked with invalid arguments."
+    runType = case args of
+      [] -> "all"
+      [x] -> x
+      _ -> usageErr
+    onePerNation = nubBy ((==) `on` fst)
+    (filterFunc, finalFunc) = case runType of
+      "all" -> (const True, id)
+      "un1" -> (nationIsUN . fst, onePerNation)
+      "cn" -> ((== "China") . fst, id)
+      "in" -> ((== "India") . fst, id)
+      "us" -> ((== "USA") . fst, id)
+      _ -> usageErr
   {- analysis phase:
   putStr $ unlines $ map summ $
     map (\ (a, b) -> [head $ show a] ++ show (length b) ++ " " ++ 
@@ -148,19 +180,11 @@ main = do
  -- w(country) w(city) n(pop) n(yr) n(pop2,area2) n(dens2) n(area) n(dens,yr2)
  -- w(country)w(city) n(pop)n(yr)n(pop2)n(area2)n(dens2)n(area)n(dens)n(yr2)
   -}
-  writeFile "out.un1" $ unlines $
-    map showLol $
-    nubBy ((==) `on` fst) $
-    filter (countryIsUN . fst) $
-    map (\ (n, c, p) -> (n, (read $ filter isDigit p, c))) $
+  writeFile ("output" </> runType) . unlines .
+    map showLol .
+    finalFunc .
+    filter filterFunc .
+    map (\ (n, c, p) -> (n, (read $ filter isDigit p, c))) .
+    map cleanData .
     fromJust $
     getFirstPage typeChunks
-  {-
-  putStr $ unlines $
-    map (\ (n, (p, c)) -> showN p ++ " " ++ n ++ ": " ++ c) $ 
-    --filter ((== "United States") . fst) $
-    --filter ((== "Jakarta") . fst) $
-    map (\ (n, c, p) -> (n, (read $ filter isDigit p, c))) $
-    fromJust $
-    getFirstPage typeChunks
-  -}

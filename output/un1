@@ -4,7 +4,7 @@
 22M India: Delhi, DL-HR-UP
 22M Philippines: Manila
 21M China: Shanghai, SHG
-20M United States: New York, NY-NJ-CT
+20M USA: New York, NY-NJ-CT
 20M Brazil: Sao Paulo
 19M Mexico: Mexico City
 18M Egypt: Cairo
@@ -16,10 +16,10 @@
 12M Nigeria: Lagos
 11M France: Paris
 9.1M Peru: Lima
-9.0M Congo (Dem. Rep.): Kinshasa
+9.0M DRCongo: Kinshasa
 8.7M Colombia: Bogota
-8.6M United Kingdom: London
-8.3M Viet Nam: Ho Chi Minh City
+8.6M UK: London
+8.3M Vietnam: Ho Chi Minh City
 7.6M South Africa: Johannesburg-East Rand
 7.4M Iran: Tehran
 7.3M Germany: Essen-Dusseldorf
@@ -35,7 +35,7 @@
 5.0M Saudi Arabia: Riyadh
 4.9M Sudan: Khartoum
 4.5M Myanmar: Yangon
-4.4M Ivory Coast: Abidjan
+4.4M Côte d'Ivoire: Abidjan
 3.8M Ghana: Accra
 3.8M Australia: Sydney, NSW
 3.7M Tanzania: Dar es Salaam
@@ -43,7 +43,7 @@
 3.4M Israel: Tel Aviv
 3.3M Afghanistan: Kabul
 3.3M Greece: Athens
-3.2M United Arab Emirates: Dubai
+3.2M UAE: Dubai
 3.2M Venezuela: Caracas
 3.2M Syria: Aleppo
 3.1M Ethiopia: Addis Abeba
@@ -55,7 +55,7 @@
 2.8M Ukraine: Kiyev
 2.6M Jordan: Amman
 2.6M Mozambique: Maputo
-2.5M Poland: Katowice-Gliwice-Tychy
+2.5M Poland: Katowice
 2.5M Yemen: Sana
 2.5M Cameroon: Douala
 2.4M Tunisia: Tunis
@@ -85,7 +85,7 @@
 1.7M Hungary: Budapest
 1.7M Austria: Vienna
 1.7M Uruguay: Montevideo
-1.6M Congo (Rep.): Brazzaville
+1.6M RCongo: Brazzaville
 1.6M Cambodia: Phhom Pehn
 1.6M El Salvador: San Salvador
 1.6M Zimbabwe: Harrare
@@ -123,7 +123,7 @@
 740k Switzerland: Zurich
 720k Palestine: Gaza
 700k Croatia: Zagreb
-600k Dijibouti: Dijibouti
+600k Djibouti: Djibouti
 600k Qatar: Doha
 600k Turkmenistan: Ashgabad
 560k Albania: Tirana
@@ -135,7 +135,7 @@
 540k Oman: Muscat
 520k Bahrain: Al-Manamah
 520k Trinidad & Tobago: Port of Spain
-500k Central African Rep.: Bangui
+500k CAR: Bangui
 500k Eritrea: Asmara
 500k Gambia: Bangui
 450k Macedonia: Skopje
@@ -153,13 +153,11 @@
 210k Bahamas: Nassau
 200k Lesotho: Meseru
 180k Iceland: Reykjavik
-180k Western Sahara: Laayoune
 170k East Timor: Dili
 140k Guyana: Gerogetown
-120k Serbia-Montenegro: Podgorica
+120k Montenegro: Podgorica
 100k Equitorial Guinea: Malabo
 100k Luxembourg: Luxembourg
 100k Maldives: Male
 60k Comoros: Moroni
 45k Bhutan: Thimphu
-14k Greenland: Nuuk
