@@ -106,7 +106,7 @@ cleanData (n, c, p) = if cityIsWack c then Nothing else Just (f n, f c, p)
     "Serbia-Montenegro" -> "Montenegro"
     "Katowice-Gliwice-Tychy" -> "Katowice"
     _ -> x
-  cityIsWack c = c == "Bandaburg"  -- dupe typo for Bundaberg, AU
+  cityIsWack c = c == "Bandaburg, QLD"  -- dupe typo for Bundaberg (AU)
 
 n2cp :: (String, String, String) -> (String, (Int, String))
 n2cp (n, c, p) = (n, (read $ filter isDigit p, c))
