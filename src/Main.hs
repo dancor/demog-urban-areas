@@ -178,8 +178,7 @@ main = do
     (runType, filterFunc, finalFunc) = case runTypeArg of
       "all" -> (runTypeArg, const True, showNation)
       "un1" -> (runTypeArg, nationIsUN . fst, showNation . onePerNation)
-      n -> ("by_nation" </> n, 
-        (== map toLower n) . map toLower . fst, hideNation)
+      n -> ("by_nation" </> n, (== n) . fst, hideNation)
   {- analysis phase:
   putStr $ unlines $ map summ $
     map (\ (a, b) -> [head $ show a] ++ show (length b) ++ " " ++ 
