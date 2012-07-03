@@ -91,7 +91,8 @@ nationIsUN n =
 
 -- I have a certain set of names and abbrs. that I tend to stick too.
 -- Also some other normalization and cleanup.
-cleanData (n, c, p) = (f n, f c, p) where
+cleanData (n, c, p) = if cityIsWack c then Nothing else Just (f n, f c, p)
+  where
   f x = case x of
     "United States" -> "USA"
     "Viet Nam" -> "Vietnam"
@@ -105,6 +106,7 @@ cleanData (n, c, p) = (f n, f c, p) where
     "Serbia-Montenegro" -> "Montenegro"
     "Katowice-Gliwice-Tychy" -> "Katowice"
     _ -> x
+  cityIsWack c = c == "Bandaburg"  -- dupe typo for Bundaberg, AU
 
 n2cp :: (String, String, String) -> (String, (Int, String))
 n2cp (n, c, p) = (n, (read $ filter isDigit p, c))
@@ -191,6 +193,6 @@ main = do
     finalFunc .
     filter filterFunc .
     map (\ (n, c, p) -> (n, (read $ filter isDigit p, c))) .
-    map cleanData .
+    mapMaybe cleanData .
     fromJust $
     getFirstPage typeChunks
