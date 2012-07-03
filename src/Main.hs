@@ -147,8 +147,8 @@ showN x =
   where
   (c, suf) = metricSigDigs 2 (fromIntegral x) 
   
-showLol :: (String, (Int, String)) -> String
-showLol (n, (p, c)) = showN p ++ " " ++ n ++ ": " ++ c
+showLol :: (Maybe String, (Int, String)) -> String
+showLol (n, (p, c)) = showN p ++ " " ++ (maybe "" (++ ": ") n) ++ c
 
 main :: IO ()
 main = do
@@ -165,13 +165,12 @@ main = do
       [x] -> x
       _ -> usageErr
     onePerNation = nubBy ((==) `on` fst)
+    showNation = map (first Just)
+    hideNation = map (first (const Nothing))
     (filterFunc, finalFunc) = case runType of
-      "all" -> (const True, id)
-      "un1" -> (nationIsUN . fst, onePerNation)
-      "cn" -> ((== "China") . fst, id)
-      "in" -> ((== "India") . fst, id)
-      "us" -> ((== "USA") . fst, id)
-      _ -> usageErr
+      "all" -> (const True, showNation)
+      "un1" -> (nationIsUN . fst, showNation . onePerNation)
+      n -> ((== map toLower n) . map toLower . fst, hideNation)
   {- analysis phase:
   putStr $ unlines $ map summ $
     map (\ (a, b) -> [head $ show a] ++ show (length b) ++ " " ++ 
