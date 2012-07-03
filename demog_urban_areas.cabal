@@ -1,15 +1,13 @@
-name:            demog_urban_areas
+name:            demog-urban-areas
 version:         0.1
 license:         BSD3
 license-file:    LICENSE
 author:          dan corson <danl@alum.mit.edu>
 synopsis:        <syn>
 build-type:      Simple
-build-depends:   base
+build-depends:   base, filepath, split
 
 executable:      demog_urban_areas
 main-is:         Main.hs
 hs-source-dirs:  src
-
-exposed-modules: demog_urban_areas
-hs-source-dirs:  src
+extensions:      CPP

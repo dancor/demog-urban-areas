@@ -1,6 +1,12 @@
-#include <h>
-
---module Main where
+import Control.Applicative
+import Control.Arrow
+import Data.Char
+import Data.Function
+import Data.List
+import Data.List.Split
+import Data.Maybe
+import System.Environment
+import System.FilePath
 
 data LineType = Header | Num | Word | Letter
   deriving (Eq, Show)
@@ -160,17 +166,18 @@ main = do
       groupBy ((==) `on` fst) $
       map (\ l -> (lineGetType l, l)) ls    
     usageErr = error "Program was invoked with invalid arguments."
-    runType = case args of
+    runTypeArg = case args of
       [] -> "all"
       [x] -> x
       _ -> usageErr
     onePerNation = nubBy ((==) `on` fst)
     showNation = map (first Just)
     hideNation = map (first (const Nothing))
-    (filterFunc, finalFunc) = case runType of
-      "all" -> (const True, showNation)
-      "un1" -> (nationIsUN . fst, showNation . onePerNation)
-      n -> ((== map toLower n) . map toLower . fst, hideNation)
+    (runType, filterFunc, finalFunc) = case runTypeArg of
+      "all" -> (runTypeArg, const True, showNation)
+      "un1" -> (runTypeArg, nationIsUN . fst, showNation . onePerNation)
+      n -> ("by_nation" </> n, 
+        (== map toLower n) . map toLower . fst, hideNation)
   {- analysis phase:
   putStr $ unlines $ map summ $
     map (\ (a, b) -> [head $ show a] ++ show (length b) ++ " " ++ 
