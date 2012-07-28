@@ -91,8 +91,11 @@ nationIsUN n =
 
 -- I have a certain set of names and abbrs. that I tend to stick too.
 -- Also some other normalization and cleanup.
-cleanData (n, c, p) = if cityIsWack c then Nothing else Just (f n, f c, p)
+cleanData (n, c, p) = if cityIsWack c then Nothing else Just (f n', f c', p)
   where
+  (n', c') = case (n, c) of
+    ("Chad", "Niamey") -> ("Chad", "N'Djamena")  -- typo in data
+    _ -> (n, c)
   f x = case x of
     "United States" -> "USA"
     "Viet Nam" -> "Vietnam"
