@@ -108,6 +108,7 @@ cleanData (n, c, p) = if cityIsWack c then Nothing else Just (f n', f c', p)
     "Central African Rep." -> "CAR"
     "Serbia-Montenegro" -> "Montenegro"
     "Katowice-Gliwice-Tychy" -> "Katowice"
+    "Southamption" -> "Southampton"
     _ -> x
   cityIsWack c = c == "Bandaburg, QLD"  -- dupe typo for Bundaberg (AU)
 
