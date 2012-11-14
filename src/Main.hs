@@ -5,6 +5,8 @@ import Data.Function
 import Data.List
 import Data.List.Split
 import Data.Maybe
+import Data.Monoid
+import Data.Ord
 import System.Environment
 import System.FilePath
 
@@ -164,38 +166,50 @@ showLol (n, (p, c)) = showN p ++ " " ++ (maybe "" (++ ": ") n) ++ c
 
 main :: IO ()
 main = do
-  ls <- lines <$> readFile "data/raw_pdf_copy"
-  args <- getArgs
-  let 
-    typeChunks =
-      map (\ xs -> (fst (head xs), map snd xs)) .
-      groupBy ((==) `on` fst) $
-      map (\ l -> (lineGetType l, l)) ls    
-    usageErr = error "Program was invoked with invalid arguments."
-    runTypeArg = case args of
-      [] -> "all"
-      [x] -> x
-      _ -> usageErr
-    onePerNation = nubBy ((==) `on` fst)
-    showNation = map (first Just)
-    hideNation = map (first (const Nothing))
-    (runType, filterFunc, finalFunc) = case runTypeArg of
-      "all" -> (runTypeArg, const True, showNation)
-      "un1" -> (runTypeArg, nationIsUN . fst, showNation . onePerNation)
-      n -> ("by_nation" </> n, (== n) . fst, hideNation)
-  {- analysis phase:
-  putStr $ unlines $ map summ $
-    map (\ (a, b) -> [head $ show a] ++ show (length b) ++ " " ++ 
-                        intercalate " " b)
-    typeChunks
- -- w(country) w(city) n(pop) n(yr) n(pop2,area2) n(dens2) n(area) n(dens,yr2)
- -- w(country)w(city) n(pop)n(yr)n(pop2)n(area2)n(dens2)n(area)n(dens)n(yr2)
-  -}
-  writeFile ("output" </> runType) . unlines .
-    map showLol .
-    finalFunc .
-    filter filterFunc .
-    map (\ (n, c, p) -> (n, (read $ filter isDigit p, c))) .
-    mapMaybe cleanData .
-    fromJust $
-    getFirstPage typeChunks
+    ls <- lines <$> readFile "data/raw_pdf_copy"
+    args <- getArgs
+    let typeChunks =
+            map (\ xs -> (fst (head xs), map snd xs)) .
+            groupBy ((==) `on` fst) $
+            map (\ l -> (lineGetType l, l)) ls    
+        usageErr = error "Program was invoked with invalid arguments."
+        runTypeArg = case args of
+            [] -> "all"
+            [x] -> x
+            _ -> usageErr
+        onePerNation = nubBy ((==) `on` fst)
+        showNation = map (first Just)
+        hideNation = map (first (const Nothing))
+        (runType, filterFunc, finalFunc) = case runTypeArg of
+            "all" -> (runTypeArg, const True, map showLol . showNation)
+            "nation_by_count" ->
+                ( runTypeArg
+                , \ (nation, (population, city)) ->
+                    nationIsUN nation && population >= 500000
+                , map (\ (count, nation) -> show count ++ " " ++ nation) .
+                  (\ xs -> xs ++ [(sum (map fst xs), "total")]) .
+                  sortBy (flip (comparing fst) `mappend` comparing snd) .
+                  map (\ x -> (length x, fst $ head x)) . 
+                  groupBy ((==) `on` fst) . sort
+                )
+            "un1" -> 
+                ( runTypeArg
+                , nationIsUN . fst
+                , map showLol . showNation . onePerNation
+                )
+            n -> ("by_nation" </> n, (== n) . fst, map showLol . hideNation)
+    {- analysis phase:
+    putStr $ unlines $ map summ $
+      map (\ (a, b) -> [head $ show a] ++ show (length b) ++ " " ++ 
+                          intercalate " " b)
+      typeChunks
+-- w(country) w(city) n(pop) n(yr) n(pop2,area2) n(dens2) n(area) n(dens,yr2)
+-- w(country)w(city) n(pop)n(yr)n(pop2)n(area2)n(dens2)n(area)n(dens)n(yr2)
+    -}
+    writeFile ("output" </> runType) . unlines .
+        finalFunc .
+        filter filterFunc .
+        map (\ (n, c, p) -> (n, (read $ filter isDigit p, c))) .
+        mapMaybe cleanData .
+        fromJust $
+        getFirstPage typeChunks
