@@ -33,18 +33,17 @@ Rank
 29
 30
 31
-32
 Geography
 Japan
 Indonesia
 South Korea
 India
-Philippines
 China
+Philippines
+Pakistan
 United States
 Brazil
 Mexico
-Egypt
 China
 Japan
 India
@@ -52,8 +51,8 @@ China
 Russia
 Bangladesh
 United States
+Egypt
 India
-Pakistan
 Argentina
 Turkey
 Brazil
@@ -66,19 +65,18 @@ United States
 Congo (Dem. Rep.)
 China
 India
-Colombia
 500,000
 Urban Area
 Tokyo-Yokohama
 Jakarta
 Seoul-Incheon
 Delhi, DL-HR-UP
-Manila
 Shanghai, SHG
+Manila
+Karachi
 New York, NY-NJ-CT
 Sao Paulo
 Mexico City
-Cairo
 Beijing, BJ
 Osaka-Kobe-Kyoto
 Mumbai, MAH
@@ -86,8 +84,8 @@ Guangzhou-Foshan, GD
 Moscow
 Dhaka
 Los Angeles, CA
+Cairo
 Kolkota, WB
-Karachi
 Buenos Aires
 Istanbul
 Rio de Janeiro
@@ -100,20 +98,18 @@ Chicago, IL-IN-WI
 Kinshasa
 Tianjin, TJ
 Chennai, TN
-Bogota
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
 Population
 Estimate
 37,126,000
 26,063,000
 22,547,000
 22,242,000
-21,951,000
 20,860,000
+20,767,000
+20,711,000
 20,464,000
 20,186,000
 19,463,000
-17,816,000
 17,311,000
 17,011,000
 16,910,000
@@ -121,8 +117,8 @@ Estimate
 15,512,000
 15,414,000
 14,900,000
+14,718,000
 14,374,000
-14,198,000
 13,639,000
 13,576,000
 12,043,000
@@ -135,9 +131,8 @@ Estimate
 9,046,000
 8,922,000
 8,865,000
-8,702,000
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
 Year
-2012
 2012
 2012
 2012
@@ -182,18 +177,18 @@ Miles
 835
 21,622,000
 750
-19,000,000
-550
 20,200,000
 1,350
+19,850,000
+555
+19,530,000
+310
 4,495
 20,366,000
 19,900,000
 1,225
 19,250,000
 790
-16,250,000
-660
 16,800,000
 1,350
 17,000,000
@@ -208,10 +203,10 @@ Miles
 134
 2,432
 14,667,000
+14,500,000
+640
 14,113,000
 465
-13,500,000
-300
 13,370,000
 1,020
 13,300,000
@@ -236,19 +231,17 @@ Miles
 650
 8,696,000
 235
-8,500,000
-160
 Density
 11,300
 24,200
 27,000
 29,700
-39,900
 15,500
+37,400
+66,800
 4,600
 16,500
 24,600
-27,000
 12,800
 13,700
 80,100
@@ -256,8 +249,8 @@ Density
 9,100
 115,000
 6,100
+23,000
 30,900
-47,300
 13,400
 25,100
 15,400
@@ -270,7 +263,6 @@ Density
 40,200
 13,700
 37,700
-54,400
 Land
 Area:
 Km2
@@ -278,12 +270,12 @@ Km2
 2,784
 2,163
 1,943
-1,425
 3,497
+1,437
+803
 11,642
 3,173
 2,046
-1,709
 3,497
 3,212
 546
@@ -291,21 +283,20 @@ Km2
 4,403
 347
 6,299
+1,658
 1,204
-777
 2,642
 1,399
 2,020
 1,748
 907
-2,844
+2,845
 3,820
 648
 6,856
 583
 1,684
 609
-414
 Density Base Year
 4,300
 2010
@@ -315,18 +306,18 @@ Density Base Year
 2010
 11,500
 2011
-15,400
-2007
 6,000
 2010
+14,400
+2010
+25,800
+2011
 1,800
 2010
 6,400
 2010
 9,500
 2010
-10,400
-2006
 5,000
 2010
 5,300
@@ -341,10 +332,10 @@ Density Base Year
 2011
 2,400
 2010
+8,900
+2011
 11,900
 2011
-18,300
-2010
 5,200
 2010
 9,700
@@ -369,8 +360,6 @@ Density Base Year
 2010
 14,600
 2011
-21,000
-2010
 Popula-
 tion
 Method
@@ -380,10 +369,10 @@ C
 A
 C
 C
+C
 N
 C
 C
-E
 C
 C
 A
@@ -391,8 +380,8 @@ C
 C
 F
 N
+E
 A
-D
 D
 A
 D
@@ -405,7 +394,6 @@ N
 D
 C
 A
-D
 Land
 Area
 Source
@@ -415,8 +403,8 @@ B
 B
 B
 B
-N
 B
+N
 B
 B
 B
@@ -440,8 +428,8 @@ N
 B
 B
 B
-B
 16
+32
 33
 34
 35
@@ -481,7 +469,7 @@ B
 69
 70
 71
-72
+Colombia
 India
 United Kingdom
 China: Taiwan
@@ -521,7 +509,7 @@ Singapore
 Saudi Arabia
 Sudan
 Russia
-United States
+Bogota
 Bangalore, KAR
 London
 Taipei
@@ -536,7 +524,7 @@ Essen-Dusseldorf
 Bangkok
 Hong Kong, HK
 Wuhan, HUB
-Ahmadabad, GUJ
+Ahmedabad, GUJ
 Chongqing, CQ
 Baghdad
 Hangzhou, ZJ
@@ -561,8 +549,8 @@ Singapore
 Riyadh
 Khartoum
 St. Petersburg
-Atlanta, GA
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+8,702,000
 8,670,000
 8,586,000
 8,338,000
@@ -577,7 +565,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 7,151,000
 7,106,000
 6,995,000
-6,482,000
+6,352,000
 6,321,000
 6,204,000
 6,178,000
@@ -602,7 +590,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 5,037,000
 4,887,000
 4,879,000
-4,715,000
+2012
+2012
+2012
+2012
+2,012
+2012
+2012
+2012
+2012
+2012
+2012
+2012
+2012
+2012
+2012
+2011
 2012
 2012
 2012
@@ -627,22 +630,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2012
 2012
-2012
-2012
-2012
-2012
-2012
-2012
-2012
-2012
-2012
-2012
-2012
-2012
-2012
-2012
-2012
-2012
+8,500,000
 8,499,000
 8,278,000
 8,300,000
@@ -682,7 +670,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 4,850,000
 4,632,000
 4,840,000
-4,515,000
+160
 285
 627
 440
@@ -711,7 +699,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 340
 390
 1,981
-410
+430
 365
 1,793
 310
@@ -722,7 +710,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 580
 415
 460
-2,645
+54,400
 30,400
 13,700
 19,000
@@ -737,7 +725,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 8,400
 67,000
 18,900
-56,400
+55,200
 21,100
 27,000
 14,200
@@ -751,7 +739,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 16,300
 14,200
 2,800
-13,300
+12,700
 14,900
 3,000
 16,900
@@ -762,7 +750,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 8,700
 11,800
 10,600
-1,800
+414
 738
 1,623
 1,140
@@ -781,7 +769,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 777
 596
 1,127
-449
+2,287
 2,137
 919
 5,175
@@ -791,7 +779,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 881
 1,010
 5,131
-1,062
+1,114
 945
 4,644
 803
@@ -802,7 +790,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,502
 1,075
 1,191
-6,851
+21,000
 11,700
 5,300
 7,300
@@ -817,11 +805,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 3,200
 25,900
 7,300
-21,800
+21,300
 8,100
 10,400
 5,500
-13,700
+2,700
 2,900
 6,500
 1,100
@@ -831,7 +819,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 6,300
 5,500
 1,100
-5,100
+4,900
 5,700
 1,200
 6,500
@@ -842,7 +830,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 3,400
 4,500
 4,100
-700
+2010
 2011
 2001
 2010
@@ -882,7 +870,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2011
 2010
-2010
+D
 A
 A
 C
@@ -922,7 +910,7 @@ A
 E
 D
 D
-A
+B
 B
 A
 B
@@ -962,8 +950,8 @@ B
 B
 B
 B
-A
 17
+72
 73
 74
 75
@@ -1003,7 +991,7 @@ A
 109
 110
 111
-112
+United States
 India
 United States
 Indonesia
@@ -1042,8 +1030,8 @@ South Africa
 China
 Germany
 Canada
-South Korea
-Israel
+China
+Atlanta, GA
 Surat, GUJ
 Washington, DC-VA-MD
 Bandung
@@ -1082,9 +1070,9 @@ Cape Town
 Hefei, AH
 Berlin
 Montréal, QC
-Busan
-Tel Aviv
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Jinan, SD
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+4,715,000
 4,687,000
 4,679,000
 4,674,000
@@ -1123,8 +1111,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 3,456,000
 3,453,000
 3,429,000
-3,389,000
-3,387,000
+3,427,000
 2012
 2012
 2012
@@ -1165,6 +1152,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2012
 2012
+4,515,000
 4,585,000
 4,587,000
 4,500,000
@@ -1203,8 +1191,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 3,325,000
 3,450,000
 3,408,000
-3,400,000
-3,320,000
+3,325,000
+2,645
 62
 1,322
 165
@@ -1243,8 +1231,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 230
 380
 597
-100
-185
+280
+1,800
 75,600
 3,500
 28,300
@@ -1283,8 +1271,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 15,000
 9,100
 5,700
-33,900
-18,300
+12,200
+6,851
 161
 3,424
 427
@@ -1322,9 +1310,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 686
 596
 984
-449
-259
-479
+1,546
+725
+700
 29,200
 1,400
 10,900
@@ -1362,9 +1350,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 5,000
 5,800
 3,500
-7,600
-13,100
-7,100
+2,200
+4,700
+2010
 2011
 2010
 2010
@@ -1404,7 +1392,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2011
 2010
-2010
+A
 A
 A
 C
@@ -1443,8 +1431,8 @@ C
 C
 C
 A
-E
-D
+C
+A
 B
 A
 B
@@ -1483,9 +1471,9 @@ B
 B
 B
 A
-B
 B
 18
+112
 113
 114
 115
@@ -1525,11 +1513,11 @@ B
 149
 150
 151
-152
+South Korea
+Israel
 China
 China
 Saudi Arabia
-China
 Afghanistan
 China
 Greece
@@ -1561,15 +1549,15 @@ China
 Turkey
 China
 North Korea
+Pakistan
 Ukraine
 China
 China: Taiwan
-Iran
-Ghana
+Busan
+Tel Aviv
 Wuxi, JS
 Kunming, YN
 Jiddah
-Jinan, SD
 Kabul
 Xiamen, FJ
 Athens
@@ -1601,16 +1589,16 @@ Changzhou, JS
 Izmir
 Urumqi, XJ
 Pyongyang
+Hyderabad
 Kiyev
 Wenzhou, ZJ
 Kaohsiung
-Masbad
-Kumasi
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+3,389,000
+3,387,000
 3,379,000
 3,357,000
 3,351,000
-3,350,000
 3,327,000
 3,324,000
 3,269,000
@@ -1642,11 +1630,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,910,000
 2,884,000
 2,865,000
+2,825,000
 2,812,000
 2,763,000
 2,754,000
-2,738,000
-2,703,000
 2012
 2012
 2012
@@ -1687,10 +1674,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2012
 2012
+3,400,000
+3,320,000
 3,250,000
 3,250,000
 3,230,000
-3,250,000
 3,050,000
 3,200,000
 3,260,000
@@ -1722,15 +1710,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,840,000
 2,775,000
 2,835,000
+2,650,000
 2,805,000
 2,660,000
 2,500,000
-2,650,000
-1,705,000
+100
+185
 260
 230
 325
-250
 100
 225
 264
@@ -1762,15 +1750,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 105
 145
 80
+28
 210
 100
 140
-80
-160
+33,900
+18,300
 13,000
 14,600
 10,300
-13,400
 33,300
 14,800
 12,400
@@ -1802,15 +1790,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 27,700
 19,900
 35,800
+100,900
 13,400
 27,600
 19,700
-34,200
-16,900
+259
+479
 673
 596
 842
-648
 259
 583
 684
@@ -1842,15 +1830,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 272
 376
 207
+73
 544
 259
 363
-207
-414
+13,100
+7,100
 5,000
 5,600
 4,000
-5,200
 12,800
 5,700
 4,800
@@ -1882,11 +1870,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 10,700
 7,700
 13,800
+39,000
 5,200
 10,700
 7,600
-13,200
-6,500
+2010
 2010
 2010
 2010
@@ -1922,15 +1910,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2010
+2011
 2010
 2010
 2004
-2010
-2000
+E
+D
 C
 C
 E
-C
 D
 C
 C
@@ -1962,11 +1950,10 @@ C
 D
 X
 D
+C
 D
 C
 E
-D
-C
 B
 B
 B
@@ -1976,13 +1963,6 @@ B
 B
 B
 B
-B
-B
-B
-B
-B
-B
-A
 B
 B
 B
@@ -1992,6 +1972,13 @@ B
 B
 A
 B
+B
+B
+B
+B
+B
+B
+A
 B
 B
 B
@@ -2008,6 +1995,7 @@ B
 B
 B
 19
+152
 153
 154
 155
@@ -2030,8 +2018,8 @@ B
 172
 173
 174
-174
-176
+175
+175
 177
 178
 179
@@ -2047,7 +2035,8 @@ B
 189
 190
 191
-192
+Iran
+Ghana
 United States
 China
 US: Puerto Rico
@@ -2071,6 +2060,7 @@ United States
 Cameroon
 China
 Tunisia
+Philippines
 South Korea
 Kuwait
 Brazil
@@ -2085,9 +2075,8 @@ China
 Haiti
 China
 Nigeria
-United Kingdom
-China
-United States
+Masbad
+Kumasi
 Minneapolis-St. Paul, MN-WI
 Guiyang, GZ
 San Juan, PR
@@ -2111,6 +2100,7 @@ Denver, CO
 Yaounde
 Nanchang, JX
 Tunis
+Cebu
 Daegu
 Kuwait
 Brasilia
@@ -2125,10 +2115,9 @@ Zhongshan, GD
 Port-au-Prince
 Zhangjiaggang-Jiangyin, (Suzhou-Wuxi) JS
 Abuja
-Manchester
-Nanning, GX
-Baltimore, MD
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+2,738,000
+2,703,000
 2,699,000
 2,698,000
 2,697,000
@@ -2152,6 +2141,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,441,000
 2,420,000
 2,420,000
+2,416,000
 2,400,000
 2,394,000
 2,362,000
@@ -2166,9 +2156,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,266,000
 2,261,000
 2,245,000
-2,244,000
-2,234,000
-2,224,000
 2012
 2012
 2012
@@ -2183,6 +2170,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2012
 2012
+2012
+2,012
+2,012
 2012
 2012
 2012
@@ -2206,9 +2196,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2012
 2012
-2012
-2012
-2012
+2,650,000
+1,705,000
 2,651,000
 2,600,000
 2,217,000
@@ -2232,6 +2221,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,320,000
 2,325,000
 2,100,000
+2,325,000
 2,400,000
 2,300,000
 2,300,000
@@ -2246,9 +2236,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,140,000
 2,175,000
 2,153,000
-2,245,000
-2,150,000
-2,204,000
+80
+160
 1,022
 115
 892
@@ -2272,6 +2261,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 75
 210
 140
+80
 95
 210
 260
@@ -2286,9 +2276,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 66
 190
 87
-215
-118
-717
+34,200
+16,900
 2,600
 23,500
 3,000
@@ -2312,6 +2301,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 32,500
 11,500
 17,300
+30,200
 25,300
 11,400
 9,100
@@ -2326,9 +2316,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 34,300
 11,900
 25,800
-10,400
-18,900
-3,100
+207
+414
 2,647
 298
 2,309
@@ -2352,6 +2341,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 194
 544
 363
+207
 246
 544
 673
@@ -2366,9 +2356,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 171
 492
 225
-558
-306
-1,857
+13,200
+6,500
 1,000
 9,100
 1,200
@@ -2392,6 +2381,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 12,600
 4,400
 6,700
+11,700
 9,800
 4,400
 3,500
@@ -2406,9 +2396,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 13,300
 4,600
 10,000
-4,000
-7,300
-1,200
+2010
+2000
 2010
 2010
 2000
@@ -2439,6 +2428,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2010
+2010
 2001
 2001
 2010
@@ -2446,9 +2436,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2011
-2001
-2010
-2010
+D
+C
 A
 C
 A
@@ -2472,6 +2461,7 @@ A
 D
 C
 F
+C
 E
 D
 E
@@ -2486,21 +2476,11 @@ C
 D
 C
 D
-A
-E
-A
-A
-B
-A
-B
-B
-B
-B
-B
 B
 B
 A
 B
+A
 B
 B
 B
@@ -2517,6 +2497,16 @@ B
 B
 B
 B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
 B
 B
 B
@@ -2526,10 +2516,8 @@ B
 B
 B
 B
-A
-B
-A
 20
+192
 193
 194
 195
@@ -2550,14 +2538,14 @@ A
 210
 211
 212
-212
+213
 214
-215
+214
 216
 217
-217
+218
 219
-220
+219
 221
 222
 223
@@ -2569,7 +2557,9 @@ A
 229
 230
 231
-232
+United Kingdom
+China
+United States
 Dominican Republic
 India
 Indonesia
@@ -2607,9 +2597,9 @@ Belgium
 India
 Colombia
 United States
-United States
-Brazil
-Venezuela
+Manchester
+Nanning, GX
+Baltimore, MD
 Santo Domingo
 Indore, MP
 Medan
@@ -2647,10 +2637,10 @@ Brussels
 Bhopal, MP
 Barranquilla
 Portland, OR-WA
-Orlando, FL
-Manaus
-Valencia
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+2,244,000
+2,234,000
+2,224,000
 2,221,000
 2,215,000
 2,207,000
@@ -2688,9 +2678,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,924,000
 1,917,000
 1,903,000
-1,902,000
-1,897,000
-1,871,000
+2012
+2012
+2012
 2012
 2012
 2012
@@ -2728,9 +2718,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2012
 2012
-2012
-2012
-2012
+2,245,000
+2,150,000
+2,204,000
 2,150,000
 2,167,000
 2,125,000
@@ -2768,9 +2758,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,883,000
 1,870,000
 1,850,000
-1,825,000
-1,848,000
-1,820,000
+215
+118
+717
 95
 50
 95
@@ -2808,9 +2798,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 57
 55
 524
-756
-115
-84
+10,400
+18,900
+3,100
 23,400
 44,300
 23,200
@@ -2848,9 +2838,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 33,800
 34,900
 3,600
-2,500
-16,500
-22,300
+558
+306
+1,857
 246
 130
 246
@@ -2860,7 +2850,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,393
 220
 557
-449
+1,150
 223
 168
 285
@@ -2888,9 +2878,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 148
 142
 1,357
-1,958
-298
-218
+4,000
+7,300
+1,200
 9,000
 17,100
 9,000
@@ -2900,7 +2890,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 900
 9,800
 3,900
-4,800
+1,900
 9,600
 12,700
 7,400
@@ -2928,9 +2918,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 13,000
 13,500
 1,400
-1,000
-6,400
-8,600
+2001
+2010
+2010
 2010
 2011
 2010
@@ -2968,9 +2958,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2011
 2010
 2010
-2010
-2010
-2010
+A
+E
+A
 D
 A
 D
@@ -3008,37 +2998,7 @@ C
 A
 D
 A
-N
-D
-D
-B
-B
-B
-B
-B
-B
 A
-B
-B
-A
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
 B
 A
 B
@@ -3048,16 +3008,44 @@ B
 B
 B
 A
-N
 B
 B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+A
 21
+232
 233
 234
 235
-235
+236
 237
-238
+237
 239
 240
 241
@@ -3074,13 +3062,13 @@ B
 252
 253
 254
-254
-256
+255
+255
 257
 258
 259
-259
-261
+260
+260
 262
 263
 264
@@ -3091,7 +3079,9 @@ B
 269
 270
 271
-272
+United States
+Brazil
+Venezuela
 India
 Belarus
 India
@@ -3112,7 +3102,6 @@ Guinea
 United States
 India
 United States
-Pakistan
 Bolivia
 Uganda
 Mexico
@@ -3130,8 +3119,9 @@ China
 Brazil
 Uruguay
 China
-Ecuador
-India
+Orlando, FL
+Manaus
+Valencia
 Vadodara. GUJ
 Minsk
 Thrissur, KER
@@ -3152,7 +3142,6 @@ Conakry
 Sacramento, CA
 Visakhpatnam.AP
 Cleveland, OH
-Hyderabad
 La Paz
 Kampala
 Toluca
@@ -3170,9 +3159,10 @@ Handan, HEB
 Vittoria
 Montevideo
 Yinchuan, NX
-Quito
-Ludhiana, PU
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+1,902,000
+1,897,000
+1,871,000
 1,857,000
 1,856,000
 1,854,000
@@ -3193,7 +3183,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,771,000
 1,768,000
 1,765,000
-1,745,000
 1,740,000
 1,740,000
 1,731,000
@@ -3211,8 +3200,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,666,000
 1,661,000
 1,660,000
-1,656,000
-1,648,000
+2012
+2012
+2012
 2012
 2012
 2011
@@ -3222,8 +3212,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2012
 2012
-2012
-2012
+2,012
 2012
 2012
 2012
@@ -3251,8 +3240,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2012
 2012
-2012
-2012
+1,825,000
+1,848,000
+1,820,000
 1,817,000
 1,847,000
 1,854,000
@@ -3273,7 +3263,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,724,000
 1,730,000
 1,781,000
-1,650,000
 1,680,000
 1,590,000
 1,700,000
@@ -3291,8 +3280,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,666,000
 1,660,000
 1,595,000
-1,600,000
-1,613,000
+756
+115
+84
 53
 125
 140
@@ -3313,7 +3303,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 471
 70
 772
-32
 60
 190
 85
@@ -3331,8 +3320,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 140
 100
 61
-185
-65
+2,500
+16,500
+22,300
 35,000
 14,800
 13,200
@@ -3353,7 +3343,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 3,800
 25,300
 2,300
-54,500
 29,000
 9,200
 20,400
@@ -3371,8 +3360,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 11,900
 16,600
 27,200
-9,000
-25,400
+1,958
+298
+218
 137
 324
 363
@@ -3393,7 +3383,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,220
 181
 1,999
-83
 155
 492
 220
@@ -3411,8 +3400,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 363
 259
 158
-479
-168
+1,000
+6,400
+8,600
 13,500
 5,700
 5,100
@@ -3433,7 +3423,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,500
 9,800
 900
-21,100
 11,200
 3,500
 7,900
@@ -3451,8 +3440,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 4,600
 6,400
 10,500
-3,500
-9,800
+2010
+2010
+2010
 2011
 2010
 2011
@@ -3479,7 +3469,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2010
-2010
 2011
 2010
 2010
@@ -3491,8 +3480,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2010
-2010
-2011
+N
+D
+D
 A
 D
 A
@@ -3516,7 +3506,6 @@ A
 D
 D
 D
-D
 E
 D
 E
@@ -3531,29 +3520,7 @@ E
 D
 D
 E
-D
-A
-B
-B
-B
-B
-B
-A
-B
-B
-B
-B
-B
-A
-B
-B
-B
-B
-B
-A
-B
-A
-B
+N
 B
 B
 B
@@ -3564,6 +3531,26 @@ B
 A
 B
 B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+A
+B
+A
+B
+B
+B
+B
+B
+B
+B
+A
 B
 B
 B
@@ -3574,19 +3561,20 @@ B
 B
 B
 22
+272
 273
 274
 275
 276
 277
-277
-279
+278
+278
 280
 281
-281
-283
+282
+282
 284
-284
+285
 286
 287
 288
@@ -3595,25 +3583,26 @@ B
 291
 292
 293
-293
-295
+294
+294
 296
 297
 298
 299
-299
+300
 301
-302
+301
 303
 304
 305
 306
 307
 308
-308
+309
 310
 311
-312
+Ecuador
+India
 Mexico
 India
 Congo (Rep.)
@@ -3625,8 +3614,8 @@ China
 China
 Indonesia
 India
-Philippines
 Zimbabwe
+France
 China
 Malaysia
 China
@@ -3636,6 +3625,7 @@ Pakistan
 Argentina
 China
 United States
+France
 United Kingdom
 Saudi Arabia
 Iraq
@@ -3649,11 +3639,10 @@ South Korea
 Italy
 India
 Portugal
-France
-France
 South Korea
 Russia
-India
+Quito
+Ludhiana, PU
 Leon
 Kannur, KER
 Brazzaville
@@ -3665,8 +3654,8 @@ Jilin, JL
 Haikou, HA
 Makassar
 Nashik, MAH
-Davao City
 Harrare
+Marseille
 Datong, SAX
 Johor-Bharu
 Zibo, SD
@@ -3676,6 +3665,7 @@ Peshawar
 Cordoba
 Anshan, LN
 Kansas City, MO-KS
+Lyon
 Leeds-Bradford
 Mecca
 Mosul
@@ -3689,12 +3679,11 @@ Daejeon
 Turin
 Madurai, TN
 Porto
-Lyon
-Marseille
 Guangju
 Novosibersk
-Varanasi.UP
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+1,656,000
+1,648,000
 1,646,000
 1,643,000
 1,642,000
@@ -3707,7 +3696,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,600,000
 1,599,000
 1,587,000
-1,587,000
+1,582,000
 1,580,000
 1,578,000
 1,573,000
@@ -3717,6 +3706,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,553,000
 1,547,000
 1,547,000
+1,542,000
 1,541,000
 1,537,000
 1,527,000
@@ -3730,11 +3720,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,499,000
 1,493,000
 1,491,000
-1,480,000
-1,480,000
 1,477,000
 1,470,000
-1,466,000
+2012
+2012
 2012
 2011
 2012
@@ -3746,8 +3735,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2012
-2012
-2012
+2,012
 2012
 2012
 2012
@@ -3774,7 +3762,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2012
 2010
-2012
+1,600,000
+1,613,000
 1,610,000
 1,643,000
 1,560,000
@@ -3786,8 +3775,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,600,000
 1,600,000
 1,563,000
-1,520,000
 1,525,000
+1,560,000
 1,520,000
 1,500,000
 1,525,000
@@ -3797,6 +3786,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,532,000
 1,500,000
 1,519,000
+1,520,000
 1,499,000
 1,480,000
 1,450,000
@@ -3812,9 +3802,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,355,000
 1,470,000
 1,470,000
-1,470,000
-1,470,000
-1,435,000
+185
+65
 61
 35
 70
@@ -3826,8 +3815,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 120
 69
 43
-50
 230
+465
 70
 205
 135
@@ -3837,6 +3826,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 140
 70
 678
+455
 143
 150
 54
@@ -3850,11 +3840,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 145
 29
 150
-368
-465
 49
 240
-39
+9,000
+25,400
 27,000
 46,900
 23,500
@@ -3866,8 +3855,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 13,300
 23,200
 37,200
-31,700
 6,900
+3,400
 22,600
 7,700
 11,700
@@ -3877,6 +3866,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 11,100
 22,100
 2,300
+3,400
 10,800
 10,200
 28,300
@@ -3890,11 +3880,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 10,300
 51,500
 9,900
-4,000
-3,200
 30,100
 6,100
-37,600
+479
+168
 158
 91
 181
@@ -3906,8 +3895,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 311
 179
 111
-130
 596
+1,204
 181
 531
 350
@@ -3917,6 +3906,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 363
 181
 1,756
+1,178
 370
 389
 140
@@ -3930,11 +3920,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 376
 75
 389
-954
-1,204
 127
 622
-101
+3,500
+9,800
 10,400
 18,100
 9,100
@@ -3946,8 +3935,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 5,100
 9,000
 14,400
-12,300
 2,700
+1,300
 8,700
 3,000
 4,500
@@ -3957,6 +3946,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 4,300
 8,500
 900
+1,300
 4,200
 4,000
 10,900
@@ -3970,11 +3960,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 4,000
 19,900
 3,800
-1,600
-1,200
 11,600
 2,400
-14,500
+2010
+2011
 2010
 2011
 2010
@@ -3987,7 +3976,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2011
 2010
-2010
+2008
 2010
 2010
 2010
@@ -3997,6 +3986,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2010
+2008
 2001
 2010
 2010
@@ -4012,9 +4002,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2000
 2010
 2010
-2010
-2010
-2011
+D
+A
 D
 A
 D
@@ -4026,8 +4015,8 @@ C
 C
 C
 A
-D
 E
+A
 E
 F
 C
@@ -4038,6 +4027,7 @@ D
 C
 A
 A
+A
 E
 D
 C
@@ -4050,10 +4040,33 @@ E
 C
 A
 D
-D
-D
 E
 E
+B
+B
+B
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+A
 A
 B
 B
@@ -4065,49 +4078,24 @@ B
 B
 B
 B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-A
-A
-B
-B
-B
-B
-B
-A
-B
-B
-B
-B
-B
-B
-A
 B
 B
 B
 B
 23
+312
 313
 314
 315
 316
 317
 318
-318
-320
+319
+319
 321
 322
-322
-324
+323
+323
 325
 326
 327
@@ -4135,7 +4123,8 @@ B
 349
 350
 351
-352
+India
+Philippines
 Turkey
 India
 United States
@@ -4174,8 +4163,8 @@ Argentina
 Germany
 India
 Czech Republic
-Indonesia
-China
+Varanasi.UP
+Davao City
 Adana
 Meerut, UP
 Virginia Beach-Norfolk, VA
@@ -4203,7 +4192,7 @@ Sendai
 Natal
 Hiroshima
 Charlotte, NC-SC
-SaO Luis
+Sao Luis
 Srinigar, JK
 Yerevan
 Auckland
@@ -4214,9 +4203,9 @@ Rosario
 Stuttgart
 Asansol, WB
 Prague
-Yogyakarta
-Zhuhai, GD
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+1,466,000
+1,462,000
 1,458,000
 1,457,000
 1,453,000
@@ -4255,8 +4244,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,272,000
 1,271,000
 1,265,000
-1,250,000
-1,249,000
+2012
+2012
 2012
 2012
 2012
@@ -4295,8 +4284,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2012
 2012
-2010
-2012
+1,435,000
+1,400,000
 1,420,000
 1,425,000
 1,440,000
@@ -4335,8 +4324,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,250,000
 1,243,000
 1,265,000
-1,250,000
-1,200,000
+39
+50
 48
 40
 515
@@ -4375,8 +4364,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 160
 25
 110
-90
-95
+37,600
+29,200
 30,400
 36,400
 2,800
@@ -4415,8 +4404,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 8,000
 50,800
 11,500
-13,900
-13,100
+101
+130
 124
 104
 1,334
@@ -4455,8 +4444,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 414
 65
 285
-233
-246
+14,500
+11,300
 11,700
 14,100
 1,100
@@ -4495,8 +4484,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 3,100
 19,600
 4,400
-5,400
-5,100
+2011
+2010
 2010
 2011
 2010
@@ -4535,8 +4524,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2001
 2011
 2010
-2010
-2010
+A
+D
 D
 A
 A
@@ -4575,26 +4564,6 @@ D
 C
 A
 D
-C
-E
-B
-B
-A
-B
-B
-B
-A
-B
-B
-B
-B
-A
-B
-A
-B
-B
-B
-B
 B
 B
 B
@@ -4608,19 +4577,38 @@ B
 B
 B
 B
+A
 B
 A
 B
 B
+B
+B
+B
+B
+B
+B
+A
+B
+B
+B
+A
+B
+B
+B
+B
+B
+A
 B
 B
 B
 B
 B
 24
+352
 353
-353
-355
+354
+354
 356
 357
 358
@@ -4641,14 +4629,14 @@ B
 373
 374
 375
-375
-377
+376
+376
 378
 379
-379
-381
-381
-383
+380
+380
+382
+382
 384
 385
 386
@@ -4657,7 +4645,8 @@ B
 389
 390
 391
-391
+Indonesia
+China
 Russia
 Venezuela
 Mexico
@@ -4696,8 +4685,8 @@ Chad
 Finland
 Russia
 Mexico
-Angola
-Ireland
+Yogyakarta
+Zhuhai, GD
 Nizhni Novgorod
 Barquisimeto
 Torreon
@@ -4736,9 +4725,9 @@ Niamey
 Helsinki
 Chelyabinsk
 Queretero
-Huambo
-Dublin
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+1,250,000
+1,249,000
 1,248,000
 1,248,000
 1,246,000
@@ -4777,8 +4766,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,131,000
 1,130,000
 1,129,000
-1,128,000
-1,128,000
+2010
+2012
 2012
 2012
 2012
@@ -4817,8 +4806,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2010
 2012
-2012
-2012
+1,250,000
+1,200,000
 1,250,000
 1,215,000
 1,220,000
@@ -4857,8 +4846,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,120,000
 1,130,000
 1,100,000
-1,039,000
-1,100,000
+90
+95
 240
 37
 65
@@ -4897,8 +4886,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 190
 225
 58
-22
-175
+13,900
+13,100
 5,200
 33,700
 19,200
@@ -4937,8 +4926,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 6,000
 5,000
 19,500
-51,300
-6,400
+233
+246
 622
 96
 168
@@ -4977,8 +4966,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 492
 583
 150
-57
-453
+5,400
+5,100
 2,000
 13,000
 7,400
@@ -5017,8 +5006,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,300
 1,900
 7,500
-19,800
-2,500
+2010
+2010
 2010
 2010
 2010
@@ -5057,8 +5046,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2010
-2010
-2010
+C
+E
 E
 D
 D
@@ -5097,8 +5086,6 @@ D
 E
 D
 D
-D
-D
 B
 B
 B
@@ -5108,18 +5095,18 @@ B
 B
 B
 B
-B
-B
-A
 B
 B
 B
 B
 A
 B
+B
+B
+B
 A
 B
-B
+A
 B
 B
 B
@@ -5140,51 +5127,54 @@ B
 B
 B
 25
-393
+392
+392
 394
 395
 396
-396
-398
+397
+397
 399
 400
 401
-401
-401
-404
-405
+402
+403
+403
+403
 406
 407
 408
 409
 410
 411
-411
+412
 413
 413
 415
 415
 417
-418
+417
 419
 420
-420
-420
-423
-424
+421
+422
+422
+422
 425
 426
-426
-426
-429
-430
+427
+428
+428
+428
 431
-432
+Angola
+Ireland
 India
 Georgia
 China
 Colombia
 Venezuela
+China
 India
 Canada
 Honduras
@@ -5217,14 +5207,14 @@ France-Belgium
 India
 Netherlands
 India
-Brazil
-Mexico
-Mexico
+Huambo
+Dublin
 Gwalior, MP
 Tblisi
 Zhangjaikou, HEB
 Bucaramanga
 Maracay
+Changshu (Suzhou), JS
 Kollam, KER
 Calgary, AB
 Tegucigalpa
@@ -5257,15 +5247,15 @@ Lille
 Chandigarh, CH
 Amsterdam
 Tiruchirappalli, TN
-Florianopolis
-Merida
-San Luis Potosi
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+1,128,000
+1,128,000
 1,127,000
 1,122,000
 1,121,000
 1,119,000
 1,119,000
+1,117,000
 1,110,000
 1,107,000
 1,103,000
@@ -5298,9 +5288,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,050,000
 1,050,000
 1,045,000
-1,044,000
-1,043,000
-1,040,000
+2012
+2012
+2012
 2012
 2012
 2012
@@ -5338,14 +5328,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2010
 2012
-2012
-2012
-2010
+1,039,000
+1,100,000
 1,102,000
 1,120,000
 1,080,000
 1,090,000
 1,090,000
+1,075,000
 1,110,000
 1,095,000
 1,050,000
@@ -5378,14 +5368,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,026,000
 1,050,000
 1,022,000
-1,010,000
-1,020,000
-1,040,000
+22
+175
 22
 75
 50
 23
 61
+110
 70
 272
 38
@@ -5418,14 +5408,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 78
 160
 33
-50
-80
-51
+51,300
+6,400
 51,200
 15,000
 22,400
 48,700
 18,300
+10,200
 15,900
 4,100
 29,000
@@ -5458,16 +5448,16 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 13,500
 6,600
 31,700
-20,900
-13,000
-20,400
+57
+453
 57
 194
 130
 60
 158
+285
 181
-449
+704
 98
 135
 83
@@ -5498,16 +5488,16 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 202
 414
 85
-130
-207
-132
+19,800
+2,500
 19,800
 5,800
 8,700
 18,800
 7,100
+3,900
 6,100
-2,500
+1,600
 11,200
 8,200
 13,300
@@ -5538,10 +5528,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 5,200
 2,500
 12,200
-8,100
-5,000
-7,900
+2010
+2010
 2011
+2010
 2010
 2010
 2010
@@ -5578,22 +5568,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2011
 2010
 2011
-2010
-2010
-2010
+D
+D
 A
 D
 E
 D
-D
-A
-A
 D
 C
 A
 A
 D
 C
+A
+A
+D
+C
 E
 D
 D
@@ -5618,9 +5608,9 @@ C
 A
 C
 A
-D
-D
-D
+B
+B
+B
 B
 B
 B
@@ -5658,50 +5648,50 @@ A/B
 B
 B
 B
-B
-B
-B
 26
+432
 433
 434
 435
 436
 437
 438
-438
-438
-438
-438
-443
-443
+439
+440
+440
+440
+440
+440
 445
-446
+445
 447
-447
-447
-447
-447
-452
-453
-453
+448
+449
+449
+449
+449
+449
+454
 455
-456
+455
 457
 458
-458
+459
 460
 461
-461
-463
+462
+462
 464
 465
 466
-466
-468
-468
-468
-468
-472
+467
+467
+469
+469
+469
+Brazil
+Mexico
+Mexico
 China
 China
 India
@@ -5728,7 +5718,6 @@ United States
 Colombia
 United States
 China
-China
 India
 Japan
 Russia
@@ -5740,8 +5729,9 @@ Sierra Leone
 China
 China
 India
-Ukraine
-Belgium
+Florianopolis
+Merida
+San Luis Potosi
 Xinxiang, HEN
 Jiaxing, ZJ
 Kota, RJ
@@ -5767,7 +5757,6 @@ Perm
 Louisville, KY-IN
 Cartagena
 Richmond, VA
-Changshu (Suzhou), JS
 Zhanjiang, GD
 Solapur, MAH
 Naha
@@ -5780,9 +5769,10 @@ Freetown
 Zhenjiang, JS
 Zhuzhou, HUN
 Tiruppur, TN
-Donetsk
-Antwerp
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+1,044,000
+1,043,000
+1,040,000
 1,028,000
 1,026,000
 1,024,000
@@ -5809,7 +5799,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 987,000
 978,000
 975,000
-975,000
 973,000
 970,000
 970,000
@@ -5821,8 +5810,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 963,000
 963,000
 963,000
-963,000
-960,000
+2012
+2012
+2010
 2012
 2012
 2012
@@ -5848,7 +5838,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2012
 2012
-2010
 2012
 2012
 2005
@@ -5861,8 +5850,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2012
 2011
-2012
-2012
+1,010,000
+1,020,000
+1,040,000
 990,000
 990,000
 1,001,000
@@ -5888,7 +5878,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 973,000
 960,000
 954,000
-975,000
 940,000
 951,000
 970,000
@@ -5901,8 +5890,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 925,000
 925,000
 963,000
-965,000
-960,000
+50
+80
+51
 40
 100
 24
@@ -5928,7 +5918,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 477
 32
 492
-85
 32
 21
 110
@@ -5941,8 +5930,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 65
 60
 40
-174
-255
+20,900
+13,000
+20,400
 25,700
 10,300
 42,700
@@ -5968,7 +5958,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,100
 30,800
 2,000
-11,500
 30,500
 46,300
 8,800
@@ -5981,8 +5970,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 14,800
 16,100
 24,100
-5,500
-3,800
+130
+207
+132
 104
 259
 62
@@ -6008,12 +5998,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,235
 83
 1,274
-220
 83
 54
 285
 440
-449
+855
 155
 155
 132
@@ -6021,8 +6010,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 168
 155
 104
-451
-660
+8,100
+5,000
+7,900
 9,900
 4,000
 16,500
@@ -6048,12 +6038,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 800
 11,900
 800
-4,400
 11,800
 17,900
 3,400
 2,200
-2,200
+1,100
 6,200
 6,200
 7,300
@@ -6061,8 +6050,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 5,700
 6,200
 9,300
-2,100
-1,500
+2010
+2010
+2010
 2010
 2010
 2011
@@ -6089,7 +6079,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2010
-2010
 2011
 2005
 2010
@@ -6101,8 +6090,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2011
-2010
-2010
+D
+D
+D
 E
 C
 A
@@ -6128,7 +6118,6 @@ D
 A
 D
 A
-C
 E
 A
 C
@@ -6141,21 +6130,12 @@ D
 C
 C
 A
-D
-C
 B
 B
 B
 B
 B
 B
-B
-B
-B
-B
-B
-B
-A
 B
 B
 B
@@ -6167,15 +6147,22 @@ B
 B
 A
 B
+B
+B
+B
+B
+B
+B
+B
+B
+A
+B
 A
 B
 B
 B
 B
-B
 A
-B
-B
 B
 B
 B
@@ -6184,6 +6171,7 @@ B
 B
 B
 27
+469
 473
 474
 475
@@ -6193,8 +6181,8 @@ B
 479
 480
 481
-481
-483
+482
+482
 484
 485
 486
@@ -6204,12 +6192,12 @@ B
 490
 491
 492
-492
-494
+493
+493
 495
 496
 497
-497
+498
 499
 500
 501
@@ -6223,14 +6211,15 @@ B
 509
 510
 510
-512
+Ukraine
+France
+Belgium
 Iraq
 Argentina
 Mexico
 Mexico
 Morocco
 China
-France
 Canada
 India
 Saudi Arabia
@@ -6248,7 +6237,6 @@ China
 Congo (Dem. Rep.)
 China
 United States
-France
 Nigeria
 Poland
 China
@@ -6263,14 +6251,15 @@ China
 United Kingdom
 India
 Ivory Coast
-China
+Donetsk
+Nice
+Antwerp
 Basrah
 Mendoza
 Aguascalientes
 Mexicali
 Marrakech
 Qinhuangdao, HEB
-Nice
 Ottawa, ON-QC
 Salem, TN
 Damman
@@ -6288,7 +6277,6 @@ Shaoguan, GD
 Kananga
 Puning (Jieyang,) GD
 New Orleans, LA
-Toulouse
 Onitsha
 Lodz
 Yichang, HUB
@@ -6303,15 +6291,16 @@ Pingdingshan, HEN
 Newcastle upon Tyne
 Moradabad, UP
 Yamoussoukro
-Benxi, LN
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+963,000
+962,000
+960,000
 959,000
 956,000
 954,000
 952,000
 950,000
 947,000
-944,000
 941,000
 940,000
 940,000
@@ -6330,7 +6319,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 910,000
 909,000
 908,000
-908,000
 907,000
 906,000
 905,000
@@ -6344,7 +6332,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 892,000
 890,000
 890,000
-887,000
+2012
+2012
 2012
 2012
 2012
@@ -6368,7 +6357,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2012
 2010
-2012
 2012
 2011
 2012
@@ -6384,14 +6372,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2011
 2010
-2012
+965,000
+947,000
+960,000
 920,000
 942,000
 930,000
 930,000
 920,000
 910,000
-925,000
 934,000
 919,000
 900,000
@@ -6409,7 +6398,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 840,000
 910,000
 900,000
-900,000
 908,000
 950,000
 870,000
@@ -6424,14 +6412,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 880,000
 890,000
 890,000
-860,000
+174
+287
+255
 61
 95
 41
 78
 31
 60
-175
 194
 19
 375
@@ -6449,7 +6438,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 21
 69
 251
-312
 57
 70
 25
@@ -6464,14 +6452,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 81
 20
 22
-45
+5,500
+3,400
+3,800
 15,700
 10,100
 23,300
 12,200
 30,600
 15,800
-5,400
 4,900
 49,500
 2,500
@@ -6489,7 +6478,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 43,700
 13,200
 3,600
-2,900
 15,900
 13,000
 36,200
@@ -6504,15 +6492,16 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 10,900
 44,500
 40,500
-19,700
+451
+743
+660
 158
 246
 106
 202
 80
 155
-453
-449
+502
 49
 971
 124
@@ -6529,7 +6518,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 54
 179
 650
-808
 148
 181
 65
@@ -6544,15 +6532,16 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 211
 52
 57
-117
+2,100
+1,300
+1,500
 6,100
 3,900
 9,000
 4,700
 11,800
 6,100
-2,100
-2,100
+1,900
 19,100
 1,000
 7,500
@@ -6569,7 +6558,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 16,900
 5,100
 1,400
-1,100
 6,200
 5,000
 14,000
@@ -6584,23 +6572,23 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 4,200
 17,200
 15,600
-7,600
+2010
+2008
 2010
 2010
-2010
-2010
-2010
-2010
-2007
-2011
-2011
 2010
 2010
 2010
 2010
 2010
 2011
+2011
 2010
+2010
+2010
+2010
+2010
+2011
 2010
 2010
 2010
@@ -6624,14 +6612,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2001
 2011
 2010
-2010
+D
+D
+C
 D
 D
 D
 D
 D
 E
-D
 A
 A
 E
@@ -6649,7 +6638,6 @@ E
 D
 E
 A
-D
 D
 C
 E
@@ -6664,34 +6652,6 @@ E
 A
 A
 D
-E
-B
-B
-B
-B
-B
-B
-B
-A
-B
-B
-B
-A
-B
-A
-B
-B
-A
-B
-A
-B
-B
-B
-B
-A
-A
-B
-B
 B
 B
 B
@@ -6703,9 +6663,37 @@ B
 B
 A
 B
+B
+B
+A
+B
+A
+B
+B
+A
+B
+A
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+A
 B
 B
 28
+512
 513
 514
 515
@@ -6713,10 +6701,10 @@ B
 517
 518
 519
-519
-521
-521
-523
+520
+520
+522
+522
 524
 525
 526
@@ -6745,19 +6733,19 @@ B
 548
 550
 551
-552
+China
 Indonesia
 China
 China
 India
 United States
+France
 Russia
 Chile
 Italy
 Jamaica
 Nigeria
 India
-Philippines
 Argentina
 Nigeria
 Iran
@@ -6785,19 +6773,19 @@ Indonesia
 Nigeria
 Algeria
 United States
-Brazil
+Benxi, LN
 Bandar Lampung
 Mudanjiang, HL
 Hengyang, HUN
 Bhubaveswar, OR
 Oklahoma City, OK
+Toulouse
 Voronezh
 Valparaiso-Vina del Mar
 Palermo
 Kingston
 Maiduguri
 Jalandhar, PU
-Cebu
 Tucuman
 Aba
 Kermanshah
@@ -6825,20 +6813,20 @@ Pekan Baru
 Enugu
 Wahran
 Honolulu, HI
-Londrina
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+887,000
 886,000
 884,000
 882,000
 882,000
 881,000
+880,000
 879,000
 876,000
 876,000
 875,000
 875,000
 874,000
-873,000
 867,000
 866,000
 865,000
@@ -6846,7 +6834,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 860,000
 857,000
 852,000
-847,000
+845,000
 841,000
 840,000
 840,000
@@ -6866,11 +6854,12 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 807,000
 805,000
 804,000
-800,000
+2012
 2012
 2012
 2012
 2011
+2012
 2012
 2012
 2012
@@ -6879,7 +6868,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2011
 2012
-2012
 2011
 2012
 2010
@@ -6906,19 +6894,19 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2011
 2012
 2012
-2010
+860,000
 850,000
 850,000
 850,000
 882,000
 862,000
+865,000
 880,000
 840,000
 875,000
 875,000
 851,000
 874,000
-840,000
 853,000
 866,000
 840,000
@@ -6926,7 +6914,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 840,000
 840,000
 843,000
-840,000
+830,000
 820,000
 840,000
 840,000
@@ -6946,19 +6934,19 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 807,000
 776,000
 802,000
-800,000
+45
 34
 42
 23
 28
 411
+313
 61
 62
 56
 89
 60
 22
-70
 44
 35
 34
@@ -6966,7 +6954,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 64
 41
 353
-408
+453
 84
 30
 75
@@ -6986,19 +6974,19 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 30
 36
 170
-48
+19,700
 26,100
 21,000
 38,300
 31,500
 2,100
+2,800
 14,400
 14,100
 15,600
 9,800
 14,600
 39,700
-12,500
 19,700
 24,700
 25,400
@@ -7006,7 +6994,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 13,400
 20,900
 2,400
-2,100
+1,900
 10,000
 28,000
 11,200
@@ -7026,19 +7014,19 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 26,900
 22,400
 4,700
-16,700
+117
 88
 109
 60
 73
 1,064
+811
 158
 161
 145
 231
 155
 57
-181
 114
 91
 88
@@ -7046,7 +7034,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 166
 106
 914
-1,057
+1,173
 218
 78
 194
@@ -7066,19 +7054,19 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 78
 93
 440
-124
+7,600
 10,100
 8,100
 14,800
 12,200
 800
+1,100
 5,600
 5,500
 6,000
 3,800
 5,600
 15,300
-4,800
 7,600
 9,600
 9,800
@@ -7086,7 +7074,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 5,200
 8,100
 900
-800
+700
 3,900
 10,800
 4,300
@@ -7106,12 +7094,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 10,400
 8,600
 1,800
-6,400
+2010
 2010
 2010
 2010
 2011
 2010
+2008
 2010
 2010
 2010
@@ -7119,14 +7108,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2011
 2011
 2010
-2010
 2011
 2010
 2010
 2010
 2010
 2010
-2010
+2008
 2010
 2010
 2010
@@ -7146,12 +7134,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2011
 2010
 2010
-2010
+E
 D
 E
 C
 A
 A
+A
 E
 E
 C
@@ -7163,43 +7152,28 @@ D
 D
 D
 D
-D
 E
 A
-D
-D
-E
-C
-D
-D
-D
-E
-D
-C
 A
 D
 E
 C
 D
+D
+D
+E
+D
+C
+A
+D
+E
+C
+D
 A
 D
 D
 D
 A
-D
-B
-B
-B
-B
-A
-B
-B
-B
-B
-B
-B
-B
-B
 B
 B
 B
@@ -7216,6 +7190,20 @@ B
 B
 B
 B
+B
+B
+B
+A
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
 A
 B
 B
@@ -7226,50 +7214,51 @@ B
 B
 B
 A
-B
 29
 552
 552
 552
 552
-557
+552
+552
 558
 559
 560
-560
-560
-560
-564
-564
-564
-567
+561
+561
+561
+561
+565
+565
+565
 568
 569
-569
-569
-569
-573
+570
+570
+570
+570
 574
 575
-575
-577
-577
-577
-577
-577
-582
-582
-582
-582
-582
-582
-582
-582
-582
-591
-592
+576
+576
+578
+578
+578
+578
+578
+583
+583
+583
+583
+583
+583
+583
+583
+583
+Brazil
 China
 Japan
+Philippines
 United Arab Emirates
 Viet Nam
 China
@@ -7306,10 +7295,10 @@ Spain
 Spain
 Ukraine
 Ukraine
-United States
-Brazil
+Londrina
 Rizhao, SD
 Niigata
+Angeles City
 Abu Dhabi
 Da Nang
 Jiaozuo, HEN
@@ -7346,9 +7335,9 @@ Bilbao
 Seville
 Kryvyy Rih
 Lviv
-Albuquerque, NM
-Aracaju
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+800,000
+800,000
 800,000
 800,000
 800,000
@@ -7387,10 +7376,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 750,000
 750,000
 750,000
-749,000
-748,000
+2010
 2010
 2005
+2010
 2010
 2010
 2012
@@ -7427,8 +7416,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2001
 2003
 2001
-2012
-2010
+800,000
+800,000
 800,000
 800,000
 800,000
@@ -7467,10 +7456,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 750,000
 750,000
 750,000
-741,000
-748,000
+48
 57
 86
+72
 340
 25
 50
@@ -7507,10 +7496,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 52
 64
 75
-251
-45
+16,700
 14,000
 9,300
+11,100
 2,400
 32,000
 16,000
@@ -7547,10 +7536,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 14,400
 11,700
 10,000
-3,000
-16,600
+124
 148
 223
+186
 881
 65
 130
@@ -7587,10 +7576,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 135
 166
 194
-650
-117
+6,400
 5,400
 3,600
+4,300
 900
 12,400
 6,200
@@ -7627,10 +7616,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 5,600
 4,500
 3,900
-1,200
-6,400
+2010
 2010
 2005
+2010
 2010
 2010
 2010
@@ -7667,9 +7656,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2001
 2003
 2001
-2010
-2010
+D
 E
+C
 C
 L
 D
@@ -7707,8 +7696,6 @@ C
 C
 D
 D
-A
-D
 B
 B
 B
@@ -7730,14 +7717,6 @@ B
 B
 B
 B
-B
-B
-B
-B
-B
-B
-B
-A
 B
 B
 B
@@ -7748,48 +7727,58 @@ B
 B
 B
 A
+B
+B
+B
+B
+B
+B
+B
+B
 B
 30
+592
 593
 594
 595
-595
-595
-595
-599
+596
+596
+596
+596
 600
 601
-601
-601
-604
-604
+602
+603
+603
+603
 606
-607
+606
 608
 609
 610
-610
+611
 612
 612
-612
-612
-612
-612
-618
-619
-620
+614
+615
+615
+615
+615
+615
+615
 621
 622
-622
+623
 624
 625
 625
-625
-625
-625
-630
-631
-632
+627
+628
+628
+628
+628
+United States
+Brazil
 Switzerland
 Syria
 Malawi
@@ -7798,6 +7787,7 @@ United States
 Yemen
 China
 India
+Philippines
 Algeria
 Mexico
 United States
@@ -7809,6 +7799,7 @@ United States
 India
 Japan
 Russia
+China
 China
 Croatia
 India
@@ -7826,10 +7817,8 @@ Argentina
 China
 Japan
 Mexico
-Turkey
-India
-Canada
-India
+Albuquerque, NM
+Aracaju
 Zurich
 Hims
 Lilonge
@@ -7838,6 +7827,7 @@ McAllen, TX
 Aden
 Yancheng, JS
 Bhiwandi, MAH
+Zamboanga
 Constantine
 Reynosa
 Omaha, NE-IA
@@ -7849,6 +7839,7 @@ Rochester, NY
 Dehradun, UTL
 Fuji
 Tojatti
+Danyang (Zhenjiang), JS
 Cangnan (Wenzhou), ZJ
 Zagreb
 Siliguri, WB
@@ -7866,11 +7857,9 @@ La Plata
 Liaoyang, LN
 Kumamoto
 Cueurnavaca
-Keyseri
-Guntur, AP
-Winnipeg, MB
-Jammu, JK
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+749,000
+748,000
 742,000
 741,000
 740,000
@@ -7879,6 +7868,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 740,000
 739,000
 737,000
+735,000
 730,000
 730,000
 730,000
@@ -7890,6 +7880,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 714,000
 710,000
 710,000
+703,000
 700,000
 700,000
 700,000
@@ -7907,18 +7898,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 675,000
 675,000
 675,000
-675,000
-674,000
-672,000
-668,000
+2012
+2010
 2012
 2012
 2010
 2010
 2012
-2004
+2,004
 2012
 2011
+2012
 2010
 2010
 2012
@@ -7930,13 +7920,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2011
 2005
 2010
+2012
 2010
 2003
 2011
 2010
 2003
 2001
-2012
+2,012
 2011
 2007
 2011
@@ -7947,10 +7938,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2007
 2005
 2005
-2007
-2011
-2011
-2012
+741,000
+748,000
 735,000
 550,000
 740,000
@@ -7959,6 +7948,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 740,000
 710,000
 737,000
+700,000
 730,000
 730,000
 725,000
@@ -7970,6 +7960,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 714,000
 710,000
 710,000
+675,000
 700,000
 700,000
 700,000
@@ -7987,10 +7978,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 675,000
 675,000
 675,000
-675,000
-674,000
-672,000
-652,000
+251
+45
 95
 25
 27
@@ -7999,6 +7988,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 19
 30
 20
+21
 38
 65
 271
@@ -8010,6 +8000,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 44
 59
 56
+28
 25
 61
 17
@@ -8027,10 +8018,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 45
 50
 66
-39
-14
-174
-27
+3,000
+16,600
 7,800
 29,600
 27,400
@@ -8039,6 +8028,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 38,900
 24,600
 36,900
+35,000
 19,200
 11,200
 2,700
@@ -8050,6 +8040,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 16,200
 12,000
 12,700
+25,100
 28,000
 11,500
 41,200
@@ -8067,10 +8058,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 15,000
 13,500
 10,200
-17,300
-48,100
-3,900
-24,700
+650
+117
 246
 65
 70
@@ -8079,6 +8068,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 49
 78
 52
+54
 98
 168
 702
@@ -8090,6 +8080,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 114
 153
 145
+73
 65
 158
 44
@@ -8097,7 +8088,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 78
 104
 44
-449
+668
 109
 54
 67
@@ -8107,10 +8098,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 117
 130
 171
-101
-36
-449
-70
+1,200
+6,400
 3,000
 11,400
 10,600
@@ -8119,6 +8108,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 15,000
 9,500
 14,200
+13,500
 7,400
 4,300
 1,000
@@ -8130,6 +8120,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 6,300
 4,600
 4,900
+9,700
 10,800
 4,400
 15,900
@@ -8137,7 +8128,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 9,000
 6,800
 15,900
-1,600
+1,000
 6,400
 12,700
 10,200
@@ -8147,10 +8138,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 5,800
 5,200
 3,900
-6,700
-18,600
-1,500
-9,600
+2010
+2010
 2009
 2001
 2010
@@ -8162,6 +8151,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2010
+2010
 2001
 2005
 2010
@@ -8169,6 +8159,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2011
 2005
+2010
 2010
 2010
 2003
@@ -8187,10 +8178,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2007
 2005
 2005
-2007
-2011
-2011
-2011
+A
+D
 C
 F
 D
@@ -8199,6 +8188,7 @@ A
 D
 E
 A
+C
 E
 D
 A
@@ -8210,6 +8200,7 @@ A
 A
 C
 E
+C
 C
 C
 A
@@ -8227,14 +8218,6 @@ A
 E
 C
 C
-E
-A
-A
-A
-B
-B
-B
-B
 A
 B
 B
@@ -8244,18 +8227,14 @@ B
 A
 B
 B
+B
+B
+B
+B
 A
 B
+B
 A
-B
-B
-B
-B
-B
-B
-B
-B
-B
 B
 A
 B
@@ -8270,48 +8249,60 @@ B
 B
 B
 A
+B
+B
+B
+B
+B
+B
+B
+B
 B
 31
+628
 633
-633
+634
 635
 636
-637
-637
+636
+638
 639
 640
-641
+640
 642
 643
 644
-644
-644
-644
-644
-644
-644
-644
-644
-644
-644
-644
-644
-644
-658
-658
-660
+645
+646
+647
+647
+647
+647
+647
+647
+647
+647
+647
+647
+647
+647
+647
+647
 661
-662
-662
+661
+663
 664
 665
 665
-665
-665
-665
-670
-671
-671
+667
+668
+668
+668
+668
+Turkey
+India
+Canada
+India
 China
 United Kingdom
 United States
@@ -8348,10 +8339,10 @@ Bolivia
 Italy
 Malaysia
 Mexico
-South Korea
-United States
-India
-Philippines
+Keyseri
+Guntur, AP
+Winnipeg, MB
+Jammu, JK
 Yueyang, HUN
 Nottingham
 Allentown, PA--NJ
@@ -8388,11 +8379,11 @@ Cochabamba
 Genoa
 Ipoh
 Villahermosa
-Cheongju
-Springfield, MA-CT
-Mangalore, KAR
-Zamboanga
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+675,000
+674,000
+672,000
+668,000
 666,000
 666,000
 665,000
@@ -8429,10 +8420,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 625,000
 625,000
 625,000
-625,000
-621,000
-620,000
-620,000
+2007
+2011
+2011
+2012
 2012
 2001
 2010
@@ -8457,22 +8448,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2005
 2001
 2012
-2000
+2,000
 2012
 2011
 2011
 2001
 2001
-2012
+2,012
 2012
 2001
 2010
 2002
 2005
-2010
-2012
-2011
-2012
+675,000
+674,000
+672,000
+652,000
 650,000
 666,000
 665,000
@@ -8509,10 +8500,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 625,000
 625,000
 625,000
-625,000
-621,000
-620,000
-550,000
+39
+14
+174
+27
 24
 61
 346
@@ -8549,10 +8540,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 30
 125
 25
-22
-349
-25
-17
+17,300
+48,100
+3,900
+24,700
 27,800
 10,800
 1,900
@@ -8589,10 +8580,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 20,800
 5,000
 25,000
-28,400
-1,800
-24,800
-36,500
+101
+36
+451
+70
 62
 159
 896
@@ -8629,10 +8620,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 78
 324
 65
-57
-904
-65
-44
+6,700
+18,600
+1,500
+9,600
 10,700
 4,200
 700
@@ -8669,10 +8660,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 8,000
 1,900
 9,700
-11,000
-700
-9,600
-14,100
+2007
+2011
+2011
+2011
 2010
 2001
 2010
@@ -8709,10 +8700,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2002
 2005
-2010
-2010
-2011
-2007
+E
+A
+A
+A
 E
 A
 A
@@ -8749,35 +8740,14 @@ E
 C
 E
 C
-E
-A
-A
-C
-B
-A
-A
-A
-B
 B
 B
 A
 B
 B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
 A
-B
+A
+A
 B
 B
 B
@@ -8790,50 +8760,70 @@ B
 B
 B
 B
+B
+B
+B
+B
+B
+B
+B
 A
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
 B
 B
 32
-671
+668
+673
 674
-675
-675
-675
-678
-679
+674
+676
+677
+677
+677
 680
 681
-681
-681
-681
-681
-681
-681
-681
-681
-681
-681
-681
-681
-681
-681
-681
-681
-681
-699
-700
-701
+682
+683
+683
+683
+683
+683
+683
+683
+683
+683
+683
+683
+683
+683
+683
+683
+683
+683
+683
+683
 702
-702
+703
 704
-704
-706
+705
+705
 707
-708
-708
-708
+707
+707
+710
 711
-712
+South Korea
+United States
+India
 Russia
 China
 India
@@ -8852,6 +8842,7 @@ Mexico
 Mexico
 North Korea
 Peru
+Philippines
 Poland
 Poland
 Qatar
@@ -8865,15 +8856,14 @@ United States
 China
 China
 Russia
+France
 Germany
 Germany-Netherlands
 China
 India
-China
-Iran
-Russia
-India
-Argentina
+Cheongju
+Springfield, MA-CT
+Mangalore, KAR
 Izevsk
 Nanchong, SC
 Belgaum, KAR
@@ -8892,6 +8882,7 @@ Acapulco
 Veracruz
 Nampo
 Trujillo
+Cagayan de Oro
 Poznan
 Wroclaw
 Doha
@@ -8905,16 +8896,15 @@ Albany, NY
 Huangshi, HUB
 Lufeng (Shanwei), GD
 Vladivostock
+Nantes
 Mannheim
 Aachen
 Kaifeng, HEN
 Durgapur, WB
-Panjin, LN
-Rezalyeh
-Irkutsk
-Malegaon, HAM
-Mar del Plata
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+625,000
+621,000
+620,000
 620,000
 613,000
 610,000
@@ -8941,6 +8931,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 600,000
 600,000
 600,000
+600,000
 599,000
 596,000
 595,000
@@ -8948,13 +8939,12 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 590,000
 585,000
 585,000
+585,000
 583,000
 581,000
-580,000
-580,000
-580,000
-576,000
-575,000
+2010
+2012
+2011
 2010
 2012
 2011
@@ -8973,6 +8963,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2005
 2003
 2005
+2010
 2002
 2002
 2004
@@ -8986,15 +8977,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2007
 2010
 2010
+2008
 2012
 2001
 2012
 2011
-2007
-2006
-2010
-2011
-2010
+625,000
+621,000
+620,000
 620,000
 590,000
 610,000
@@ -9021,20 +9011,20 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 600,000
 600,000
 600,000
+600,000
 594,000
 595,000
 595,000
 590,000
 590,000
+585,000
 575,000
 585,000
 535,000
 581,000
-580,000
-580,000
-580,000
-576,000
-575,000
+22
+349
+25
 55
 27
 18
@@ -9053,6 +9043,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 34
 13
 33
+27
 85
 48
 120
@@ -9066,15 +9057,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 35
 18
 35
+208
 65
 155
 45
 19
-40
-36
-55
-9
-42
+28,400
+1,800
+24,800
 11,300
 22,700
 33,900
@@ -9093,6 +9083,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 17,600
 46,200
 18,200
+22,200
 7,100
 12,500
 5,000
@@ -9106,15 +9097,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 17,000
 32,800
 16,900
+2,800
 9,000
 3,800
 13,000
 30,600
-14,500
-16,100
-10,500
-64,000
-13,700
+57
+904
+65
 142
 70
 47
@@ -9133,6 +9123,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 88
 34
 85
+70
 220
 124
 311
@@ -9146,15 +9137,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 91
 47
 91
+539
 168
 401
 117
 49
-104
-93
-142
-23
-109
+11,000
+700
+9,600
 4,400
 8,800
 13,100
@@ -9173,6 +9163,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 6,800
 17,800
 7,000
+8,600
 2,700
 4,800
 1,900
@@ -9186,15 +9177,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 6,600
 12,700
 6,500
+1,100
 3,500
 1,500
 5,000
 11,800
-5,600
-6,200
-4,100
-24,700
-5,300
+2010
+2010
+2011
 2010
 2010
 2011
@@ -9213,6 +9203,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2005
 2003
 2005
+2010
 2002
 2002
 2004
@@ -9226,15 +9217,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2007
 2010
 2010
+2008
 2001
 2001
 2007
 2011
-2007
-2006
-2010
-2011
-2010
+E
+A
+A
 E
 E
 A
@@ -9253,6 +9243,7 @@ C
 C
 E
 E
+C
 E
 C
 E
@@ -9266,51 +9257,47 @@ A
 E
 E
 E
+A
 C
 C
 E
 A
-E
-E
-E
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
 A
 A
 B
 B
 B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
 A
-A
-B
-B
-B
-B
-B
-B
-B
-B
 B
 B
 B
@@ -9319,43 +9306,48 @@ B
 712
 712
 712
-712
-712
-718
-719
-719
-719
-719
-719
-724
-725
-726
-726
+715
+716
+716
+716
+716
+716
+716
+722
+723
+723
+723
+723
+723
 728
 729
-730
-730
-730
-730
-734
-734
-736
-736
-736
-739
-739
-739
-739
+729
+731
+732
+733
+733
+733
+733
+737
+738
+738
+740
+740
+740
 743
 743
 743
 743
-743
-743
-743
-743
-743
-743
+747
+747
+747
+747
+747
+China
+Iran
+Russia
+India
+Argentina
 Brazil
 Japan
 Japan
@@ -9368,7 +9360,6 @@ Russia
 Russia
 Turkey
 United States
-France
 United States
 United States
 India
@@ -9377,6 +9368,7 @@ Albania
 China
 China
 Iran
+France
 United States
 United States
 China
@@ -9391,11 +9383,11 @@ Egypt
 Gabon
 India
 Iran
-Lithuania
-Mauretania
-Mexico
-Mexico
-Moldova
+Panjin, LN
+Rezalyeh
+Irkutsk
+Malegaon, HAM
+Mar del Plata
 Uberlandia
 Kanazawa
 Nagano
@@ -9408,7 +9400,6 @@ Chabarovsk
 Machackala
 Eskisehir
 Akron, OH
-Nantes
 Colorado Springs, CO
 Knoxville, TN
 Bokaro Steel City, JHA
@@ -9417,6 +9408,7 @@ Tirana
 Macau, AO
 Yangquan, SAX
 Zahedan
+Toulon
 Charleston, SC
 Columbia, SC
 Fuyang, AH
@@ -9431,12 +9423,12 @@ Port Said
 Libreville
 Jhansi, UP
 Rasht
-Vilnius
-Nouakchott
-Cancun
-Tuxla Guitierrez
-Chisinau
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+580,000
+580,000
+580,000
+576,000
+575,000
 575,000
 575,000
 575,000
@@ -9449,7 +9441,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 570,000
 570,000
 569,000
-568,000
 564,000
 564,000
 563,000
@@ -9458,6 +9449,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 560,000
 560,000
 560,000
+559,000
 554,000
 554,000
 553,000
@@ -9472,11 +9464,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 550,000
 550,000
 550,000
-550,000
-550,000
-550,000
-550,000
-550,000
+2007
+2006
+2010
+2011
+2010
 2010
 2005
 2005
@@ -9489,7 +9481,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2007
 2012
-2006
 2012
 2012
 2011
@@ -9498,6 +9489,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2009
 2007
 2006
+2008
 2012
 2012
 2012
@@ -9512,11 +9504,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2005
 2011
 2006
-2006
-2002
-2005
-2005
-2004
+580,000
+580,000
+580,000
+576,000
+575,000
 575,000
 575,000
 575,000
@@ -9529,7 +9521,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 570,000
 570,000
 569,000
-568,000
 559,000
 559,000
 563,000
@@ -9538,6 +9529,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 560,000
 560,000
 560,000
+559,000
 548,000
 550,000
 525,000
@@ -9552,11 +9544,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 550,000
 550,000
 550,000
-550,000
-550,000
-550,000
-550,000
-550,000
+40
+36
+55
+9
+42
 51
 53
 75
@@ -9569,7 +9561,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 53
 43
 325
-184
 188
 438
 19
@@ -9578,6 +9569,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 8
 27
 29
+295
 293
 380
 36
@@ -9592,11 +9584,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 70
 16
 22
-85
-33
-39
-37
-40
+14,500
+16,100
+10,500
+64,000
+13,700
 11,300
 10,800
 7,700
@@ -9609,7 +9601,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 10,800
 13,300
 1,800
-3,100
 3,000
 1,300
 29,600
@@ -9618,6 +9609,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 70,000
 20,700
 19,300
+1,900
 1,900
 1,500
 15,400
@@ -9632,11 +9624,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 7,900
 34,400
 25,000
-6,500
-16,700
-14,100
-14,900
-13,800
+104
+93
+142
+23
+109
 132
 137
 194
@@ -9649,7 +9641,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 137
 111
 842
-476
 487
 1,134
 49
@@ -9658,6 +9649,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 21
 70
 75
+764
 759
 984
 93
@@ -9672,11 +9664,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 181
 41
 57
-220
-85
-101
-96
-104
+5,600
+6,200
+4,100
+24,700
+5,300
 4,400
 4,200
 3,000
@@ -9690,7 +9682,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 5,100
 700
 1,200
-1,200
 500
 11,400
 13,600
@@ -9698,6 +9689,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 27,000
 8,000
 7,500
+700
 700
 600
 5,900
@@ -9712,11 +9704,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 3,000
 13,300
 9,700
-2,500
-6,400
-5,400
-5,700
-5,300
+2007
+2006
+2010
+2011
+2010
 2010
 2005
 2005
@@ -9729,7 +9721,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2007
 2010
-2006
 2010
 2010
 2011
@@ -9738,6 +9729,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2009
 2007
 2006
+2008
 2010
 2010
 2010
@@ -9752,11 +9744,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2005
 2011
 2006
-2006
-2002
-2005
-2005
-2004
+E
+E
+E
+A
+A
 E
 C
 C
@@ -9773,11 +9765,11 @@ A
 A
 A
 A
-A
 E
 C
 E
 E
+A
 A
 A
 C
@@ -9792,26 +9784,10 @@ E
 F
 A
 E
-C
-E
-E
-C
-C
 B
 B
 B
 B
-B
-A
-B
-B
-B
-B
-B
-A
-A
-A
-A
 B
 B
 B
@@ -9819,6 +9795,22 @@ B
 B
 B
 A
+B
+B
+B
+B
+B
+A
+A
+A
+B
+B
+B
+B
+B
+B
+A
+A
 A
 B
 B
@@ -9827,57 +9819,57 @@ B
 B
 B
 A
-B
-B
-B
-B
-B
 B
 B
 B
 B
 B
 34
-743
-743
-743
-743
-757
-758
-759
-760
+747
+747
+747
+747
+747
+747
+747
+747
+747
 761
 762
-762
-762
-762
-766
-767
-768
-768
-768
-768
-768
-768
-768
-768
-768
-768
-768
-768
-780
-780
-780
-780
-780
-785
-786
-786
-788
+763
+764
+765
+765
+765
+765
+769
+770
+771
+771
+771
+771
+771
+771
+771
+771
+771
+771
+771
+771
+771
+784
+784
+784
+784
+784
 789
 789
-789
-789
+791
+Lithuania
+Mauretania
+Mexico
+Mexico
+Moldova
 Nigeria
 Pakistan
 Russia
@@ -9885,7 +9877,6 @@ Tajikistan
 China
 Oman
 China
-France
 United States
 India
 Japan
@@ -9901,6 +9892,7 @@ Indonesia
 Japan
 Kazakhstan
 Nigeria
+Philippines
 Senegal
 Trinidad & Tobago
 Ukraine
@@ -9910,14 +9902,14 @@ India
 Russia
 Russia
 Russia
-France
 Germany-France
-Switzerland & France
+Switzerland & F
 India
-China
-China
-China
-China
+Vilnius
+Nouakchott
+Cancun
+Tuxla Guitierrez
+Chisinau
 Warri
 Sargodha
 Khabarovsk
@@ -9925,7 +9917,6 @@ Dushanbe
 Liupanshui, GZ
 Muscat
 Xinyu, JX
-Toulon
 Cape Coral, FL
 Gulbarga, KAR
 Kagoshima
@@ -9941,6 +9932,7 @@ Serang
 Matsuyama
 Astana
 Ikorado
+Bacolod City
 Touba
 Port of Spain
 Luhansk
@@ -9950,15 +9942,15 @@ Erode, TN
 Astrakhan
 Razan
 Tomsk
-Douai-Lens
 Saarbrucken
 Geneva
 Sangali, MAH
-Linfen, SAA
-Luzhou, SC
-Tongxiang (Jiaxing), ZJ
-Wenling (Taizhou), ZJ
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+550,000
+550,000
+550,000
+550,000
+550,000
 550,000
 550,000
 550,000
@@ -9966,7 +9958,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 546,000
 545,000
 544,000
-543,000
 541,000
 540,000
 540,000
@@ -9986,19 +9977,20 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 525,000
 525,000
 525,000
+525,000
 520,000
 520,000
 520,000
 520,000
 520,000
-519,000
 515,000
 515,000
 514,000
-510,000
-510,000
-510,000
-510,000
+2006
+2002
+2005
+2005
+2004
 2005
 2005
 2010
@@ -10006,7 +9998,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2003
 2012
-2006
 2012
 2011
 2005
@@ -10022,6 +10013,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2005
 2006
 2006
+2010
 2002
 2003
 2001
@@ -10031,14 +10023,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2002
 2010
-1999
 2001
 2003
 2011
-2007
-2012
-2000
-2000
+550,000
+550,000
+550,000
+550,000
+550,000
 550,000
 550,000
 550,000
@@ -10046,7 +10038,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 525,000
 545,000
 495,000
-543,000
 530,000
 540,000
 540,000
@@ -10066,19 +10057,20 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 525,000
 525,000
 525,000
+525,000
 520,000
 520,000
 520,000
 520,000
 520,000
-519,000
 515,000
 515,000
 514,000
-510,000
-490,000
-510,000
-510,000
+85
+33
+39
+37
+40
 55
 20
 110
@@ -10086,7 +10078,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 35
 80
 31
-275
 330
 15
 49
@@ -10102,6 +10093,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 31
 60
 50
+32
 55
 110
 47
@@ -10111,14 +10103,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 46
 50
 40
-189
 90
 70
 18
-13
-10
-20
-20
+6,500
+16,700
+14,100
+14,900
+13,800
 10,000
 27,500
 5,000
@@ -10126,7 +10118,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 15,600
 6,800
 17,500
-2,000
 1,600
 36,000
 11,000
@@ -10142,6 +10133,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 16,900
 8,800
 10,500
+16,400
 9,500
 4,800
 11,200
@@ -10151,14 +10143,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 11,300
 10,400
 13,000
-2,700
 5,700
 7,400
 28,600
-39,200
-51,000
-25,500
-25,500
+220
+85
+101
+96
+104
 142
 52
 285
@@ -10166,7 +10158,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 91
 207
 80
-713
 855
 39
 127
@@ -10182,6 +10173,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 80
 155
 130
+83
 142
 285
 122
@@ -10191,14 +10183,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 119
 130
 104
-489
 233
 181
 47
-34
-26
-52
-52
+2,500
+6,400
+5,400
+5,700
+5,300
 3,900
 10,600
 1,900
@@ -10206,7 +10198,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 6,000
 2,600
 6,800
-800
 600
 13,900
 4,300
@@ -10222,6 +10213,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 6,500
 3,400
 4,100
+6,300
 3,700
 1,800
 4,300
@@ -10231,14 +10223,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 4,400
 4,000
 5,000
-1,100
 2,200
 2,800
 11,000
-15,100
-19,700
-9,800
-9,800
+2006
+2002
+2005
+2005
+2004
 2005
 2005
 2010
@@ -10246,7 +10238,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2003
 2007
-2006
 2010
 2011
 2005
@@ -10262,6 +10253,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2005
 2006
 2006
+2010
 2002
 2003
 2001
@@ -10271,14 +10263,14 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2002
 2010
-1999
 2001
 2003
 2011
-2007
-2010
-2000
-2000
+C
+E
+E
+C
+C
 F
 E
 E
@@ -10286,7 +10278,6 @@ E
 C
 C
 E
-A
 A
 A
 C
@@ -10302,6 +10293,7 @@ D
 C
 E
 F
+C
 E
 F
 E
@@ -10311,34 +10303,9 @@ A
 E
 E
 E
-A
 C
 C
 A
-E
-E
-E
-E
-B
-B
-B
-B
-B
-B
-B
-A
-A
-B
-B
-B
-B
-A
-B
-B
-B
-B
-B
-B
 B
 B
 B
@@ -10352,6 +10319,26 @@ B
 B
 B
 A
+B
+B
+B
+B
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
 B
 B
 B
@@ -10360,52 +10347,58 @@ B
 B
 B
 35
-789
-789
-789
-789
-789
-789
-799
-799
-801
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
-802
+792
+792
+792
+792
+792
+792
+792
+792
+792
+792
+792
+792
+804
+804
+806
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+China
+China
+China
+China
+France
 Iran
 Italy
 Kazakhstan
 Russia
 Russia
 Sweden
+Switzerland & D & F
 Bangladesh
 United States
 China
@@ -10434,18 +10427,18 @@ Iraq
 Japan
 Japan
 Japan
-Kazakhstan
-Morocco
-Nigeria
-Pakistan
-Peru
-Russia
+Linfen, SAA
+Luzhou, SC
+Tongxiang (Jiaxing), ZJ
+Wenling (Taizhou), ZJ
+Douai-Lens
 Kerman
 Bologna
 Symkent
 Naberenznyje Celny
 Penza
 Goteborg
+Basel
 Rajshahi
 Toledo, OH-MI
 Zhangzhou, FJ
@@ -10474,13 +10467,13 @@ Kirkuk
 Fukuyama
 Mito
 Utsonomiya
-Qaraghandy
-Miknas
-Oyo
-Saikot
-Chiclayo
-Bryansk
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+510,000
+510,000
+510,000
+510,000
+510,000
+510,000
 510,000
 510,000
 510,000
@@ -10515,18 +10508,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 500,000
 500,000
 500,000
-500,000
-500,000
-500,000
-500,000
-500,000
-500,000
+2007
+2012
+2000
+2000
+2008
 2006
 2010
 2004
 2010
 2010
 2005
+2011
 2012
 2010
 2007
@@ -10555,12 +10548,12 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2005
 2005
 2010
-2004
-2004
-2010
-2005
-2000
-2002
+510,000
+490,000
+510,000
+510,000
+510,000
+510,000
 510,000
 510,000
 510,000
@@ -10595,18 +10588,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 500,000
 500,000
 500,000
-500,000
-500,000
-500,000
-500,000
-500,000
-500,000
+13
+10
+20
+20
+187
 45
 60
 52
 50
 35
 76
+77
 10
 240
 40
@@ -10635,18 +10628,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 65
 95
 46
-125
-20
-19
-20
-22
-70
+39,200
+51,000
+25,500
+25,500
+2,700
 11,300
 8,500
 9,800
 10,200
 14,600
 6,700
+6,600
 50,800
 2,100
 12,600
@@ -10675,18 +10668,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 7,700
 5,300
 10,900
-4,000
-25,000
-26,300
-25,000
-22,700
-7,100
+34
+26
+52
+52
+484
 117
 155
 135
 130
 91
 198
+199
 26
 622
 104
@@ -10715,17 +10708,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 168
 246
 119
-324
-52
-49
-52
-57
-181
+15,100
+19,700
+9,800
+9,800
+1,100
 4,400
 3,300
 3,800
 3,900
 5,600
+2,600
 2,600
 19,600
 800
@@ -10755,18 +10748,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 3,000
 2,000
 4,200
-1,500
-9,700
-10,200
-9,700
-8,800
-2,800
+2007
+2010
+2000
+2000
+2008
 2006
 2010
 2004
 2010
 2010
 2005
+2011
 2001
 2010
 2007
@@ -10795,18 +10788,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2005
 2005
 2010
-2004
-2004
-2010
-2005
-2000
-2002
+E
+E
+E
+E
+A
 E
 C
 E
 E
 E
 A
+L
 C
 A
 E
@@ -10835,12 +10828,11 @@ E
 C
 C
 C
-E
-E
-F
-E
-E
-E
+B
+B
+B
+B
+A
 B
 B
 B
@@ -10848,13 +10840,8 @@ B
 B
 A
 B
+B
 A
-B
-B
-B
-B
-B
-B
 B
 B
 B
@@ -10882,15 +10869,29 @@ B
 B
 B
 36
-802
-802
-802
-802
-802
-802
-802
-802
-802
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+807
+Kazakhstan
+Morocco
+Nigeria
+Pakistan
+Peru
+Philippines
+Russia
 Russia
 Russia
 Russia
@@ -10902,6 +10903,7 @@ Spain
 Ukraine
 China
 China
+France
 China
 United States
 United States
@@ -10914,6 +10916,7 @@ United States
 Russia
 China
 China
+France
 United States
 United Kingdom
 Japan
@@ -10922,15 +10925,13 @@ United States
 Australia
 United States
 Argentina
-China
-Colombia
-Cuba
-Egypt
-Egypt
-Italy
-Macedonia
-Malaysia
-Netherlands
+Qaraghandy
+Miknas
+Oyo
+Saikot
+Chiclayo
+Iolio City
+Bryansk
 Lipeck
 Tula
 Tumen
@@ -10942,6 +10943,7 @@ Zaragoza
 Mariulpol
 Shangqui, HEN
 Xingtai, HEB
+Grenoble
 Langfang, HEB-TJ
 Provo, UT
 Worcester, MA-CT
@@ -10954,6 +10956,7 @@ Wichita, KS
 Kirov
 Maanshan, AH
 Anshun, GZ
+Rouen
 Murrieta, CA
 Brighton
 Nagasaki
@@ -10962,16 +10965,14 @@ Palm Bay, FL
 Gold Coast, QLD-NSW
 Des Moines, IA
 San Juan
-Zunyi, GX
-Ibague
-Santiago
-Al Mahallah al Kubra
-Al Mansurah
-Bari
-Skopje
-Kuching
-Haarlem
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+500,000
+500,000
+500,000
+500,000
+500,000
+500,000
+500,000
 500,000
 500,000
 500,000
@@ -10982,6 +10983,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 500,000
 500,000
 496,000
+495,000
 495,000
 493,000
 492,000
@@ -10996,6 +10998,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 465,000
 464,000
 462,000
+462,000
 461,000
 460,000
 457,000
@@ -11003,15 +11006,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 455,000
 455,000
 450,000
-450,000
-450,000
-450,000
-450,000
-450,000
-450,000
-450,000
-450,000
-450,000
+2004
+2004
+2010
+2005
+2000
+2010
+2002
 2010
 2010
 2002
@@ -11023,6 +11024,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2001
 2012
 2007
+2008
 2012
 2012
 2012
@@ -11035,6 +11037,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2000
 2012
+2008
 2012
 2001
 2005
@@ -11043,15 +11046,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2006
 2012
 2010
-2012
-2005
-2002
-2006
-2006
-2010
-2002
-2005
-2005
+500,000
+500,000
+500,000
+500,000
+500,000
+500,000
+500,000
 500,000
 500,000
 500,000
@@ -11062,6 +11063,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 500,000
 500,000
 450,000
+495,000
 495,000
 450,000
 483,000
@@ -11075,6 +11077,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 470,000
 465,000
 425,000
+462,000
 442,000
 461,000
 460,000
@@ -11083,15 +11086,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 455,000
 450,000
 450,000
-325,000
-450,000
-450,000
-450,000
-450,000
-450,000
-450,000
-450,000
-450,000
+125
+20
+19
+20
+22
+25
+70
 41
 50
 47
@@ -11103,6 +11104,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 66
 30
 18
+198
 45
 169
 304
@@ -11115,6 +11117,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 55
 28
 17
+175
 162
 36
 30
@@ -11123,15 +11126,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 183
 201
 45
-9
-10
-25
-10
-13
-45
-32
-75
-55
+4,000
+25,000
+26,300
+25,000
+22,700
+20,000
+7,100
 12,200
 10,000
 10,600
@@ -11143,6 +11144,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 7,600
 16,500
 27,500
+2,500
 11,000
 2,900
 1,600
@@ -11155,6 +11157,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 8,500
 16,600
 27,300
+2,600
 2,900
 12,700
 15,300
@@ -11163,15 +11166,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,500
 2,300
 10,000
-50,000
-45,000
-18,000
-45,000
-34,600
-10,000
-14,100
-6,000
-8,200
+324
+52
+49
+52
+57
+65
+181
 106
 130
 122
@@ -11183,6 +11184,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 171
 78
 47
+513
 117
 438
 787
@@ -11195,6 +11197,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 142
 73
 44
+453
 420
 94
 78
@@ -11203,15 +11206,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 474
 521
 117
-23
-26
-65
-26
-34
-117
-83
-194
-142
+1,500
+9,700
+10,200
+9,700
+8,800
+7,700
+2,800
 4,700
 3,900
 4,100
@@ -11223,6 +11224,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,900
 6,400
 10,600
+1,000
 4,200
 1,100
 600
@@ -11235,6 +11237,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 3,300
 6,400
 10,500
+1,000
 1,100
 4,900
 5,900
@@ -11243,15 +11246,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,000
 900
 3,900
-19,300
-17,400
-6,900
-17,400
-13,400
-3,900
-5,400
-2,300
-3,200
+2004
+2004
+2010
+2005
+2000
+2010
+2002
 2010
 2010
 2002
@@ -11263,6 +11264,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2001
 2007
 2007
+2008
 2007
 2010
 2010
@@ -11275,6 +11277,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2000
 2007
+2008
 2010
 2001
 2005
@@ -11283,15 +11286,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2006
 2010
 2010
-2000
-2005
-2002
-2006
-2006
-2010
-2002
-2005
-2005
+E
+E
+F
+E
+E
+C
+E
 E
 E
 E
@@ -11303,6 +11304,7 @@ C
 E
 E
 E
+A
 E
 A
 A
@@ -11317,21 +11319,13 @@ C
 D
 A
 A
-C
-E
 A
 C
+E
 A
-E
-E
-E
-D
-E
-E
 C
-C
+A
 E
-C
 B
 B
 B
@@ -11343,6 +11337,14 @@ B
 B
 B
 B
+B
+B
+B
+B
+B
+B
+B
+A
 B
 A
 A
@@ -11357,26 +11359,28 @@ B
 B
 A
 A
+A
 B
 B
 A
 A
 A
-B
-B
-B
-B
-B
-B
-B
-B
-B
 B
 37
+China
+Colombia
+Cuba
+Egypt
+Egypt
+Italy
+Macedonia
+Malaysia
+Netherlands
 Pakistan
 United States
 Canada
 United Kingdom
+France
 United Kingdom
 China
 China
@@ -11397,26 +11401,26 @@ China
 China
 China
 Italy
-France
 China
 United States
 Japan
 Japan
 Russia
 China
-China
-China
-United States
-United States
-China
-United States
-China
-China
-China
+Zunyi, GX
+Ibague
+Santiago
+Al Mahallah al Kubra
+Al Mansurah
+Bari
+Skopje
+Kuching
+Haarlem
 Bahawalpur
 Harrisburg, PA
 Kitchener, ON
 Portsmouth
+Avignon
 Leicester
 Shiyan, HUB
 Liaoyuan, JL
@@ -11437,27 +11441,27 @@ Huizhou, GD
 Jiujiang, JX
 Siping, JL
 Venice
-Grenoble
 Shuangyashan, HL
 Syracuse, NY
 Kurume
 Oita
 Kursk
 Tianshui, GS
-Jinxi, LN
-Chaoyang, LN
-Madison, WI
-Lancaster, PA
-Jixi, HL
-Greenville, SC
-Heze, SD
-Jinhua, ZJ
-Loudi, HUN
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+450,000
+450,000
+450,000
+450,000
+450,000
+450,000
+450,000
+450,000
+450,000
 450,000
 446,000
 445,000
 442,000
+441,000
 441,000
 440,000
 435,000
@@ -11478,26 +11482,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 420,000
 420,000
 420,000
-419,000
 415,000
 412,000
 410,000
 410,000
 410,000
 407,000
-406,000
-405,000
-405,000
-404,000
-403,000
-403,000
-401,000
-400,000
-400,000
+2012
+2005
+2002
+2006
+2006
+2010
+2002
+2005
+2005
 2005
 2012
 2011
 2001
+2008
 2001
 2000
 2000
@@ -11518,26 +11522,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2000
 2000
 2010
-1999
 2000
 2012
 2010
 2005
 2010
 2012
-2012
-2000
-2012
-2012
-2012
-2012
-2012
-2000
-2000
+325,000
+450,000
+450,000
+450,000
+450,000
+450,000
+450,000
+450,000
+450,000
 450,000
 444,000
 445,000
 442,000
+441,000
 441,000
 440,000
 435,000
@@ -11558,26 +11562,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 420,000
 420,000
 420,000
-419,000
 415,000
 412,000
 410,000
 410,000
 410,000
 350,000
-390,000
-405,000
-402,000
-402,000
-390,000
-400,000
-410,000
-400,000
-400,000
+9
+10
+25
+10
+13
+45
+32
+75
+55
 15
 260
 121
 37
+529
 39
 15
 17
@@ -11598,26 +11602,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 18
 35
 50
-125
 13
 195
 50
 57
 35
 15
-35
-20
-151
-248
-22
-320
-30
-50
-18
+50,000
+45,000
+18,000
+45,000
+34,600
+10,000
+14,100
+6,000
+8,200
 30,000
 1,700
 3,700
 12,100
+800
 11,200
 29,300
 25,600
@@ -11638,26 +11642,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 23,300
 12,000
 8,400
-3,300
 31,900
 2,100
 8,200
 7,200
 11,700
 27,100
-11,600
-20,300
-2,700
-1,600
-18,300
-1,300
-13,400
-8,000
-22,200
+23
+26
+65
+26
+34
+117
+83
+194
+142
 39
 673
-449
+313
 95
+1,370
 102
 39
 44
@@ -11678,26 +11682,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 47
 91
 130
-325
 34
 505
 130
 148
 91
 39
-91
-52
-391
-642
-57
-829
-78
-130
-47
+19,300
+17,400
+6,900
+17,400
+13,400
+3,900
+5,400
+2,300
+3,200
 11,600
 700
-1,000
+1,400
 4,700
+300
 4,300
 11,300
 9,900
@@ -11718,26 +11722,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 9,000
 4,600
 3,200
-1,300
 12,300
 800
 3,200
 2,800
 4,500
 10,500
-4,500
-7,800
-1,000
-600
-7,100
-500
-5,200
-3,100
-8,600
+2000
+2005
+2002
+2006
+2006
+2010
+2002
+2005
+2005
 2005
 2010
 2011
 2001
+2008
 2001
 2000
 2000
@@ -11758,23 +11762,23 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2000
 2000
 2010
-1999
 2000
 2010
 2010
 2005
 2010
 2000
-2010
-2000
-2010
-2010
-2010
-2010
-2007
-2000
-2000
 E
+E
+D
+E
+E
+C
+C
+E
+C
+E
+A
 A
 A
 A
@@ -11798,33 +11802,15 @@ C
 E
 E
 C
-A
 E
 A
 C
 C
 E
 E
-E
-E
-A
-A
-E
-A
-E
-E
-E
-B
-A
-A
-A
-A
 B
 B
-A
 B
-A
-A
 B
 B
 B
@@ -11833,12 +11819,22 @@ B
 B
 B
 A
-B
-B
-B
+A
+A
+A
+A
 B
 B
 A
+B
+A
+A
+B
+B
+B
+B
+B
+B
 B
 A
 B
@@ -11848,13 +11844,20 @@ B
 B
 B
 A
-A
 B
-A
 B
 B
 B
 38
+China
+China
+United States
+United States
+China
+United States
+China
+China
+China
 China
 Egypt
 Estonia
@@ -11875,7 +11878,6 @@ China
 United States
 United States
 China
-France
 Russia
 United States
 United States
@@ -11884,17 +11886,18 @@ China
 China
 China
 Colombia
+France
 United Kingdom
 United States
-United States
-United States
-China
-China
-China
-India
-Mexico
-Russia
-United Arab Emirates
+Jinxi, LN
+Chaoyang, LN
+Madison, WI
+Lancaster, PA
+Jixi, HL
+Greenville, SC
+Heze, SD
+Jinhua, ZJ
+Loudi, HUN
 Shangyu, (Shaoxing), ZJ
 Tanta
 Talinn
@@ -11915,7 +11918,6 @@ Songyuan, JL
 Winston-Salem, NC
 Spokane, WA
 Fuyang (Hangzhou), ZJ
-Rouen
 Stavropol
 Augusta, GA--SC
 Youngstown, OH-PA
@@ -11924,18 +11926,19 @@ Puyang, HEN
 Xucheng, HEN
 Yiyang, HUN
 Santa Marta
+Montpellier
 Bournemouth
 Chattanooga, TN-GA
-Port St. Lucie, FL
-Scranton, PA
-Yulin, GX
-Jiaojiang (Taizhou), ZJ
-Yangi, JL
-Gaya, BR
-Mazatlan
-Archangelsk
-Al Ain
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+406,000
+405,000
+405,000
+404,000
+403,000
+403,000
+401,000
+400,000
+400,000
 400,000
 400,000
 400,000
@@ -11957,7 +11960,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 391,000
 390,000
 390,000
-390,000
 389,000
 386,000
 385,000
@@ -11966,16 +11968,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 385,000
 385,000
 384,000
+384,000
 383,000
-382,000
-382,000
-376,000
-375,000
-375,000
-375,000
-375,000
-375,000
-375,000
+2012
+2000
+2012
+2012
+2012
+2012
+2012
+2000
+2000
 2010
 2006
 2000
@@ -11996,7 +11999,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2012
 2010
-1999
 2010
 2012
 2012
@@ -12005,17 +12007,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2006
 2012
 2005
+2008
 2001
 2012
-2012
-2012
-2012
-2007
-2000
-2001
-2005
-2002
-2010
+390,000
+405,000
+402,000
+402,000
+390,000
+400,000
+410,000
+400,000
+400,000
 400,000
 400,000
 400,000
@@ -12037,7 +12040,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 388,000
 390,000
 390,000
-390,000
 387,000
 388,000
 385,000
@@ -12046,16 +12048,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 320,000
 385,000
 384,000
+384,000
 381,000
-376,000
-382,000
-340,000
-375,000
-375,000
-375,000
-375,000
-375,000
-375,000
+35
+20
+151
+248
+22
+320
+30
+50
+18
 61
 9
 70
@@ -12076,7 +12079,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 323
 164
 19
-103
 45
 260
 241
@@ -12085,17 +12087,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 25
 12
 11
+120
 42
 300
-208
-171
-18
-16
-19
-8
-21
-42
-150
+11,600
+20,300
+2,700
+1,600
+18,300
+1,300
+13,400
+8,000
+22,200
 6,600
 44,400
 5,700
@@ -12116,7 +12119,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,200
 2,400
 20,500
-3,800
 8,700
 1,500
 1,600
@@ -12125,17 +12127,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 15,400
 32,100
 35,000
+3,200
 9,200
 1,300
-1,800
-2,200
-20,900
-23,400
-19,700
-46,900
-17,900
-8,900
-2,500
+91
+52
+391
+642
+57
+829
+78
+130
+47
 158
 23
 181
@@ -12156,7 +12159,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 837
 425
 49
-268
 117
 673
 624
@@ -12165,17 +12167,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 65
 31
 28
+311
 108
 777
-539
-443
-47
-41
-49
-21
-54
-109
-389
+4,500
+7,800
+1,000
+600
+7,100
+500
+5,200
+3,100
+8,600
 2,500
 17,200
 2,200
@@ -12196,7 +12199,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 500
 900
 7,900
-1,500
 3,300
 600
 600
@@ -12205,17 +12207,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 5,900
 12,400
 13,500
+1,200
 3,600
 500
-700
-900
-8,100
-9,000
-7,600
-18,100
-6,900
-3,400
-1,000
+2010
+2000
+2010
+2010
+2010
+2010
+2007
+2000
+2000
 2010
 2006
 2000
@@ -12236,7 +12239,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2010
-1999
 2010
 2010
 2010
@@ -12245,57 +12247,58 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2006
 2000
 2005
+2008
 2001
 2010
-2010
-2010
-2007
-2007
-2000
-2001
-2005
-2002
-2010
-C
-E
-C
-C
-C
-C
-C
-C
-C
-E
-E
-E
-E
-E
-C
-A
-E
-A
-A
-E
-A
-E
-A
-A
-E
-E
-E
 E
 E
 A
 A
-A
+E
 A
 E
 E
 E
 C
+E
+C
+C
+C
+C
+C
+C
 C
 E
-L
+E
+E
+E
+E
+C
+A
+E
+A
+A
+E
+E
+A
+A
+E
+E
+E
+E
+E
+A
+A
+A
+B
+B
+A
+A
+B
+A
+B
+B
+B
 B
 B
 B
@@ -12316,7 +12319,6 @@ B
 A
 A
 B
-A
 B
 A
 A
@@ -12328,16 +12330,18 @@ B
 A
 A
 A
-A
-B
-B
-B
-B
-B
-B
-B
 39
 United States
+United States
+China
+China
+China
+India
+Mexico
+Russia
+United Arab Emirates
+United States
+France
 China
 China
 China
@@ -12362,22 +12366,22 @@ United States
 United States
 United States
 United States
+France
 United States
 Austria
 Belgium
 Bosnia & Herzegovina
-Brazil
-Brazil
-China
-China
-China
-China
-Germany
-India
-Japan
-Mexico
-New Zealand
+Port St. Lucie, FL
+Scranton, PA
+Yulin, GX
+Jiaojiang (Taizhou), ZJ
+Yangi, JL
+Gaya, BR
+Mazatlan
+Archangelsk
+Al Ain
 Stockton, CA
+Saint-Etienne
 Korla, XJ
 Laiwu, SD
 Tonghua, JL
@@ -12402,23 +12406,23 @@ Flint, MI
 Jackson, MS
 Lancaster, CA
 Palm Coast, FL
+Bethune
 Durham, NC
 Graz
 Ghent
 Sarajevo
-Macapa
-Porto Velho
-Chaozhou, GD
-Jingmen, HUB
-Shihezi, XJ
-Taishan, GD
-Karlsruhe
-Akola, MAH
-Myazaki
-Ciudad Obregon
-Christchurch
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+382,000
+382,000
+376,000
 375,000
+375,000
+375,000
+375,000
+375,000
+375,000
+375,000
+372,000
 370,000
 370,000
 370,000
@@ -12444,21 +12448,21 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 352,000
 352,000
 351,000
-350,000
-350,000
-350,000
-350,000
-350,000
-350,000
-350,000
-350,000
-350,000
-350,000
-350,000
+351,000
 350,000
 350,000
 350,000
 2012
+2012
+2012
+2007
+2000
+2001
+2005
+2002
+2010
+2012
+2008
 2000
 2000
 2000
@@ -12483,22 +12487,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2012
 2012
+1999
 2012
 2003
 2005
 2002
-2009
-2009
-2000
-2000
-2000
-2000
-2001
-2003
-2005
-2005
-2008
+376,000
+382,000
+340,000
+375,000
+375,000
+375,000
+375,000
+375,000
+375,000
 371,000
+372,000
 370,000
 370,000
 370,000
@@ -12523,22 +12527,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 351,000
 341,000
 349,000
+351,000
 348,000
 350,000
 350,000
 350,000
-350,000
-350,000
-350,000
-350,000
-350,000
-350,000
-350,000
-350,000
-350,000
-350,000
-350,000
+208
+171
+18
+16
+19
+8
+21
+42
+150
 93
+162
 45
 35
 40
@@ -12563,22 +12567,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 242
 116
 179
+290
 182
 95
 75
 26
-26
-33
-33
-12
-20
-17
-46
-17
-35
-17
-69
+1,800
+2,200
+20,900
+23,400
+19,700
+46,900
+17,900
+8,900
+2,500
 4,000
+2,300
 8,200
 10,600
 9,300
@@ -12603,22 +12607,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,500
 3,000
 2,000
+1,200
 1,900
 3,700
 4,700
 13,500
-13,500
-10,600
-10,600
-29,200
-17,500
-20,600
-7,600
-20,600
-10,000
-20,600
-5,100
+539
+443
+47
+41
+49
+21
+54
+109
+389
 241
+420
 117
 91
 104
@@ -12626,7 +12630,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 93
 62
 218
-449
+223
 21
 65
 114
@@ -12643,22 +12647,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 627
 300
 464
+751
 471
 246
 194
 67
-67
-85
-85
-31
-52
-44
-119
-44
-91
-44
-179
+700
+900
+8,100
+9,000
+7,600
+18,100
+6,900
+3,400
+1,000
 1,600
+900
 3,200
 4,100
 3,600
@@ -12666,7 +12670,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 4,000
 5,900
 1,700
-800
+1,600
 17,700
 5,600
 3,200
@@ -12683,22 +12687,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 600
 1,200
 800
+500
 700
 1,400
 1,800
 5,200
-5,200
-4,100
-4,100
-11,300
-6,800
-7,900
-2,900
-7,900
-3,900
-7,900
-2,000
 2010
+2010
+2007
+2007
+2000
+2001
+2005
+2002
+2010
+2010
+2008
 2000
 2000
 2000
@@ -12723,21 +12727,21 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2010
+1999
 2010
 2003
 2005
 2002
-2009
-2009
-2000
-2000
-2000
-2000
-2001
-2003
-2005
-2005
-2008
+A
+A
+E
+E
+E
+C
+C
+E
+L
+A
 A
 E
 E
@@ -12764,44 +12768,10 @@ A
 A
 A
 A
+A
 E
 C
 C
-F
-F
-E
-E
-F
-E
-C
-A
-C
-E
-E
-A
-B
-B
-B
-B
-A
-B
-A
-A
-B
-B
-A
-A
-A
-A
-B
-B
-A
-A
-A
-B
-A
-A
-A
 A
 A
 B
@@ -12811,26 +12781,62 @@ B
 B
 B
 B
+A
+A
 B
 B
 B
 B
+A
+B
+A
+A
+B
+B
+A
+A
+A
+A
+B
+B
+A
+A
+A
+B
+A
+A
+A
+A
+A
+A
 B
 B
 B
 40
+Brazil
+Brazil
+China
+China
+China
+China
+Germany
+India
+Japan
+Mexico
+New Zealand
 New Zealand
 Syria
 China
 China
+France
 United States
 United States
 Guinea-Bissau
 United Kingdom
 China
-France
 China
 China
+Netherlands
 United Kingdom
 United States
 China
@@ -12841,36 +12847,36 @@ Japan
 Japan
 Russia
 Ukraine
-France
 United States
 China
 China
 Russia
 United Kingdom
 Uzbekistan
-Nigeria
-Canada
-Japan
-United States
-United States
-United States
-United States
-Burundi
-China
-China
-United States
+Macapa
+Porto Velho
+Chaozhou, GD
+Jingmen, HUB
+Shihezi, XJ
+Taishan, GD
+Karlsruhe
+Akola, MAH
+Myazaki
+Ciudad Obregon
+Christchurch
 Wellington
 Hamah
 Anging, AH
 Weihei, SD
+Tours
 Victorville, CA
 Pensacola, FL-AL
 Bissau
 Coventry
 Kashi, XJ
-Nancy
 Jinzhong, SAX
 Neijiang, SC
+Eindhoven
 Cardiff
 Mobile, AL
 Chenzhou, HUN
@@ -12881,27 +12887,27 @@ Morioka
 Yamagata
 Ulan Ude
 Sebastopol
-Metz
 Corpus Christi, TX
 Dezhou, SD
 Shaoyang, LN
 Smolensk
 Birkenhead
 Andijon
-Ogbomosho
-Victoria, BC
-Toyama
-Fort Wayne, IN
-Greensboro, NC
-Lansing, MI
-Bonita Springs, FL
-Bujumbura
-Chengde, HEB
-Zhaoqing, GD
-Fayetteville, NC
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
 350,000
 350,000
+350,000
+350,000
+350,000
+350,000
+350,000
+350,000
+350,000
+350,000
+350,000
+350,000
+350,000
+345,000
 345,000
 345,000
 343,000
@@ -12909,7 +12915,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 340,000
 336,000
 335,000
-331,000
+330,000
 330,000
 330,000
 328,000
@@ -12922,35 +12928,35 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 325,000
 325,000
 325,000
-323,000
 321,000
 320,000
 320,000
 320,000
 320,000
 320,000
-317,000
-316,000
-315,000
-314,000
-314,000
-314,000
-313,000
-310,000
-310,000
-310,000
-310,000
+2009
+2009
+2000
+2000
+2000
+2000
+2001
+2003
+2005
+2005
+2008
 2008
 2010
 2000
 2000
+2008
 2012
 2012
 2004
 2001
 2000
-1999
 2007
+2012
 2012
 2001
 2012
@@ -12962,26 +12968,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2005
 2002
 2001
-1999
 2012
 2000
 2000
 2010
 2001
 1999
-2012
-2011
-2005
-2012
-2012
-2012
-2012
-1999
-2000
-2000
-2012
 350,000
 350,000
+350,000
+350,000
+350,000
+350,000
+350,000
+350,000
+350,000
+350,000
+350,000
+350,000
+350,000
+345,000
 345,000
 345,000
 328,000
@@ -12989,9 +12995,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 340,000
 336,000
 335,000
-331,000
 330,000
 320,000
+330,000
 328,000
 326,000
 325,000
@@ -13002,36 +13008,36 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 325,000
 325,000
 325,000
-323,000
 320,000
 320,000
 320,000
 320,000
 320,000
 320,000
-300,000
-316,000
-315,000
-313,000
-312,000
-314,000
-310,000
-310,000
-310,000
-310,000
-310,000
+26
+33
+33
+12
+20
+17
+46
+17
+35
+17
+69
 71
 18
 30
 40
+257
 167
 233
 27
 29
 15
-121
 20
 8
+59
 29
 223
 11
@@ -13042,36 +13048,36 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 40
 37
 23
-140
 120
 22
 12
 21
 34
 49
-16
-107
-34
-172
-185
-158
-187
-23
-9
-16
-198
+13,500
+10,600
+10,600
+29,200
+17,500
+20,600
+7,600
+20,600
+10,000
+20,600
+5,100
 4,900
 19,400
 11,500
 8,600
+1,300
 2,100
 1,500
 12,600
 11,500
 22,300
-2,700
 16,500
 41,300
+5,600
 11,200
 1,500
 29,500
@@ -13082,36 +13088,36 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 8,100
 8,800
 14,100
-2,300
 2,700
 14,500
 26,700
 15,200
 9,300
 6,500
-19,800
-3,000
-9,300
-1,800
-1,700
-2,000
-1,700
-13,500
-34,400
-19,400
-1,600
+67
+85
+85
+31
+52
+44
+119
+44
+91
+44
+179
 184
 47
 78
 104
+666
 433
 603
 70
 76
 39
-314
 52
 21
+153
 76
 578
 28
@@ -13122,36 +13128,36 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 104
 96
 60
-363
 311
 57
 31
 54
 89
 127
-41
-449
-88
-445
-479
-409
-484
-60
-23
-41
-513
+5,200
+4,100
+4,100
+11,300
+6,800
+7,900
+2,900
+7,900
+3,900
+7,900
+2,000
 1,900
 7,500
 4,400
 3,300
+500
 800
 600
 4,900
 4,400
 8,600
-1,100
 6,400
 15,900
+2,200
 4,300
 600
 11,400
@@ -13162,36 +13168,36 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 3,100
 3,400
 5,500
-900
 1,000
 5,600
 10,300
 5,900
 3,600
 2,500
-7,600
-700
-3,600
-700
-700
-800
-600
-5,200
-13,300
-7,500
-600
+2009
+2009
+2000
+2000
+2000
+2000
+2001
+2003
+2005
+2005
+2008
 2008
 2010
 2000
 2000
+2008
 2010
 2010
 2004
 2001
 2000
-1999
 2007
 2010
+2012
 2001
 2010
 2000
@@ -13202,36 +13208,36 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2005
 2002
 2001
-1999
 2010
 2000
 2000
 2010
 2001
 1999
-2010
-2011
-2005
-2010
-2010
-2010
-2010
-1999
-2000
-2000
-2010
+F
+F
+E
+E
+F
+E
+C
+A
+C
+E
+E
 E
 F
 E
 E
 A
 A
-E
 A
 E
 A
 E
 E
+E
+C
 A
 A
 E
@@ -13243,37 +13249,18 @@ C
 E
 E
 A
-A
 E
 E
 E
 A
 E
-F
-A
-C
-A
-A
-A
-A
-E
-E
-E
-A
 B
 B
 B
 B
-A
-A
-B
-A
-B
-A
 B
 B
-A
-A
+B
 B
 B
 B
@@ -13284,26 +13271,45 @@ B
 B
 A
 A
+A
+B
+A
+B
+B
+B
+B
+A
+A
+B
+B
+B
+B
+B
 B
 B
 B
 A
 B
 B
-A
 B
 A
-A
-A
-A
 B
-B
-B
-A
 41
+Nigeria
+Canada
+Japan
+United States
+United States
+United States
+United States
+Burundi
+China
+China
+United States
 Canada
 United States
 United States
+France
 United Kingdom
 United Kingdom
 Azerbaijan
@@ -13328,22 +13334,22 @@ United States
 United States
 US: Puerto Rico
 Canada
-France
 China
-France
-United States
-China
-China
-Japan
-United States
-Australia
-France
-Australia
-United States
-Germany
+Ogbomosho
+Victoria, BC
+Toyama
+Fort Wayne, IN
+Greensboro, NC
+Lansing, MI
+Bonita Springs, FL
+Bujumbura
+Chengde, HEB
+Zhaoqing, GD
+Fayetteville, NC
 St. Catharines, ON
 Ann Arbor, MI
 Santa Rosa, CA
+Rennes
 Southamption
 Kingston
 Ganca
@@ -13368,23 +13374,23 @@ Rockford, IL
 Shreveport LA
 Aguadilla, PR
 Halifax, NS
-Tours
 Tongling, AH
-Saint-Etienne
-Lexington, KY
-Taizhou, ZJ
-Yongkang (Jinhua), ZJ
-Hakodate
-Huntsville, AL
-Newcastle, NSW
-Montpellier
-Central Coast, NSW
-Asheville, NC
-Kiel
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+317,000
+316,000
+315,000
+314,000
+314,000
+314,000
+313,000
+310,000
+310,000
+310,000
+310,000
 309,000
 308,000
 308,000
+305,000
 304,000
 301,000
 300,000
@@ -13409,22 +13415,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 299,000
 299,000
 298,000
-298,000
 295,000
-292,000
-292,000
-290,000
-290,000
-290,000
-290,000
-289,000
-288,000
-283,000
-283,000
-280,000
+2012
+2011
+2005
+2012
+2012
+2012
+2012
+1999
+2000
+2000
+2012
 2011
 2012
 2012
+2008
 2001
 2001
 2006
@@ -13449,22 +13455,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2000
 2011
-1999
 2000
-1999
-2012
-2007
-2000
-2005
-2012
-2006
-1999
-2006
-2012
-2010
+300,000
+316,000
+315,000
+313,000
+312,000
+314,000
+310,000
+310,000
+310,000
+310,000
+310,000
 309,000
 306,000
 308,000
+305,000
 304,000
 301,000
 300,000
@@ -13489,22 +13495,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 298,000
 299,000
 298,000
-298,000
 295,000
-292,000
-290,000
-290,000
-290,000
-290,000
-287,000
-289,000
-288,000
-283,000
-281,000
-280,000
+16
+107
+34
+172
+185
+158
+187
+23
+9
+16
+198
 146
 160
 98
+110
 29
 31
 28
@@ -13529,22 +13535,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 185
 240
 104
-162
 22
-89
-88
-25
-60
-23
-210
-101
-60
-117
-265
-45
+19,800
+3,000
+9,300
+1,800
+1,700
+2,000
+1,700
+13,500
+34,400
+19,400
+1,600
 2,100
 1,900
 3,100
+2,800
 10,600
 9,700
 10,700
@@ -13569,22 +13575,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,600
 1,200
 2,900
-1,800
 13,400
-3,300
-3,300
-11,600
-4,800
-12,600
-1,400
-2,900
-4,800
-2,400
-1,100
-6,200
-449
+41
+277
+88
+445
+479
+409
+484
+60
+23
+41
+513
+378
 414
 254
+285
 74
 80
 73
@@ -13608,23 +13614,23 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 396
 479
 620
-449
-421
+269
 57
-231
-228
-65
-155
-60
-544
-262
-154
-303
-686
-117
+7,600
+1,100
+3,600
 700
+700
+800
+600
+5,200
+13,300
+7,500
+600
+800
 700
 1,200
+1,100
 4,100
 3,800
 4,100
@@ -13648,23 +13654,23 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 800
 600
 500
-700
-700
-5,200
-1,300
-1,300
-4,500
-1,900
-4,900
-500
 1,100
-1,900
-900
-400
-2,400
+5,200
+2010
+2011
+2005
+2010
+2010
+2010
+2010
+1999
+2000
+2000
+2010
 2011
 2010
 2010
+2008
 2001
 2001
 2006
@@ -13689,19 +13695,19 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2000
 2011
-1999
 2000
-1999
-2010
-2007
-2000
-2005
-2010
-2006
-1999
-2006
-2010
-2010
+F
+A
+C
+A
+A
+A
+A
+E
+E
+E
+A
+A
 A
 A
 A
@@ -13729,20 +13735,10 @@ A
 A
 A
 A
-A
 E
+B
 A
-A
-E
-E
-C
-A
-C
-A
-C
-A
-C
-A
+B
 A
 A
 A
@@ -13750,6 +13746,16 @@ A
 B
 B
 B
+A
+A
+A
+A
+A
+A
+A
+B
+B
+B
 B
 B
 B
@@ -13765,24 +13771,23 @@ B
 A
 B
 B
-A
-A
-A
-A
-A
-B
-A
-A
-B
-B
-B
-A
 A
 A
 A
 A
 B
 42
+United States
+China
+China
+France
+Japan
+United States
+Australia
+France
+Australia
+United States
+Germany
 United States
 United States
 United States
@@ -13794,35 +13799,35 @@ Azerbaijan
 Botswana
 Chile
 China
+United Kingdom
+China
 France
 United Kingdom
+United States
+United States
+United States
+United States
+United States
+United Kingdom
+United States
+United States
 China
 United Kingdom
 United States
-United States
-United States
-United States
-United States
-United Kingdom
-United States
-United States
+China
 France
-China
-United Kingdom
-United States
-China
 Germany
-Mexico
-France
-France
-Sweden
-United States
-France
-United States
-United States
-Brazil
-Chile
-China
+Lexington, KY
+Taizhou, ZJ
+Yongkang (Jinhua), ZJ
+Metz
+Hakodate
+Huntsville, AL
+Newcastle, NSW
+Nancy
+Central Coast, NSW
+Asheville, NC
+Kiel
 Davenport, IA-IL
 Canton, OH
 Antioch, CA
@@ -13834,9 +13839,9 @@ Sumqayit
 Gaborone
 Antofagasta
 Tongliao, NM
-Rennes
 Swansea
 Xiantao, HEB
+Orleans
 Southend
 Reading, PA
 Fort Collins, CO
@@ -13846,24 +13851,24 @@ Santa Clarita, CA
 Preston
 Montgomery, AL
 Savannah, GA
-Orleans
 Yichun, JX
 Blackpool
 Lincoln, NE
 Dongyang (Jinhua), ZJ
-Magdeburg
-Coatzacoalcos
-Bethune
 Clermont-Ferrand
-Malmo
-Lafayette, LA
-Avignon
-Columbus, GA-AL
-Anchorage, AK
-Boa Vista
-Temuco
-Hailar, NM
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Magdeburg
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+292,000
+290,000
+290,000
+290,000
+290,000
+290,000
+289,000
+287,000
+283,000
+283,000
+280,000
 280,000
 279,000
 278,000
@@ -13875,9 +13880,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 275,000
 275,000
 273,000
-272,000
 271,000
 270,000
+269,000
 269,000
 268,000
 267,000
@@ -13887,23 +13892,23 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 265,000
 265,000
 264,000
-263,000
 261,000
 261,000
 261,000
 260,000
 260,000
 260,000
-259,000
-259,000
-258,000
-255,000
-254,000
-254,000
-253,000
-250,000
-250,000
-250,000
+2012
+2007
+2000
+2008
+2005
+2012
+2006
+2008
+2006
+2012
+2010
 2012
 2012
 2010
@@ -13915,35 +13920,35 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2002
 2002
 2012
-1999
 2001
 2012
-2001
-2012
-2012
-2012
-2012
-2012
+2008
 2001
 2012
 2012
-1999
+2012
+2012
+2012
+2001
+2012
+2012
 2012
 2001
 2012
 2000
+2008
 2010
-2005
-1999
-1999
-2005
-2012
-1999
-2012
-2012
-2009
-2002
-2000
+290,000
+290,000
+290,000
+290,000
+290,000
+287,000
+289,000
+287,000
+283,000
+281,000
+280,000
 280,000
 279,000
 278,000
@@ -13955,9 +13960,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 275,000
 275,000
 250,000
-272,000
 271,000
 250,000
+269,000
 269,000
 266,000
 264,000
@@ -13967,23 +13972,23 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 265,000
 264,000
 261,000
-263,000
 240,000
 261,000
 259,000
 260,000
 260,000
 260,000
-259,000
-259,000
-258,000
-253,000
-254,000
-254,000
-251,000
-250,000
-250,000
-250,000
+88
+25
+60
+118
+23
+210
+101
+95
+117
+265
+45
 138
 166
 81
@@ -13995,9 +14000,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 91
 11
 12
-71
 31
 10
+112
 26
 104
 110
@@ -14007,23 +14012,23 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 24
 154
 165
-112
 16
 25
 88
 40
-50
-23
-150
 70
-28
-179
-196
-147
-85
-43
-12
-27
+50
+3,300
+11,600
+4,800
+2,500
+12,600
+1,400
+2,900
+3,000
+2,400
+1,100
+6,200
 2,000
 1,700
 3,400
@@ -14035,9 +14040,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 3,000
 25,000
 22,800
-3,800
 8,800
 27,000
+2,400
 10,400
 2,600
 2,400
@@ -14047,37 +14052,37 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 11,300
 1,700
 1,600
-2,400
 16,300
 10,200
 3,000
 6,500
-5,200
-11,300
-1,700
 3,700
-9,300
-1,400
-1,300
-1,700
-3,000
-5,800
-20,800
-9,300
+5,200
+228
+65
+155
+306
+60
+544
+262
+246
+303
+686
+117
 357
 430
 210
 417
 368
-449
+176
 60
 91
 236
 28
 31
-185
 80
 26
+290
 67
 269
 285
@@ -14087,37 +14092,37 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 61
 399
 427
-290
 41
 66
 228
 104
-130
-60
-390
 181
-72
-464
-508
-381
-220
-111
-31
-70
+130
+1,300
+4,500
+1,900
+900
+4,900
+500
+1,100
+1,200
+900
+400
+2,400
 800
 600
 1,300
 700
 800
-600
+1,600
 4,600
 3,000
 1,200
 9,700
 8,800
-1,500
 3,400
 10,400
+900
 4,000
 1,000
 900
@@ -14127,23 +14132,23 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 4,300
 700
 600
-900
 6,300
 4,000
 1,100
 2,500
-2,000
-4,400
-700
 1,400
-3,600
-600
-500
-700
-1,100
-2,200
-8,000
-3,600
+2,000
+2010
+2007
+2000
+2008
+2005
+2010
+2006
+2008
+2006
+2010
+2010
 2010
 2010
 2010
@@ -14155,9 +14160,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2002
 2002
 2007
-1999
 2001
 2007
+2008
 2001
 2010
 2010
@@ -14167,23 +14172,23 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2001
 2010
 2010
-1999
 2007
 2001
 2010
 2000
+2008
 2010
-2005
-1999
-1999
-2005
-2010
-1999
-2010
-2010
-2009
-2002
-2000
+A
+E
+E
+A
+C
+A
+C
+A
+C
+A
+C
 A
 A
 A
@@ -14196,7 +14201,6 @@ C
 D
 E
 A
-A
 E
 A
 A
@@ -14212,18 +14216,19 @@ E
 A
 A
 E
+A
 C
-E
+A
+B
+B
+A
+B
 A
 A
 A
 A
 A
-A
-A
-F
-E
-E
+B
 A
 A
 A
@@ -14236,7 +14241,6 @@ B
 B
 B
 A
-A
 B
 A
 A
@@ -14252,41 +14256,40 @@ B
 A
 A
 B
-B
-B
 A
-A
-A
-A
-A
-A
-A
-B
-B
 B
 43
+Mexico
+Sweden
+United States
+United States
+United States
+Brazil
+Chile
+China
 China
 China
 Congo (Dem. Rep.)
 Denmark
+Germany
+Netherlands
+United States
+United States
+United States
 France
-United States
-United States
-United States
+France
 United States
 China
 Russia
 Suriname
 United States
 United States
+France
 United States
-France
 Australia
-France
 United States
 Cyprus
 United States
-France
 Norway
 Finland
 Finland
@@ -14296,37 +14299,37 @@ Russia
 Slovenia
 Turkey
 United States
-Canada
-United States
-China
-China
-United States
-United States
-United States
-France
-United States
+Coatzacoalcos
+Malmo
+Lafayette, LA
+Columbus, GA-AL
+Anchorage, AK
+Boa Vista
+Temuco
+Hailar, NM
 Hunjiang, JL
 Shangzhi, HL
 Bukava
 Arhus
-Le Havre
+Braunschweig
+Arnhem
 Atlantic City, NJ
 Eugene, OR
 Barnstable Town, MA
+Le Havre
+Mulhouse
 Tallahassee, FL
 Shanwei, GD
 Dzerzhinsk
 Paramaraibo
 Laredo, TX
 Salem, OR
-Lubbock, TX
 Dijon
+Lubbock, TX
 Wollongong, NSW
-Mulhouse
 York, PA
 Nicosia
 Evansville, IN-KY
-Angers
 Bergen
 Tampere
 Turku
@@ -14336,24 +14339,26 @@ Yakutsk
 Ljubljana
 Tarsus
 Wilmington, NC
-Saskatoon, SK
-Visalia, CA
-Lanxi (Jinhua), ZJ
-Suqian, JS
-Brownsville, TX
-Killeen, TX
-Myrtle Beach, SC-NC
-Reims
-Appleton, WI
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+260,000
+258,000
+255,000
+254,000
+253,000
 250,000
 250,000
 250,000
 250,000
-249,000
+250,000
+250,000
+250,000
+250,000
+250,000
 249,000
 248,000
 247,000
+244,000
+244,000
 242,000
 240,000
 240,000
@@ -14361,13 +14366,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 239,000
 239,000
 238,000
-237,000
-234,000
+238,000
 234,000
 234,000
 230,000
 229,000
-227,000
 227,000
 225,000
 225,000
@@ -14377,37 +14380,37 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 225,000
 225,000
 224,000
-222,000
-221,000
-220,000
-220,000
-220,000
-220,000
-219,000
-216,000
-216,000
+2005
+2005
+2012
+2012
+2012
+2009
+2002
+2000
 2000
 2000
 2009
 2011
-1999
+2011
+2012
 2012
 2012
 2010
+2008
+2008
 2012
 2000
 2010
 2004
 2012
 2012
+2008
 2012
-1999
 2006
-1999
 2012
 2001
 2012
-1999
 2009
 2000
 2000
@@ -14417,38 +14420,38 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2002
 2007
 2012
-2011
-2012
-2000
-2000
-2012
-2012
-2012
-1999
-2010
+260,000
+258,000
+253,000
+254,000
+251,000
 250,000
 250,000
 250,000
 250,000
-249,000
+250,000
+250,000
+250,000
+250,000
+250,000
 248,000
 247,000
 247,000
+244,000
+244,000
 240,000
 240,000
 240,000
 240,000
 236,000
 237,000
+238,000
 237,000
-237,000
-234,000
 234,000
 232,000
 230,000
 229,000
 227,000
-227,000
 225,000
 225,000
 225,000
@@ -14457,37 +14460,37 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 225,000
 225,000
 220,000
-222,000
-219,000
-220,000
-220,000
-218,000
-218,000
-215,000
-216,000
-216,000
+23
+28
+179
+147
+85
+43
+12
+27
 12
 7
 9
 36
-59
+44
+45
 125
 87
 277
+74
+92
 127
 9
 55
 30
 66
 76
-96
 64
+96
 71
-83
 132
 46
 119
-88
 37
 40
 28
@@ -14497,37 +14500,37 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 21
 7
 134
-58
-63
-13
-14
-82
-85
-190
-36
-104
+11,300
+9,300
+1,400
+1,700
+3,000
+5,800
+20,800
+9,300
 20,800
 35,700
 27,800
 6,900
-4,200
+5,700
+5,600
 2,000
 2,900
 900
+3,300
+2,700
 1,900
 26,700
 4,400
 8,000
 3,600
 3,100
-2,500
 3,700
+2,500
 3,300
-2,800
 1,800
 5,000
 1,900
-2,600
 6,100
 5,600
 8,000
@@ -14537,37 +14540,37 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 10,700
 32,100
 1,700
-3,800
-3,500
-16,900
-15,700
-2,700
-2,600
-1,200
-5,900
-2,100
+60
+72
+464
+381
+220
+111
+31
+70
 31
 18
 23
 93
-153
+114
+117
 324
 225
 717
+192
+238
 329
 23
 142
 78
 171
 197
-249
 166
+249
 184
-215
 342
 119
 308
-227
 96
 104
 73
@@ -14577,37 +14580,37 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 54
 18
 347
-449
-163
-34
-36
-212
-220
-492
-94
-269
+4,400
+3,600
+600
+700
+1,100
+2,200
+8,000
+3,600
 8,000
 13,800
 10,700
 2,700
-1,600
+2,200
+2,100
 800
 1,100
 300
+1,300
+1,000
 700
 10,300
 1,700
 3,100
 1,400
 1,200
-1,000
 1,400
+1,000
 1,300
-1,100
 700
 1,900
 700
-1,000
 2,400
 2,200
 3,100
@@ -14617,37 +14620,37 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 4,100
 12,400
 600
-500
-1,400
-6,500
-6,100
-1,000
-1,000
-400
-2,300
-800
+2005
+2005
+2010
+2010
+2010
+2009
+2002
+2000
 2000
 2000
 2009
 2011
-1999
+2011
+2012
 2010
 2010
 2010
+2008
+2008
 2010
 2000
 2010
 2004
 2010
 2010
+2008
 2010
-1999
 2006
-1999
 2010
 2001
 2010
-1999
 2009
 2000
 2000
@@ -14657,19 +14660,21 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2002
 2007
 2010
-2011
-2010
-2000
-2000
-2010
-2010
-2010
-1999
-2010
+E
+A
+A
+A
+A
+F
+E
+E
 E
 E
 F
 A
+L
+C
+A
 A
 A
 A
@@ -14684,9 +14689,7 @@ A
 A
 C
 A
-A
 E
-A
 A
 A
 E
@@ -14697,10 +14700,21 @@ E
 C
 E
 A
+B
 A
 A
-E
-E
+A
+A
+B
+B
+B
+B
+B
+B
+A
+B
+B
+A
 A
 A
 A
@@ -14716,17 +14730,6 @@ A
 A
 A
 B
-B
-B
-A
-A
-A
-A
-A
-A
-A
-B
-A
 A
 A
 B
@@ -14736,17 +14739,17 @@ B
 B
 B
 B
-A
-A
-A
-B
-B
-A
-A
-A
-A
 A
 44
+Canada
+United States
+China
+China
+United States
+United States
+United States
+France
+United States
 United States
 Switzerland
 United States
@@ -14762,9 +14765,11 @@ Russia
 United States
 United States
 United States
+France
 United States
 United States
 United States
+France
 United States
 China
 China
@@ -14776,17 +14781,15 @@ Germany
 Indonesia
 Ireland
 Lesotho
-France
-United States
-United States
-United Kingdom
-United States
-United States
-China
-France
-United Kingdom
-United States
-US: Puerto Rico
+Saskatoon, SK
+Visalia, CA
+Lanxi (Jinhua), ZJ
+Suqian, JS
+Brownsville, TX
+Killeen, TX
+Myrtle Beach, SC-NC
+Angers
+Appleton, WI
 Thousand Oaks, CA
 Berne
 Concord, NC
@@ -14796,15 +14799,17 @@ Hickory, NC
 Roanoke, VA
 Nassau
 Hengshui, HEB
-Brest
+Reims
 Frieburg
 Blagoveshchensk
 Kalamazoo, MI
 Gulfport, MS
 Norwich, CT-RI
+Le Mans
 Green Bay, WI
 Portland, ME
 Huntington, WV-KY-OH
+Brest
 Winter Haven, FL
 Anda, HL
 Anqiu, SD
@@ -14816,18 +14821,16 @@ Erfurt
 Banda Aceh
 Cork
 Meseru
-Caen
-Bremerton, WA
-Amarillo, TX
-Northampton
-Erie, PA
-Santa Barbara, CA
-Yichun, HL
-Le Mans
-Norwich
-Waterbury, CT
-Ponce, PR
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+222,000
+221,000
+220,000
+220,000
+220,000
+220,000
+219,000
+216,000
+216,000
 216,000
 215,000
 215,000
@@ -14844,8 +14847,10 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 209,000
 209,000
 208,000
+208,000
 205,000
 203,000
+201,000
 201,000
 200,000
 200,000
@@ -14857,17 +14862,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 200,000
 200,000
 200,000
-199,000
-199,000
-198,000
-197,000
-197,000
-196,000
-195,000
-195,000
-195,000
-195,000
-195,000
+2011
+2012
+2000
+2000
+2012
+2012
+2012
+2008
+2010
 2012
 2003
 2010
@@ -14877,15 +14880,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2001
 2000
-1999
+2008
 2006
 2010
 2012
 2010
 2012
+2008
 2012
 2012
 2012
+2008
 2010
 2000
 2000
@@ -14897,17 +14902,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2006
 2001
-1999
-2010
-2012
-2001
-2012
-2012
-2012
-1999
-2001
-2010
-2000
+222,000
+219,000
+220,000
+220,000
+218,000
+218,000
+215,000
+216,000
+216,000
 215,000
 215,000
 215,000
@@ -14923,9 +14926,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 210,000
 209,000
 209,000
+208,000
 207,000
 204,000
 203,000
+201,000
 201,000
 200,000
 200,000
@@ -14937,17 +14942,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 200,000
 200,000
 200,000
-199,000
-199,000
-197,000
-197,000
-197,000
-196,000
-190,000
-195,000
-195,000
-195,000
-195,000
+58
+63
+13
+14
+82
+85
+190
+73
+104
 86
 22
 180
@@ -14957,15 +14960,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 124
 57
 13
-85
+36
 17
 23
 132
 165
 152
+114
 105
 136
 130
+77
 134
 9
 9
@@ -14977,17 +14982,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 18
 30
 27
-51
-136
-81
-19
-82
-56
-5
-81
-22
-90
-58
+3,800
+3,500
+16,900
+15,700
+2,700
+2,600
+1,200
+3,000
+2,100
 2,500
 9,800
 1,200
@@ -14997,15 +15000,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,700
 3,700
 16,200
-2,500
+5,800
 12,400
 9,100
 1,600
 1,300
 1,400
+1,800
 2,000
 1,500
 1,600
+2,600
 1,500
 22,200
 22,200
@@ -15017,17 +15022,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 11,100
 6,700
 7,400
-3,900
-1,500
-2,400
-10,100
-2,400
-3,500
-39,000
-2,400
-9,000
-2,200
-3,400
+150
+163
+34
+36
+212
+220
+492
+189
+269
 223
 57
 466
@@ -15037,15 +15040,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 321
 148
 34
-220
+94
 44
 60
 342
 427
 394
+295
 272
 352
 337
+199
 347
 23
 23
@@ -15057,17 +15062,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 47
 78
 70
-133
-352
-210
-50
-212
-145
-13
-210
-56
-233
-150
+1,500
+1,400
+6,500
+6,100
+1,000
+1,000
+400
+1,100
+800
 1,000
 3,800
 500
@@ -15077,15 +15080,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 700
 1,400
 6,200
-1,000
+2,200
 4,800
 3,500
 600
 500
 500
+700
 800
 600
 600
+1,000
 600
 8,600
 8,600
@@ -15097,17 +15102,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 4,300
 2,600
 2,900
-1,500
-600
-900
-3,900
-900
-1,400
-15,100
-900
-3,500
-800
-1,300
+2011
+2010
+2000
+2000
+2010
+2010
+2010
+2008
+2010
 2010
 2003
 2010
@@ -15117,15 +15120,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2001
 2000
-1999
+2008
 2006
 2010
 2010
 2010
 2010
+2008
 2010
 2010
 2010
+2008
 2010
 2000
 2000
@@ -15137,17 +15142,15 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2006
 2001
-1999
-2010
-2010
-2001
-2010
-2010
-2010
-1999
-2001
-2010
-2000
+A
+A
+E
+E
+A
+A
+A
+A
+A
 A
 C
 A
@@ -15160,6 +15163,8 @@ E
 A
 C
 E
+A
+A
 A
 A
 A
@@ -15179,11 +15184,9 @@ C
 F
 A
 A
+B
+B
 A
-A
-A
-A
-E
 A
 A
 A
@@ -15207,36 +15210,39 @@ A
 A
 A
 A
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-A
-A
-A
-A
 A
 A
 B
-A
-A
-A
-A
+B
+B
+B
+B
+B
+B
+B
+B
+B
 45
+France
+United States
+France
+United States
+United Kingdom
+United States
+United States
+China
+United Kingdom
+United States
+US: Puerto Rico
 Canada
 United Kingdom
 United States
-France
 Egypt
 Mexico
 United States
+France
 Norway
+France
 Australia
 Iceland
 United Kingdom
@@ -15257,26 +15263,26 @@ United States
 China
 Argentina
 Brazil
-France
-United States
-China
-United States
-East Timor
-India
-United States
-United States
-Canada
-United Kingdom
-United States
-Canada
+Pau
+Bremerton, WA
+Caen
+Amarillo, TX
+Northampton
+Erie, PA
+Santa Barbara, CA
+Yichun, HL
+Norwich
+Waterbury, CT
+Ponce, PR
 Regina,SK
 Aberdeen
 Fort Walton Beach, FL
-Dunkerque
 Luzor
 Nogales
 Gainesville, FL
+Perpignan
 Stavenger
+Limoges
 Sunshine Coast, QLD
 Reykjavik
 Milton Keynes
@@ -15285,7 +15291,7 @@ Deltona, FL
 Sunderland
 Hagerstown, MD--WV--PA
 Spartanburg, SC
-Pau
+Dunkerque
 Lorain, OH
 Hebi, HEN
 Crawley
@@ -15297,27 +15303,27 @@ Fargo, ND--MN
 Liuan, AH
 Comodora Rivadavia
 Santarem
-Limoges
-Waco, TX
-Suining, SC
-College Station, TX
-Dili
-Bahadurgarh, HAR
-North Port, FL
-Gastonia, NC--SC
-Barrie, ON
-Wigan
-High Point, NC
-St. John's, NL
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+199,000
+199,000
+198,000
+198,000
+197,000
+197,000
+196,000
+195,000
+195,000
+195,000
+195,000
 193,000
 193,000
 192,000
-191,000
 190,000
 190,000
 190,000
 189,000
+189,000
+186,000
 185,000
 185,000
 185,000
@@ -15338,26 +15344,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 176,000
 175,000
 175,000
-173,000
-172,000
-171,000
-171,000
-170,000
-170,000
-170,000
-169,000
-167,000
-167,000
-166,000
-165,000
+2008
+2010
+2008
+2012
+2001
+2012
+2012
+2012
+2001
+2010
+2000
 2011
 2001
 2010
-1999
 2006
 2005
 2012
+2008
 2009
+2008
 2006
 2003
 2001
@@ -15366,11 +15372,11 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2001
 2010
 2012
-1999
+2008
 2010
 2000
 2001
-2004
+2,004
 1999
 2012
 2012
@@ -15378,26 +15384,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2010
 2009
-1999
-2010
-2012
-2010
-2002
-2011
-2010
-2010
-2011
-2001
-2010
-2011
+199,000
+199,000
+198,000
+197,000
+197,000
+197,000
+196,000
+190,000
+195,000
+195,000
+195,000
 193,000
 193,000
 192,000
-191,000
 190,000
 190,000
 188,000
 189,000
+189,000
+186,000
 185,000
 185,000
 185,000
@@ -15418,26 +15424,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 160,000
 175,000
 175,000
-173,000
-172,000
-150,000
-171,000
-170,000
-170,000
-170,000
-169,000
-167,000
-167,000
-166,000
-165,000
+199
+136
+55
+81
+19
+82
+56
+5
+22
+90
+58
 46
 24
 121
-65
 5
 17
 87
+84
 31
+91
 84
 31
 22
@@ -15446,7 +15452,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 15
 133
 190
-174
+65
 100
 15
 21
@@ -15458,26 +15464,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 12
 18
 18
-77
-90
-7
-71
-8
-14
-119
-139
-66
-15
-113
-72
+1,000
+1,500
+3,600
+2,400
+10,100
+2,400
+3,500
+39,000
+9,000
+2,200
+3,400
 4,200
 8,200
 1,600
-3,000
 38,000
 11,200
 2,200
+2,300
 6,200
+2,000
 2,200
 6,000
 8,400
@@ -15486,7 +15492,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 11,900
 1,400
 1,000
-1,000
+2,800
 1,800
 12,000
 8,600
@@ -15498,26 +15504,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 14,700
 9,700
 9,700
-2,200
-1,900
-24,400
-2,400
-21,300
-12,100
-1,400
-1,200
-2,500
-11,100
-1,500
-2,300
-449
+515
+352
+142
+210
+50
+212
+145
+13
+56
+233
+150
+119
 61
 313
-167
 13
 44
 225
+218
 79
+236
 218
 80
 57
@@ -15526,7 +15532,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 40
 344
 492
-450
+167
 259
 39
 54
@@ -15538,26 +15544,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 31
 47
 47
-199
-233
-18
-184
-21
-36
-308
-360
-449
-39
-293
-449
 400
+600
+1,400
+900
+3,900
+900
+1,400
+15,100
+3,500
+800
+1,300
+1,600
 3,200
 600
-1,100
 14,700
 4,300
 800
+900
 2,400
+800
 800
 2,300
 3,200
@@ -15566,7 +15572,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 4,600
 500
 400
-400
+1,100
 700
 4,600
 3,300
@@ -15578,26 +15584,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 5,700
 3,800
 3,800
-900
-700
-9,400
-900
-8,200
-4,700
-600
-500
-400
-4,300
-600
-400
+2008
+2010
+2008
+2010
+2001
+2010
+2010
+2010
+2001
+2010
+2000
 2011
 2001
 2010
-1999
 2006
 2005
 2010
+2008
 2009
+2008
 2006
 2003
 2001
@@ -15606,7 +15612,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2001
 2010
 2010
-1999
+2008
 2010
 2000
 2001
@@ -15618,24 +15624,24 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2006
 2010
 2009
-1999
-2010
-2000
-2010
-2002
-2011
-2010
-2010
-2011
-2001
-2010
-2011
+A
+A
+A
+A
+A
+A
+A
+E
+A
+A
 A
 A
 A
 A
 E
 C
+A
+A
 A
 A
 C
@@ -15660,14 +15666,12 @@ E
 F
 A
 A
-E
-A
-C
 A
 A
 A
 A
 A
+B
 A
 A
 A
@@ -15679,42 +15683,44 @@ B
 A
 A
 A
-B
-A
-A
-A
-A
-A
-A
 A
 A
 B
 A
-B
+A
+A
+A
 A
 A
 A
 A
 B
-B
-B
-A
 A
 B
 A
+A
+A
+A
 B
 B
-A
-A
-A
-A
-A
-A
+B
 46
+France
+France
+United States
+China
+United States
+East Timor
+India
+United States
+United States
+Canada
+United Kingdom
+United States
+Canada
 United States
 France
 United States
-France
 United States
 United States
 Cyprus
@@ -15731,6 +15737,7 @@ United States
 New Zealand
 United Kingdom
 United States
+France
 United States
 United States
 United States
@@ -15738,23 +15745,22 @@ Brazil
 Canada
 China
 Kazakhstan
-United Kingdom
-United States
-France
-United States
-United States
-United States
-United States
-United States
-US: Puerto Rico
-United States
-United States
-United States
-United States
+Chambery
+Nimes
+Waco, TX
+Suining, SC
+College Station, TX
+Dili
+Bahadurgarh, HAR
+North Port, FL
+Gastonia, NC--SC
+Barrie, ON
+Wigan
+High Point, NC
+St. John's, NL
 Santa Cruz, CA
-Perpignan
-Hemet, CA
 Amiens
+Hemet, CA
 Muskegon, MI
 Springfield, IL
 Lemesos
@@ -15771,6 +15777,7 @@ Binghamton, NY--PA
 Hamilton
 Swindon
 Medford, OR
+Annecy
 Charleston, WV
 Port Arthur, TX
 Nampa, ID
@@ -15778,24 +15785,23 @@ Maraba
 Abbotsford, BC
 Gaoyou, Yangzhou, JS
 Temertau
-Burnley
-Topeka, KS
-Nimes
-New Bedford, MA
-Sebastian, FL
-Beaumont, TX
-Lafayette, IN
-Spring Hill, FL
-Arecibo, PR
-Champaign, IL
-Houma, LA
-Marysville, WA
-Elkhart, IN--MI
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+175,000
+173,000
+172,000
+171,000
+171,000
+170,000
+170,000
+170,000
+169,000
+167,000
+167,000
+166,000
+165,000
 164,000
 163,000
 163,000
-161,000
 161,000
 161,000
 160,000
@@ -15814,28 +15820,28 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 154,000
 153,000
 153,000
+153,000
 151,000
 150,000
 150,000
 150,000
 150,000
-150,000
-150,000
-149,000
-149,000
-149,000
-148,000
-148,000
-148,000
-146,000
-145,000
-145,000
-145,000
-144,000
-2012
-1999
+2008
+2008
 2010
-1999
+2012
+2010
+2002
+2011
+2010
+2010
+2011
+2001
+2010
+2011
+2012
+2008
+2010
 2010
 2010
 2001
@@ -15852,6 +15858,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2008
 2001
 2010
+2008
 2012
 2010
 2010
@@ -15859,23 +15866,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2011
 2010
 2004
-2001
-2010
-1999
-2010
-2010
-2012
-2010
-2010
-2000
-2010
-2010
-2010
-2010
+175,000
+173,000
+172,000
+150,000
+171,000
+170,000
+170,000
+170,000
+169,000
+167,000
+167,000
+166,000
+165,000
 164,000
 163,000
 163,000
-161,000
 161,000
 161,000
 160,000
@@ -15894,28 +15900,28 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 154,000
 153,000
 153,000
+153,000
 151,000
 150,000
 150,000
 150,000
 150,000
-150,000
-150,000
-149,000
-149,000
-149,000
-148,000
-148,000
-148,000
-146,000
-145,000
-145,000
-145,000
-144,000
+124
+103
+90
+7
+71
+8
+14
+119
+139
+66
+15
+113
+72
 58
-70
+53
 49
-43
 112
 92
 22
@@ -15932,6 +15938,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 27
 16
 65
+81
 98
 106
 69
@@ -15939,23 +15946,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 61
 15
 18
-12
-80
-85
-55
-97
-92
-64
-115
-91
-47
-91
-82
-92
-2,800
+1,400
+1,700
+1,900
+24,400
+2,400
+21,300
+12,100
+1,400
+1,200
+2,500
+11,100
+1,500
 2,300
+2,800
+3,100
 3,300
-3,700
 1,400
 1,800
 7,300
@@ -15972,6 +15978,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 5,700
 9,900
 2,400
+1,900
 1,600
 1,400
 2,200
@@ -15979,23 +15986,22 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,500
 10,000
 8,300
-12,800
-1,900
-1,700
-2,700
-1,500
-1,600
-2,300
-1,300
-1,600
-3,100
-1,600
-1,800
-1,600
+321
+267
+233
+18
+184
+21
+36
+308
+360
+171
+39
+293
+186
 150
-181
+137
 127
-112
 290
 238
 57
@@ -16012,30 +16018,30 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 70
 41
 168
+210
 254
 275
 179
 44
-449
+158
 39
 47
-30
-207
-221
-142
-251
-238
-166
-298
-235
-122
-236
-212
-238
-1,100
+500
+600
+700
+9,400
 900
+8,200
+4,700
+600
+500
+1,000
+4,300
+600
+900
+1,100
+1,200
 1,300
-1,400
 600
 700
 2,800
@@ -16052,30 +16058,30 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,200
 3,800
 900
+700
 600
 600
 800
 3,400
-300
+900
 3,900
 3,200
-5,000
-700
-700
-1,000
-600
-600
-900
-500
-600
-1,200
-600
-700
-600
+2008
+2008
 2010
-1999
+2000
 2010
-1999
+2002
+2011
+2010
+2010
+2011
+2001
+2010
+2011
+2010
+2008
+2010
 2010
 2010
 2001
@@ -16092,6 +16098,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2008
 2001
 2010
+2008
 2010
 2010
 2010
@@ -16099,19 +16106,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2011
 2010
 2004
-2001
-2010
-1999
-2010
-2010
-2010
-2010
-2010
-2000
-2010
-2010
-2010
-2010
+A
+A
+A
+E
+A
+C
+A
+A
+A
+A
+A
+A
 A
 A
 A
@@ -16130,6 +16136,7 @@ A
 A
 A
 E
+A
 A
 A
 A
@@ -16142,11 +16149,10 @@ E
 A
 A
 A
+B
 A
-A
-A
-A
-A
+B
+B
 A
 A
 A
@@ -16175,24 +16181,26 @@ A
 A
 A
 A
-B
 A
 B
+A
 B
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
+B
 47
+Philippines
+United Kingdom
+United States
+United States
+United States
+United States
+United States
+United States
+France
+US: Puerto Rico
+United States
+United States
+United States
+United States
 United Kingdom
 United States
 United States
@@ -16211,7 +16219,6 @@ United States
 United States
 Australia
 France
-France
 United Kingdom
 United States
 United Kingdom
@@ -16219,20 +16226,21 @@ United Kingdom
 United States
 Guyana
 United States
-France
 United States
-United States
-United States
-United States
-United States
-United Kingdom
-US: Guam
-United Kingdom
-United States
-United States
-France
-Russia
-United States
+Naga City
+Burnley
+Topeka, KS
+New Bedford, MA
+Sebastian, FL
+Beaumont, TX
+Lafayette, IN
+Spring Hill, FL
+Saint-Nazaire
+Arecibo, PR
+Champaign, IL
+Houma, LA
+Marysville, WA
+Elkhart, IN--MI
 Oxford
 Lake Charles, LA
 Panama City, FL
@@ -16250,8 +16258,7 @@ York
 Macon, GA
 Merced, CA
 Geelong, VIC
-Annecy
-Saint-Nazaire
+Besancon
 Blackburn
 Pueblo, CO
 Gloucester
@@ -16259,21 +16266,22 @@ Peterborough
 Harlingen, TX
 Gerogetown
 Yuma, AZ--CA
-Besancon
 Fairfield, CA
-Racine, WI
-Bloomington, IL
-Murfreesboro, TN
-Warner Robins, GA
-Nuneaton
-Hagatna
-Cambridge
-Gainesville, GA
-Leesburg, FL
-Thionville
-Norilsk
-Santa Maria, CA
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+150,000
+150,000
+150,000
+149,000
+149,000
+148,000
+148,000
+148,000
+147,000
+146,000
+145,000
+145,000
+145,000
+144,000
 143,000
 143,000
 143,000
@@ -16294,26 +16302,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 137,000
 137,000
 137,000
-137,000
 136,000
 136,000
 136,000
 135,000
 135,000
 134,000
-134,000
-134,000
-133,000
-133,000
-133,000
-132,000
-132,000
-131,000
-131,000
-131,000
-130,000
-130,000
-130,000
+2010
+2001
+2010
+2010
+2010
+2012
+2010
+2010
+2008
+2000
+2010
+2010
+2010
+2010
 2001
 2010
 2010
@@ -16331,8 +16339,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2012
 2006
-1999
-1999
+2008
 2001
 2010
 2001
@@ -16340,20 +16347,21 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2004
 2010
-1999
 2010
-2010
-2010
-2010
-2010
-2001
-2000
-2001
-2010
-2010
-1999
-2002
-2010
+150,000
+150,000
+150,000
+149,000
+149,000
+148,000
+148,000
+148,000
+147,000
+146,000
+145,000
+145,000
+145,000
+144,000
 143,000
 143,000
 143,000
@@ -16374,26 +16382,26 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 137,000
 137,000
 137,000
-137,000
 136,000
 136,000
 136,000
 135,000
 135,000
 134,000
-134,000
-134,000
-133,000
-133,000
-133,000
-132,000
-132,000
-131,000
-131,000
-131,000
-130,000
-130,000
-130,000
+5
+12
+80
+55
+97
+92
+64
+115
+118
+91
+47
+91
+82
+92
 12
 127
 92
@@ -16411,8 +16419,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 98
 48
 39
-59
-108
+47
 12
 74
 14
@@ -16420,20 +16427,21 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 83
 27
 59
-47
 39
-49
-49
-77
-101
-13
-72
-14
-126
-94
-53
-12
-29
+30,000
+12,800
+1,900
+2,700
+1,500
+1,600
+2,300
+1,300
+1,200
+1,600
+3,100
+1,600
+1,800
+1,600
 11,700
 1,100
 1,600
@@ -16451,8 +16459,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,400
 2,900
 3,500
-2,300
-1,300
+2,900
 11,100
 1,900
 10,000
@@ -16460,28 +16467,29 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,600
 5,000
 2,300
-2,800
 3,400
-2,700
-2,700
-1,700
-1,300
-10,500
-1,800
-9,400
-1,000
-1,400
-2,500
-10,800
-4,500
+13
+30
+207
+142
+251
+238
+166
+298
+306
+235
+122
+236
+212
+238
 32
 329
 238
-449
+142
 41
 31
 189
-449
+171
 202
 34
 39
@@ -16491,8 +16499,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 254
 124
 101
-153
-281
+122
 32
 192
 35
@@ -16500,28 +16507,29 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 215
 70
 153
-122
 101
-127
-127
-199
-262
-33
-185
-36
-326
-243
-137
-31
-75
+11,600
+5,000
+700
+1,000
+600
+600
+900
+500
+500
+600
+1,200
+600
+700
+600
 4,500
 400
 600
-300
+1,000
 3,500
 4,600
 800
-300
+800
 700
 4,100
 3,600
@@ -16531,8 +16539,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 500
 1,100
 1,400
-900
-500
+1,100
 4,300
 700
 3,800
@@ -16540,20 +16547,21 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 600
 1,900
 900
-1,100
 1,300
-1,100
-1,000
-700
-500
-4,100
-700
-3,600
-400
-500
-900
-4,200
-1,700
+2010
+2001
+2010
+2010
+2010
+2010
+2010
+2010
+2008
+2000
+2010
+2010
+2010
+2010
 2001
 2010
 2010
@@ -16571,8 +16579,7 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2006
-1999
-1999
+2008
 2001
 2010
 2001
@@ -16580,20 +16587,21 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2004
 2010
-1999
 2010
-2010
-2010
-2010
-2010
-2001
-2000
-2001
-2010
-2010
-1999
-2002
-2010
+C
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
 A
 A
 A
@@ -16617,10 +16625,10 @@ A
 A
 A
 A
-A
 E
 A
 A
+B
 A
 A
 A
@@ -16632,7 +16640,6 @@ A
 A
 A
 A
-E
 A
 A
 A
@@ -16660,21 +16667,21 @@ A
 A
 B
 A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-B
 A
 48
+United States
+France
+United States
+United States
+United States
+United Kingdom
+US: Guam
+United Kingdom
+United States
+United States
+France
+Russia
+United States
 United States
 United States
 Australia
@@ -16685,6 +16692,8 @@ United States
 Sweden
 United Kingdom
 United States
+France
+France
 Canada
 United Kingdom
 United States
@@ -16700,31 +16709,31 @@ United States
 United States
 United States
 United States
-France
-United Kingdom
-US: Puerto Rico
-Canada
-United Kingdom
-United States
-United States
-United States
-United States
-France
-United States
-United States
-United States
-United States
-France
+Racine, WI
+Troyes
+Bloomington, IL
+Murfreesboro, TN
+Warner Robins, GA
+Nuneaton
+Hagatna
+Cambridge
+Gainesville, GA
+Leesburg, FL
+Thionville
+Norilsk
+Santa Maria, CA
 Tyler, TX
 Yakima, WA
 Hobart, TAS
 Townsville, QLD
-Troyes
+Poitiers
 Athens, GA
 Las Cruces, NM
 Upsalla
 Doncaster
 Grand Junction, CO
+La Rochelle
+Valence
 Trois-Rivières, QC
 Hastings
 Odessa, TX
@@ -16740,22 +16749,20 @@ Duluth, MN--WI
 Greeley, CO
 Johnson City, TN
 South Lyon, MI
-Poitiers
-Thanet
-Mayaguez, PR
-Kingston, ON
-High Wycombe
-Greenville, NC
-Lynchburg, VA
-Midland, TX
-Redding, CA
-Valence
-Leominster, MA
-Monroe, LA
-Utica, NY
-Yuba City, CA
-La Rochelle
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+134,000
+133,000
+133,000
+133,000
+133,000
+132,000
+132,000
+131,000
+131,000
+131,000
+130,000
+130,000
+130,000
 130,000
 130,000
 129,000
@@ -16766,6 +16773,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 128,000
 128,000
 128,000
+127,000
+127,000
 126,000
 126,000
 126,000
@@ -16781,31 +16790,31 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 120,000
 120,000
 120,000
-119,000
-119,000
-119,000
-118,000
-118,000
-118,000
-118,000
-118,000
-118,000
-117,000
-117,000
-117,000
-117,000
-117,000
-116,000
+2010
+2008
 2010
 2010
-2006
-2006
+2010
+2001
+2000
+2001
+2010
+2010
 1999
+2002
+2010
+2010
+2010
+2006
+2006
+2008
 2010
 2010
 2005
 2001
 2010
+2008
+2008
 2011
 2001
 2010
@@ -16821,21 +16830,19 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2012
 2010
 2010
-1999
-2001
-2000
-2011
-2001
-2010
-2012
-2010
-2010
-1999
-2010
-2010
-2012
-2010
-1999
+134,000
+133,000
+133,000
+133,000
+133,000
+132,000
+132,000
+131,000
+131,000
+131,000
+130,000
+130,000
+130,000
 130,000
 130,000
 129,000
@@ -16846,6 +16853,8 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 128,000
 128,000
 128,000
+127,000
+127,000
 126,000
 126,000
 126,000
@@ -16861,31 +16870,31 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 118,000
 120,000
 120,000
-119,000
-119,000
-119,000
-118,000
-118,000
-118,000
-117,000
-118,000
-118,000
-117,000
-117,000
-117,000
-117,000
-117,000
-116,000
+49
+67
+49
+77
+101
+13
+72
+14
+126
+94
+53
+12
+29
 90
 60
 48
 60
-58
+67
 98
 65
 13
 10
 79
+48
+70
 68
 12
 59
@@ -16901,31 +16910,31 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 41
 110
 103
-65
-10
-60
-36
-13
-65
-89
-53
-71
-63
-65
-82
-62
-39
-36
+2,700
+2,000
+2,700
+1,700
+1,300
+10,500
+1,800
+9,400
+1,000
+1,400
+2,500
+10,800
+4,500
 1,400
 2,200
 2,700
 2,200
-2,200
+1,900
 1,300
 2,000
 9,800
 13,300
 1,600
+2,600
+1,800
 1,900
 10,200
 2,100
@@ -16941,32 +16950,32 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,900
 1,100
 1,200
-1,800
-11,600
-2,000
-3,300
-9,300
-1,800
-1,300
-2,200
-1,700
-1,800
-1,800
-1,400
-1,900
-3,000
-3,200
+127
+174
+127
+199
+262
+33
+185
+36
+326
+243
+137
+31
+75
 233
 155
 125
 155
-151
+174
 254
 168
 48
 25
 205
-449
+124
+181
+176
 32
 153
 184
@@ -16974,39 +16983,39 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 161
 80
 184
-449
+78
 218
 233
 181
 106
 285
 267
-168
-27
-156
-449
-33
-168
-231
-137
-184
-164
-168
-212
-161
-101
-93
+1,100
+800
+1,000
+700
+500
+4,100
+700
+3,600
+400
+500
+900
+4,200
+1,700
 600
 800
 1,000
 800
-900
+700
 500
 800
 2,700
 5,100
 600
-300
+1,000
+700
+700
 3,900
 800
 700
@@ -17014,38 +17023,38 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 800
 1,600
 700
-300
+1,600
 600
 500
 700
 1,100
 400
 400
-700
-4,500
-800
-300
-3,600
-700
-500
-900
-600
-700
-700
-600
-700
-1,200
-1,300
+2010
+2008
 2010
 2010
-2006
-2006
+2010
+2001
+2000
+2001
+2010
+2010
 1999
+2002
+2010
+2010
+2010
+2006
+2006
+2008
 2010
 2010
 2005
 2001
 2010
+2008
+2008
 2011
 2001
 2010
@@ -17061,21 +17070,19 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2010
-1999
-2001
-2000
-2011
-2001
-2010
-2010
-2010
-2010
-1999
-2010
-2010
-2010
-2010
-1999
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+E
+A
 A
 A
 C
@@ -17090,25 +17097,9 @@ A
 A
 A
 A
+A
+A
 C
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
 A
 A
 A
@@ -17148,6 +17139,9 @@ A
 A
 A
 A
+B
+A
+A
 A
 A
 A
@@ -17157,6 +17151,18 @@ A
 A
 A
 49
+United Kingdom
+US: Puerto Rico
+Canada
+United Kingdom
+United States
+United States
+United States
+United States
+United States
+United States
+United States
+United States
 France
 United Kingdom
 United States
@@ -17165,13 +17171,13 @@ United States
 United States
 United States
 United States
-France
 France
 United States
 United States
 US: Puerto Rico
 United States
 United States
+France
 United Kingdom
 United Kingdom
 United States
@@ -17185,18 +17191,18 @@ United States
 US: Puerto Rico
 Canada
 Canada
-Canada
-Sweden
-United Kingdom
-United Kingdom
-United States
-United States
-United States
-United States
-France
-New Zealand
-United States
-United States
+Thanet
+Mayaguez, PR
+Kingston, ON
+High Wycombe
+Greenville, NC
+Lynchburg, VA
+Midland, TX
+Redding, CA
+Leominster, MA
+Monroe, LA
+Utica, NY
+Yuba City, CA
 Lorient
 Southport
 Boulder, CO
@@ -17205,13 +17211,13 @@ Billings, MT
 Bellingham, WA
 Kailua, HI
 Seaside, CA
-Chambery
 Montbeliard
 Lady Lake, FL
 Waterloo, IA
 San German, PR
 Dover, DE
 St. Cloud, MN
+Angouleme
 Cheltenham
 Torbay
 Abilene, TX
@@ -17225,19 +17231,19 @@ Rochester, MN
 Yauco, PR
 Chicoutimi, QC
 Moncton, NB
-Sudbury, ON
-Vasteras
-Eastbourne
-Exeter
-Iowa City, IA
-Kingsport, TN--VA
-Sioux City, IA--NE--SD
-Texas City, TX
-Calais
-Dunedin
-Jacksonville, NC
-Rock Hill, SC
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+119,000
+119,000
+118,000
+118,000
+118,000
+118,000
+118,000
+118,000
+117,000
+117,000
+117,000
+117,000
 116,000
 116,000
 116,000
@@ -17250,13 +17256,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 113,000
 113,000
 113,000
-113,000
 111,000
 111,000
 110,000
 110,000
 110,000
 110,000
+110,000
 109,000
 109,000
 109,000
@@ -17266,58 +17272,58 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 108,000
 107,000
 107,000
-107,000
-107,000
-107,000
-107,000
-107,000
-107,000
-106,000
-106,000
-105,000
-105,000
-105,000
-105,000
-1999
 2001
-2012
-2001
-2010
-2010
-2010
-2010
-1999
-1999
-2010
-2010
 2000
-2010
-2010
+2011
 2001
-2001
-2010
 2010
 2012
 2010
 2010
 2010
 2010
+2012
 2010
-2000
-2011
-2011
-2011
-2005
-2001
-2001
-2010
-2010
-2010
-2010
-1999
 2008
+2001
+2012
+2001
 2010
 2010
+2010
+2010
+1999
+2010
+2010
+2000
+2010
+2010
+2008
+2001
+2001
+2010
+2010
+2012
+2010
+2010
+2010
+2010
+2010
+2000
+2011
+2011
+119,000
+119,000
+118,000
+118,000
+118,000
+117,000
+118,000
+118,000
+117,000
+117,000
+117,000
+117,000
 116,000
 116,000
 115,000
@@ -17330,9 +17336,9 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 113,000
 113,000
 113,000
-113,000
 111,000
 111,000
+110,000
 110,000
 110,000
 110,000
@@ -17346,18 +17352,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 108,000
 107,000
 107,000
-107,000
-107,000
-107,000
-107,000
-107,000
-107,000
-106,000
-106,000
-105,000
-105,000
-105,000
-105,000
+10
+60
+36
+13
+65
+89
+53
+71
+65
+82
+62
+39
 41
 12
 32
@@ -17366,13 +17372,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 48
 39
 39
-61
 54
 71
 62
 90
 74
 50
+78
 10
 11
 55
@@ -17386,18 +17392,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 64
 51
 50
-105
-13
-9
-10
-46
-114
-54
-76
-53
-33
-71
-96
+11,600
+2,000
+3,300
+9,300
+1,800
+1,300
+2,200
+1,700
+1,800
+1,400
+1,900
+3,000
 2,800
 9,700
 3,600
@@ -17406,13 +17412,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,400
 2,900
 2,900
-1,900
 2,100
 1,600
 1,800
 1,300
 1,500
 2,200
+1,400
 10,500
 10,400
 2,000
@@ -17426,18 +17432,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,700
 2,100
 2,100
-1,000
-8,200
-11,800
-11,000
-2,300
-900
-2,000
-1,400
-2,000
-3,200
-1,500
-1,100
+27
+156
+93
+33
+168
+231
+137
+184
+168
+212
+161
+101
 107
 31
 83
@@ -17446,13 +17452,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 124
 101
 101
-158
 140
 184
 161
 234
 192
 130
+202
 27
 27
 142
@@ -17464,20 +17470,20 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 205
 132
 165
-449
-449
-449
-52
-24
-25
-119
-295
-140
-197
-137
-85
-184
-249
+132
+130
+4,500
+800
+1,300
+3,600
+700
+500
+900
+600
+700
+600
+700
+1,200
 1,100
 3,800
 1,400
@@ -17486,13 +17492,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 900
 1,100
 1,100
-700
 800
 600
 700
 500
 600
 900
+500
 4,100
 4,000
 800
@@ -17504,21 +17510,21 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 500
 800
 700
-200
-200
-200
-2,100
-4,500
-4,300
-900
-400
 800
-500
 800
-1,200
-600
-400
-1999
+2001
+2000
+2011
+2001
+2010
+2010
+2010
+2010
+2010
+2010
+2010
+2010
+2008
 2001
 2010
 2001
@@ -17526,13 +17532,13 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2010
 2010
 2010
-1999
 1999
 2010
 2010
 2000
 2010
 2010
+2008
 2001
 2001
 2010
@@ -17546,18 +17552,6 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2000
 2011
 2011
-2011
-2005
-2001
-2001
-2010
-2010
-2010
-2010
-1999
-2008
-2010
-2010
 A
 A
 A
@@ -17572,12 +17566,6 @@ A
 A
 A
 A
-A
-A
-A
-A
-A
-E
 A
 A
 A
@@ -17617,6 +17605,24 @@ A
 A
 A
 A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
 B
 A
 A
@@ -17624,22 +17630,21 @@ A
 A
 A
 A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-B
 A
 A
 50
+Canada
+Sweden
+United Kingdom
+United Kingdom
+United States
+United States
+United States
+United States
 France
+New Zealand
+United States
+United States
 United Kingdom
 United Kingdom
 United States
@@ -17668,18 +17673,18 @@ Canada
 Canada
 Sweden
 Canada
-Canada
-Canada
-Canada
-China
-Gabon
-Australia
-Canada
-Australia
-Canada
-Australia
-Canada
-Angouleme
+Sudbury, ON
+Vasteras
+Eastbourne
+Exeter
+Iowa City, IA
+Kingsport, TN--VA
+Sioux City, IA--NE--SD
+Texas City, TX
+Calais
+Dunedin
+Jacksonville, NC
+Rock Hill, SC
 Colchester
 Lincoln
 Norman, OK
@@ -17708,19 +17713,19 @@ Nanaimo, BC
 Lethbridge, AB
 Jonkoping
 Saint-Jean-sur-Richelieu, QC
-White Rock, BC
-Peterborough, ON
-Sarnia, ON
-Pinghu (Jiaxing), ZJ
-Port-Gentil
-Ballarat, VIC
-Milton, ON
-Albury, NSW-VIC
-Kamloops, BC
-Launceston, TAS
-Châteauguay, QC
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
-104,000
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+107,000
+107,000
+107,000
+107,000
+107,000
+107,000
+106,000
+106,000
+105,000
+105,000
+105,000
+105,000
 104,000
 104,000
 104,000
@@ -17749,18 +17754,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 84,000
 84,000
 83,000
-82,000
-81,000
-80,000
-80,000
-80,000
-78,000
-76,000
-74,000
-73,000
-71,000
-71,000
+2011
+2005
+2001
+2001
+2010
+2010
+2010
+2010
 1999
+2008
+2010
+2010
 2001
 2001
 2010
@@ -17789,18 +17794,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2011
 2005
 2011
-2011
-2011
-2011
-2000
-2005
-2006
-2011
-2006
-2011
-2006
-2011
-104,000
+107,000
+107,000
+107,000
+107,000
+107,000
+107,000
+106,000
+106,000
+105,000
+105,000
+105,000
+105,000
 104,000
 104,000
 104,000
@@ -17829,18 +17834,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 84,000
 84,000
 83,000
-82,000
-81,000
-80,000
-80,000
-80,000
-78,000
-76,000
-74,000
-73,000
-71,000
-71,000
+105
+13
+9
+10
+46
+114
+54
+76
+53
+33
 71
+96
 11
 12
 45
@@ -17869,18 +17874,18 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 47
 17
 34
-18
-29
-36
-4
-11
-44
-12
-33
-20
-37
-35
+1,000
+8,200
+11,800
+11,000
+2,300
+900
+2,000
+1,400
+2,000
+3,200
 1,500
+1,100
 9,100
 8,900
 2,300
@@ -17909,24 +17914,24 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,800
 4,900
 2,400
-4,600
-2,800
-2,200
-20,000
-7,300
-1,800
-6,300
-2,300
-3,700
-1,900
-2,000
+272
+52
+24
+25
+119
+295
+140
+197
+137
+85
 184
+249
 30
 30
 117
 179
-449
-449
+49
+179
 67
 24
 25
@@ -17938,35 +17943,35 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 62
 6
 127
-449
+210
 119
 75
-449
+73
 98
-449
+62
 34
-449
-449
+104
+122
 44
-449
-449
-449
-449
-10
-28
-114
-449
-85
-449
-96
-449
+88
+400
+2,100
+4,500
+4,300
+900
+400
+800
+500
+800
+1,200
 600
+400
 3,500
 3,400
 900
 600
-200
-200
+2,100
+600
 1,500
 4,300
 4,100
@@ -17978,29 +17983,29 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 1,600
 17,500
 800
-200
+500
 800
 1,300
-200
+1,300
 900
-200
+1,400
 2,700
-200
-200
-1,900
-200
-200
-200
-200
-7,700
-2,800
-700
-200
 900
-200
 700
-200
+1,900
+900
+2011
+2005
+2001
+2001
+2010
+2010
+2010
+2010
 1999
+2008
+2010
+2010
 2001
 2001
 2010
@@ -18029,17 +18034,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2011
 2005
 2011
-2011
-2011
-2011
-2000
-2005
-2006
-2011
-2006
-2011
-2006
-2011
+A
+A
+A
+A
+A
+A
+A
+A
+A
+E
+A
 A
 A
 A
@@ -18072,13 +18077,13 @@ A
 A
 A
 A
-E
-F
-C
 A
-C
 A
-C
+A
+A
+A
+A
+B
 A
 A
 A
@@ -18105,22 +18110,22 @@ A
 A
 A
 B
-A
-A
-A
-A
-A
-A
-A
-B
-B
-A
-A
 A
 A
 A
 A
 51
+Canada
+Canada
+Canada
+China
+Gabon
+Australia
+Canada
+Australia
+Canada
+Australia
+Canada
 New Zealand
 Australia
 Canada
@@ -18150,17 +18155,17 @@ France: Mayotte
 New Zealand
 New Zealand
 US:Virgin Islands
-US:Virgin Islands
-Australia
-Australia
-Australia
-US: American Samoa
-Albania
-Australia
-Australia
-Bhutan
-Australia
-Australia
+White Rock, BC
+Peterborough, ON
+Sarnia, ON
+Pinghu (Jiaxing), ZJ
+Port-Gentil
+Ballarat, VIC
+Milton, ON
+Albury, NSW-VIC
+Kamloops, BC
+Launceston, TAS
+Châteauguay, QC
 Palmerston North
 Bendigo, VIC
 Sault Ste. Marie, ON
@@ -18190,18 +18195,18 @@ Mamoudzou
 Napier
 Whangarei
 Charlotte Amalie
-Chistiansted
-Bundaberg, QLD
-Mandurah, WA
-Wagga Wagga, NSW
-Pago Pago
-Berat
-Bandaburg, QLD
-Bunbury, WA
-Thimphu
-Port Maquarie, NSW
-Hervey Bay, QLD
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+82,000
+81,000
+80,000
+80,000
+80,000
+78,000
+76,000
+74,000
+73,000
+71,000
+71,000
 70,000
 69,000
 68,000
@@ -18231,17 +18236,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 50,000
 50,000
 49,000
-48,000
-47,000
-47,000
-47,000
-47,000
-45,000
-45,000
-45,000
-45,000
-38,000
-36,000
+2011
+2011
+2011
+2000
+2005
+2006
+2011
+2006
+2011
+2006
+2011
 2008
 2001
 2011
@@ -18271,17 +18276,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2008
 2008
 2000
-2000
-2006
-2001
-2006
-2000
-2010
-2001
-2001
-1997
-2001
-2001
+82,000
+81,000
+80,000
+80,000
+80,000
+78,000
+76,000
+74,000
+73,000
+71,000
+71,000
 70,000
 69,000
 68,000
@@ -18311,17 +18316,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 50,000
 50,000
 49,000
-48,000
-47,000
-47,000
-47,000
-47,000
-45,000
-45,000
-45,000
-45,000
-38,000
-36,000
+18
+29
+36
+4
+11
+44
+12
+33
+20
+37
+35
 15
 47
 22
@@ -18351,17 +18356,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 13
 12
 36
-26
-40
-36
-21
-28
-2
-40
-30
-2
-21
-27
+4,600
+2,800
+2,200
+20,000
+7,300
+1,800
+6,300
+2,300
+3,700
+1,900
+2,000
 4,700
 1,500
 3,100
@@ -18391,97 +18396,97 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 3,800
 4,200
 1,400
-1,800
-1,200
-1,300
-2,200
-1,700
-20,400
-1,100
-1,500
-22,500
-1,800
-1,300
+47
+75
+93
+10
+28
+114
+31
+85
+52
+96
+91
 39
 121
-449
+57
 107
-449
-449
-449
-449
-449
-449
-449
+80
+62
+130
+101
+54
+80
+142
 77
 91
 50
-449
+60
 50
-449
+91
 8
 21
 89
 14
-449
+41
 31
-449
-449
+137
+47
 5
 34
 31
 94
-68
-104
-92
-56
-73
-6
-104
-77
-5
-54
-70
+1,800
+1,100
+900
+7,700
+2,800
+700
+2,400
+900
+1,400
+700
+800
 1,800
 600
-200
+1,200
 600
-100
-100
-100
-100
-100
-100
-100
+800
+1,100
+500
+700
+1,200
+800
+400
 800
 700
 1,200
-100
+1,000
 1,200
-100
+700
 7,700
 2,900
 700
 3,800
-100
+1,300
 1,800
-100
-100
+400
+1,100
 9,700
 1,500
 1,600
 500
-700
-500
-500
-800
-600
-7,900
-400
-600
-8,700
-700
-500
+2011
+2011
+2011
+2000
+2005
+2006
+2011
+2006
+2011
+2006
+2011
 2008
 2001
 2011
@@ -18511,17 +18516,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2008
 2008
 2000
-2000
-2006
-2001
-2006
-2000
-2010
-2001
-2001
-1997
-2001
-2001
+A
+A
+A
+E
+F
+C
+A
+C
+A
+C
+A
 E
 C
 A
@@ -18552,16 +18557,16 @@ E
 E
 A
 A
-C
-C
-C
 A
-E
-C
-C
-E
-C
-C
+A
+B
+B
+A
+A
+A
+A
+A
+A
 B
 A
 A
@@ -18590,19 +18595,19 @@ A
 B
 B
 B
-A
-A
-A
-A
-A
-A
-B
-A
-A
-B
-A
 A
 52
+US:Virgin Islands
+Australia
+Australia
+Australia
+US: American Samoa
+Albania
+Australia
+Australia
+Bhutan
+Australia
+Australia
 Australia
 Australia
 Australia
@@ -18632,8 +18637,17 @@ Australia
 Greenland
 Australia
 Australia
-Australia
-Australia
+Chistiansted
+Bundaberg, QLD
+Mandurah, WA
+Wagga Wagga, NSW
+Pago Pago
+Berat
+Bandaburg, QLD
+Bunbury, WA
+Thimphu
+Port Maquarie, NSW
+Hervey Bay, QLD
 Shepparton, VIC
 Tamworth, NSW
 Melton, VIC
@@ -18663,9 +18677,18 @@ Warrangata, VIC
 Nuuk
 Murray Bridge, SA
 Port Augusta, SA
-Lithgow, NSW
-Esperance, WA
-Demographia World Urban Areas: 8th Annual Edition (2012.04)
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+48,000
+47,000
+47,000
+47,000
+47,000
+45,000
+45,000
+45,000
+45,000
+38,000
+36,000
 36,000
 33,000
 32,000
@@ -18695,8 +18718,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 14,000
 13,000
 13,000
-11,000
-9,000
+2000
+2006
+2001
+2006
+2000
+2010
+2001
+2001
+1997
+2001
+2001
 2001
 2001
 2001
@@ -18726,8 +18758,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2005
 2001
 2001
-2006
-2001
+48,000
+47,000
+47,000
+47,000
+47,000
+45,000
+45,000
+45,000
+45,000
+38,000
+36,000
 36,000
 33,000
 32,000
@@ -18757,8 +18798,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 14,000
 13,000
 13,000
-11,000
-9,000
+26
+40
+36
+21
+28
+2
+40
+30
+2
+21
+27
 14
 14
 10
@@ -18788,8 +18838,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2
 17
 15
-12
-15
+1,800
+1,200
+1,300
+2,200
+1,700
+20,400
+1,100
+1,500
+22,500
+1,800
+1,300
 2,500
 2,300
 3,300
@@ -18819,8 +18878,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 7,000
 700
 800
-900
-600
+68
+104
+92
+56
+73
+6
+104
+77
+5
+54
+70
 37
 37
 25
@@ -18850,8 +18918,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 5
 45
 40
-30
-40
+700
+500
+500
+800
+600
+7,900
+400
+600
+8,700
+700
+500
 1,000
 900
 1,300
@@ -18881,8 +18958,17 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2,700
 300
 300
-400
-200
+2000
+2006
+2001
+2006
+2000
+2010
+2001
+2001
+1997
+2001
+2001
 2001
 2001
 2001
@@ -18912,68 +18998,110 @@ Demographia World Urban Areas: 8th Annual Edition (2012.04)
 2005
 2001
 2001
+A
+C
+C
+C
+A
+E
+C
+C
+E
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+E
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+E
+C
+C
+A
+A
+A
+A
+A
+B
+A
+A
+B
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+B
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+B
+A
+A
+53
+Australia
+Australia
+Lithgow, NSW
+Esperance, WA
+Demographia World Urban Areas: 8th Annual Edition: Version 2 (2012.07)
+11,000
+9,000
+2006
+2001
+11,000
+9,000
+12
+15
+900
+600
+30
+40
+400
+200
 2006
 2001
 C
 C
-C
-C
-C
-C
-C
-C
-C
-C
-C
-C
-C
-C
-C
-E
-C
-C
-C
-C
-C
-C
-C
-C
-C
-C
-E
-C
-C
-C
-C
 A
 A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-B
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-B
-A
-A
-A
-A
-53
+54

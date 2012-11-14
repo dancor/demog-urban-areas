@@ -69,16 +69,16 @@ getFirstPage cs = do
   (dens2s, cs7) <- toChunk Num cs6
   (areas, cs8) <- toChunk Num cs7
   (denssYr2s, cs9) <- toChunk Num cs8
-  let denss = map head $ splitEvery 2 denssYr2s
+  let denss = map head $ chunksOf 2 denssYr2s
   r <- getPage cs9
   return $ zip3 countries cities pops ++ r
 
 getPage cs = do
   (cc, cs2) <- toChunk Word cs
-  let (countries:cities:_) = splitEvery (length cc `div` 2) cc
+  let (countries:cities:_) = chunksOf (length cc `div` 2) cc
   (lol, cs3) <- toChunk Num cs2
   let [pops, yrs, pop2s, area2s, dens2s, areas, denss, yr2s] = 
-        splitEvery (length lol `div` 8) lol
+        chunksOf (length lol `div` 8) lol
       r = case getPage cs3 of
         Nothing -> []
         Just r2 -> r2
