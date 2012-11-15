@@ -1,21 +1,21 @@
-147 China
+152 China
 93 India
-73 USA
+74 USA
 39 Russia
 34 Brazil
 27 Mexico
 23 Japan
 22 Indonesia
 17 Nigeria
+15 Germany
 14 Iran
-13 Germany
 12 Turkey
 11 Pakistan
 11 South Korea
+10 France
 10 UK
 10 Ukraine
 9 Argentina
-9 France
 9 Italy
 9 Spain
 8 Canada
@@ -44,6 +44,7 @@
 3 Côte d'Ivoire
 3 Israel
 3 Myanmar
+3 Switzerland
 3 Syria
 2 Angola
 2 Belarus
@@ -128,7 +129,6 @@
 1 Somalia
 1 Sri Lanka
 1 Sudan
-1 Switzerland
 1 Tajikistan
 1 Tanzania
 1 Togo
@@ -138,4 +138,4 @@
 1 Uganda
 1 Uruguay
 1 Zambia
-836 total
+847 total
