@@ -13,6 +13,27 @@ import System.FilePath
 data LineType = Header | Num | Word | Letter
   deriving (Eq, Show)
 
+-- Note "nation" is a UN nation and "region" is a top-level division
+-- (states, provinces, etc.).  Region also includes independently
+-- administered countries which in the nation as far as the UN is concerned
+-- (e.g. Taiwan in China).
+data CityLoc
+    = CityLoc
+    { clNation :: String
+    , clNationExtra :: String
+    , clRegion :: String
+    , clRegionExtra :: String
+    }
+    deriving (Eq, Ord, Show)
+
+data CityInfo
+    = CityInfo
+    { ciLoc :: CityLoc
+    , ciPop :: Int
+    }
+    deriving (Eq, Ord, Show)
+
+headerPrefixes :: [String]
 headerPrefixes = [
   "Demographia World Urban Areas: ",
   "Table 1",
@@ -38,50 +59,49 @@ headerPrefixes = [
   "Source"
   ]
 
-runTests testResPairs = head $ map snd (filter fst testResPairs)
+multiIf :: [(Bool, a)] -> a
+multiIf = snd . head . filter fst
 
 lineGetType :: String -> LineType
 lineGetType cs =
-  runTests [
+  multiIf [
     (all (\ c -> isDigit c || c == ',') cs, Num),
     (any (`isPrefixOf` cs) headerPrefixes, Header),
     (length cs == 1 && all isUpper cs, Letter),
     (True, Word)
     ]
 
-summ :: String -> String
-summ s =
-  if length s <= half * 2
-    then s
-    else take (half - 1) s ++ ".." ++ drop (length s - half + 1) s
-  where
-  half = 80
-
+toChunk
+    :: LineType
+    -> [(LineType, [String])] 
+    -> Maybe ([String], [(LineType, [String])])
 toChunk lineType cs =
-  if null rem then Nothing else Just (snd $ head rem, tail rem)
+  if null cs2 then Nothing else Just (snd $ head cs2, tail cs2)
   where
-  rem = dropWhile ((/= lineType) . fst) cs
+  cs2 = dropWhile ((/= lineType) . fst) cs
 
-getFirstPage cs = do
+getAllPages :: [(LineType, [String])] -> Maybe [(String, String, String)]
+getAllPages cs = do
   (countries, cs2) <- toChunk Word cs
   (cities, cs3) <- toChunk Word cs2
   (pops, cs4) <- toChunk Num cs3
-  (yrs, cs5) <- toChunk Num cs4
-  (pop2sArea2s, cs6) <- toChunk Num cs5
-  (dens2s, cs7) <- toChunk Num cs6
-  (areas, cs8) <- toChunk Num cs7
+  (_yrs, cs5) <- toChunk Num cs4
+  (_pop2sArea2s, cs6) <- toChunk Num cs5
+  (_dens2s, cs7) <- toChunk Num cs6
+  (_areas, cs8) <- toChunk Num cs7
   (denssYr2s, cs9) <- toChunk Num cs8
-  let denss = map head $ chunksOf 2 denssYr2s
-  r <- getPage cs9
+  let _denss = map head $ chunksOf 2 denssYr2s
+  r <- getRemainingPages cs9
   return $ zip3 countries cities pops ++ r
 
-getPage cs = do
+getRemainingPages :: [(LineType, [String])] -> Maybe [(String, String, String)]
+getRemainingPages cs = do
   (cc, cs2) <- toChunk Word cs
   let (countries:cities:_) = chunksOf (length cc `div` 2) cc
   (lol, cs3) <- toChunk Num cs2
-  let [pops, yrs, pop2s, area2s, dens2s, areas, denss, yr2s] =
+  let [pops, _yrs, _pop2s, _area2s, _dens2s, _areas, _denss, _yr2s] =
         chunksOf (length lol `div` 8) lol
-      r = case getPage cs3 of
+      r = case getRemainingPages cs3 of
         Nothing -> []
         Just r2 -> r2
   return (zip3 countries cities pops ++ r)
@@ -109,10 +129,13 @@ unIfy x = x
 
 -- I have a certain set of names and abbrs. that I tend to stick too.
 -- Also some other normalization and cleanup.
+cleanData :: (String, String, String) -> Maybe (String, String, String)
 cleanData (n, c, p) = if cityIsWack c then Nothing else Just (f n', f c', p)
   where
   (n', c') = case (n, c) of
-    ("Chad", "Niamey") -> ("Chad", "N'Djamena")  -- typo in data
+    -- typos in data
+    ("Chad", "Niamey") -> (n, "N'Djamena")
+    ("Australia", "Port Maquarie") -> (n, "Port Macquarie")
     _ -> (n, c)
   f x = case x of
     "United States" -> "USA"
@@ -128,10 +151,7 @@ cleanData (n, c, p) = if cityIsWack c then Nothing else Just (f n', f c', p)
     "Katowice-Gliwice-Tychy" -> "Katowice"
     "Southamption" -> "Southampton"
     _ -> x
-  cityIsWack c = c == "Bandaburg, QLD"  -- dupe typo for Bundaberg (AU)
-
-n2cp :: (String, String, String) -> (String, (Int, String))
-n2cp (n, c, p) = (n, (read $ filter isDigit p, c))
+  cityIsWack = (== "Bandaburg, QLD")  -- dupe typo for Bundaberg (AU)
 
 expNot :: Double -> (Double, Int)
 expNot x =
@@ -169,7 +189,6 @@ metricSigDigs d x =
         else (placeDecimal (e + 1) c, "")
   where
   (c, e) = expNotSigDigs d x
-  ds = show c
 
 showN :: Int -> String
 showN x =
@@ -221,18 +240,10 @@ main = do
                 , (== n) . unIfy . fst
                 , map showLol . hideNation
                 )
-    {- analysis phase:
-    putStr $ unlines $ map summ $
-      map (\ (a, b) -> [head $ show a] ++ show (length b) ++ " " ++
-                          intercalate " " b)
-      typeChunks
--- w(country) w(city) n(pop) n(yr) n(pop2,area2) n(dens2) n(area) n(dens,yr2)
--- w(country)w(city) n(pop)n(yr)n(pop2)n(area2)n(dens2)n(area)n(dens)n(yr2)
-    -}
     writeFile ("output" </> runType) . unlines .
         finalFunc .
         filter filterFunc .
         map (\ (n, c, p) -> (n, (read $ filter isDigit p, c))) .
         mapMaybe cleanData .
         fromJust $
-        getFirstPage typeChunks
+        getAllPages typeChunks
