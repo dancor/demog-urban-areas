@@ -32,7 +32,7 @@
 8.7M Colombia: Bogota
 8.7M India: Bangalore, KAR
 8.6M UK: London
-8.3M China: Taiwan: Taipei
+8.3M China: Taipei, Taiwan
 8.3M Vietnam: Ho Chi Minh City
 8.3M China: Dongguan, GD
 7.9M India: Hyderabad, AP
@@ -140,7 +140,7 @@
 3.0M India: Lucknow, UP
 2.9M Algeria: Algiers
 2.9M South Africa: Durban (Ethekwini)
-2.9M China: Taiwan: Taichung
+2.9M China: Taichung, Taiwan
 2.9M China: Changzhou, JS
 2.9M Turkey: Izmir
 2.9M China: Urumqi, XJ
@@ -148,12 +148,12 @@
 2.8M Pakistan: Hyderabad
 2.8M Ukraine: Kiyev
 2.8M China: Wenzhou, ZJ
-2.8M China: Taiwan: Kaohsiung
+2.8M China: Kaohsiung, Taiwan
 2.7M Iran: Masbad
 2.7M Ghana: Kumasi
 2.7M USA: Minneapolis-St. Paul, MN-WI
 2.7M China: Guiyang, GZ
-2.7M US: Puerto Rico: San Juan, PR
+2.7M USA: San Juan, Puerto Rico
 2.7M Syria: Damascus
 2.7M Iran: Karaj
 2.7M Japan: Sapporo
@@ -163,7 +163,7 @@
 2.6M India: Nagpur, MAH
 2.5M USA: Tampa-St. Petersburg, FL
 2.5M Brazil: Campinas
-2.5M Poland: Katowice
+2.5M Poland: Katowice-Gliwice-Tychy
 2.5M Yemen: Sana
 2.5M Vietnam: Hanoi
 2.5M Cameroon: Douala
@@ -195,7 +195,7 @@
 2.2M Dominican Republic: Santo Domingo
 2.2M India: Indore, MP
 2.2M Indonesia: Medan
-2.2M China: Chaoyang-Chaonan (Shantou,) GD
+2.2M China: Chaoyang-Chaonan (Shantou), GD
 2.2M India: Coimbatore, TN
 2.2M India: Kalyan, MAH
 2.2M USA: St. Louis, MO-IL
@@ -356,7 +356,7 @@
 1.2M Mexico: Torreon
 1.2M India: Allahabad, UP
 1.2M Thailand: Pattaya
-1.2M China: Taiwan: Tainan
+1.2M China: Tainan, Taiwan
 1.2M China: Liuzhou, GX
 1.2M India: Dhanbad, JHA
 1.2M India: Aurangabad, MH
@@ -493,7 +493,7 @@
 920k China: Jaingmen, GD
 920k China: Shaoguan, GD
 920k DRCongo: Kananga
-910k China: Puning (Jieyang,) GD
+910k China: Puning (Jieyang), GD
 910k USA: New Orleans, LA
 910k Nigeria: Onitsha
 910k Poland: Lodz
@@ -604,7 +604,7 @@
 730k Mexico: Reynosa
 730k USA: Omaha, NE-IA
 720k Germany: Hannover
-720k Palestine: Gaza
+720k Israel: Gaza, Palestine
 720k USA: Dayton, OH
 720k Italy: Catania
 720k USA: Rochester, NY
@@ -648,7 +648,7 @@
 650k Brazil: Sao Jose dos Campos
 650k China: Changde, HUN
 650k China: Yuyao (Ningbo)
-650k China: Taiwan: Hsinchu
+650k China: Hsinchu, Taiwan
 650k Germany: Bremen
 650k India: Saharanpur, UP
 650k Indonesia: Karawang
@@ -750,7 +750,7 @@
 550k India: Jhansi, UP
 550k Iran: Rasht
 550k Lithuania: Vilnius
-550k Mauretania: Nouakchott
+550k Mauritania: Nouakchott
 550k Mexico: Cancun
 550k Mexico: Tuxla Guitierrez
 550k Moldova: Chisinau
@@ -787,7 +787,7 @@
 520k Russia: Razan
 520k Russia: Tomsk
 520k Germany-France: Saarbrucken
-520k Switzerland & F: Geneva
+520k Switzerland-France: Geneva
 510k India: Sangali, MAH
 510k China: Linfen, SAA
 510k China: Luzhou, SC
@@ -800,7 +800,7 @@
 510k Russia: Naberenznyje Celny
 510k Russia: Penza
 510k Sweden: Goteborg
-510k Switzerland & D & F: Basel
+510k Switzerland-France-Germany: Basel
 510k Bangladesh: Rajshahi
 510k USA: Toledo, OH-MI
 500k China: Zhangzhou, FJ
@@ -1050,7 +1050,7 @@
 300k Brazil: Rio Branco
 300k China: Acheng, HL
 300k China: Chaohu, AH
-300k China: Liushu.,GD
+300k China: Liushu., GD
 300k China: Shizuishan, NX
 300k China: Suizhou, HUB
 300k China: Taizhou, JS
@@ -1066,7 +1066,7 @@
 300k Uzbekistan: Namangan
 300k USA: Rockford, IL
 300k USA: Shreveport LA
-300k US: Puerto Rico: Aguadilla, PR
+300k USA: Aguadilla, Puerto Rico
 300k Canada: Halifax, NS
 300k China: Tongling, AH
 290k USA: Lexington, KY
@@ -1086,7 +1086,7 @@
 280k USA: South Bend, IN-MI
 280k USA: Springfield, MO
 280k Canada: Windsor, ON
-280k Austria & Germany: Salzburg
+280k Austria-Germany: Salzburg
 280k Azerbaijan: Sumqayit
 280k Botswana: Gaborone
 280k Chile: Antofagasta
@@ -1199,8 +1199,8 @@
 200k China: Yichun, HL
 200k UK: Norwich
 200k USA: Waterbury, CT
-200k US: Puerto Rico: Ponce, PR
-190k Canada: Regina,SK
+200k USA: Ponce, Puerto Rico
+190k Canada: Regina, SK
 190k UK: Aberdeen
 190k USA: Fort Walton Beach, FL
 190k Egypt: Luzor
@@ -1221,7 +1221,7 @@
 180k USA: Lorain, OH
 180k China: Hebi, HEN
 180k UK: Crawley
-180k Western Sahara: Laayoune
+180k Morocco: Laayoune, Western Sahara
 180k France: Bayonne
 180k USA: Cedar Rapids, IA
 180k USA: Olympia, WA
@@ -1278,7 +1278,7 @@
 150k USA: Lafayette, IN
 150k USA: Spring Hill, FL
 150k France: Saint-Nazaire
-150k US: Puerto Rico: Arecibo, PR
+150k USA: Arecibo, Puerto Rico
 140k USA: Champaign, IL
 140k USA: Houma, LA
 140k USA: Marysville, WA
@@ -1286,7 +1286,7 @@
 140k UK: Oxford
 140k USA: Lake Charles, LA
 140k USA: Panama City, FL
-140k Canada: Kelowna,BC
+140k Canada: Kelowna, BC
 140k UK: Ipswich
 140k UK: Slough
 140k USA: Frederick, MD
@@ -1315,7 +1315,7 @@
 130k USA: Murfreesboro, TN
 130k USA: Warner Robins, GA
 130k UK: Nuneaton
-130k US: Guam: Hagatna
+130k USA: Hagatna, Guam
 130k UK: Cambridge
 130k USA: Gainesville, GA
 130k USA: Leesburg, FL
@@ -1338,7 +1338,7 @@
 130k UK: Hastings
 130k USA: Odessa, TX
 130k USA: Saginaw, MI
-120k Montenegro: Podgorica
+120k Montenegro-Serbia: Podgorica
 120k USA: Columbia, MO
 120k USA: Simi Valley, CA
 120k USA: Fort Smith, AR-OK
@@ -1350,7 +1350,7 @@
 120k USA: Johnson City, TN
 120k USA: South Lyon, MI
 120k UK: Thanet
-120k US: Puerto Rico: Mayaguez, PR
+120k USA: Mayaguez, Puerto Rico
 120k Canada: Kingston, ON
 120k UK: High Wycombe
 120k USA: Greenville, NC
@@ -1372,7 +1372,7 @@
 110k France: Montbeliard
 110k USA: Lady Lake, FL
 110k USA: Waterloo, IA
-110k US: Puerto Rico: San German, PR
+110k USA: San German, Puerto Rico
 110k USA: Dover, DE
 110k USA: St. Cloud, MN
 110k France: Angouleme
@@ -1386,7 +1386,7 @@
 110k USA: El Centro, CA
 110k USA: Pottstown, PA
 110k USA: Rochester, MN
-110k US: Puerto Rico: Yauco, PR
+110k USA: Yauco, Puerto Rico
 110k Canada: Chicoutimi, QC
 110k Canada: Moncton, NB
 110k Canada: Sudbury, ON
@@ -1451,11 +1451,11 @@
 66k Canada: Saint-Jérôme, QC
 64k Canada: Belleville, ON
 62k Canada: Fredericton, NB
-62k US: N. Marianas: Saipan
+62k USA: Saipan, N. Marianas
 61k Australia: Maitland, NSW
 61k Australia: Rockingham, WA
 61k Canada: Fort McMurray, AB
-60k Bermuda: Hamilton
+60k UK: Hamilton, Bermuda
 60k Canada: Granby, QC
 60k Comoros: Moroni
 60k Germany: Weimar
@@ -1465,15 +1465,15 @@
 55k New Zealand: Hastings
 54k Canada: North Bay, ON
 51k Canada: Beloeil, QC
-50k France: Mayotte: Mamoudzou
+50k France: Mamoudzou, Mayotte
 50k New Zealand: Napier
 50k New Zealand: Whangarei
-49k US:Virgin Islands: Charlotte Amalie
-48k US:Virgin Islands: Chistiansted
+49k USA: Charlotte Amalie, Virgin Islands
+48k USA: Chistiansted, Virgin Islands
 47k Australia: Bundaberg, QLD
 47k Australia: Mandurah, WA
 47k Australia: Wagga Wagga, NSW
-47k US: American Samoa: Pago Pago
+47k USA: Pago Pago, American Samoa
 45k Albania: Berat
 45k Australia: Bunbury, WA
 45k Bhutan: Thimphu
@@ -1505,7 +1505,7 @@
 20k Australia: Gawler, SA
 18k Australia: Katoomba, NSW
 16k Australia: Warrangata, VIC
-14k Greenland: Nuuk
+14k Denmark: Nuuk, Greenland
 13k Australia: Murray Bridge, SA
 13k Australia: Port Augusta, SA
 11k Australia: Lithgow, NSW

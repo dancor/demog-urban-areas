@@ -152,8 +152,14 @@ showN x =
   where
   (c, suf) = metricSigDigs 2 (fromIntegral x)
 
-showLol :: (Maybe String, (Int, String)) -> String
-showLol (n, (p, c)) = showN p ++ " " ++ (maybe "" (++ ": ") n) ++ c
+showCi :: CityInfo -> String
+showCi (CityInfo (CityLoc n nX r rX c) p) =
+    showN p ++ " " ++
+    (if null nFull then "" else nFull ++ ": ") ++ c ++
+    (if null rFull then "" else ", " ++ rFull)
+  where
+    rFull = r ++ rX
+    nFull = n ++ nX
 
 nationFix :: String -> (String, String, String)
 nationFix "Austria & Germany" = ("Austria", "-Germany", "")
@@ -168,8 +174,8 @@ nationFix "Katowice-Gliwice-Tychy" = ("Katowice", "-Gliwice-Tychy", "")
 nationFix "Palestine" = ("Israel", "", "Palestine")
 -- Here's an unusual case where the nominal nation was put second:
 nationFix "Serbia-Montenegro" = ("Montenegro", "-Serbia", "")
-nationFix "Switzerland & D & F" = ("Switzerland", "-D-F", "")
-nationFix "Switzerland & F" = ("Switzerland", "-F", "")
+nationFix "Switzerland & D & F" = ("Switzerland", "-France-Germany", "")
+nationFix "Switzerland & F" = ("Switzerland", "-France", "")
 nationFix "US: American Samoa" = ("USA", "", "American Samoa")
 nationFix "US: Guam" = ("USA", "", "Guam")
 nationFix "US: N. Marianas" = ("USA", "", "N. Marianas")
@@ -179,15 +185,18 @@ nationFix "Western Sahara" = ("Morocco", "", "Western Sahara")
 nationFix x = (x, "", "")
 
 cityFix :: String -> (String, String, String)
+cityFix "Chaoyang-Chaonan (Shantou,) GD" =
+    cityFix "Chaoyang-Chaonan (Shantou), GD"
+cityFix "Puning (Jieyang,) GD" =
+    cityFix "Puning (Jieyang), GD"
 cityFix cityOrig =
     if null commaAndRest
     then ("", "", cityOrig)
     else (region, regionExtra, city)
   where
     (city, commaAndRest) = break (== ',') cityOrig
-    regionFull = drop 2 commaAndRest
-    (region, hyphenAndRest) = break (== '-') regionFull
-    regionExtra = drop 2 hyphenAndRest
+    regionFull = dropWhile isSpace $ drop 1 commaAndRest
+    (region, regionExtra) = break (== '-') regionFull
 
 cleanLoc :: String -> String -> CityLoc
 -- Typos in data:
@@ -200,7 +209,7 @@ cleanLoc n c = CityLoc nation nationExtra region regionExtra city
     region =
         if null region1
         then region2
-        else if null region1 then region2 else error "Region overload!"
+        else region1
 
 cleanData :: (String, String, String) -> Maybe CityInfo
 -- Dupe typo for Bundaberg (AU):
@@ -243,36 +252,34 @@ main = do
             [] -> "all"
             [x] -> x
             _ -> usageErr
-        onePerNation = nubBy ((==) `on` fst)
-        showNation = map (first Just)
-        hideNation = map (first (const Nothing))
+        compNation = (==) `on` (clNation . ciLoc)
+        hideNation (CityInfo (CityLoc _n _nX r rX c) p) =
+            CityInfo (CityLoc "" "" r rX c) p
         (runType, filterFunc, finalFunc) = case runTypeArg of
             "all" ->
                 ( runTypeArg
                 , const True
-                , map showLol . showNation)
+                , map showCi
+                )
             "nation_by_count" ->
                 ( runTypeArg
-                , \ (_nation, (population, _city)) ->
-                    population >= dataHasAllCitiesThisSize
+                , (>= dataHasAllCitiesThisSize) . ciPop
                 , map (\ (count, nation) -> show count ++ " " ++ nation) .
                   (\ xs -> xs ++ [(sum (map fst xs), "total")]) .
                   sortBy (flip (comparing fst) `mappend` comparing snd) .
-                  map (\ x -> (length x, fst $ head x)) .
-                  groupBy ((==) `on` fst) . sort
+                  map (\ x -> (length x, clNation . ciLoc $ head x)) .
+                  groupBy compNation . sort
                 )
             "un1" ->
                 ( runTypeArg
                 , const True
-                , map showLol . showNation . onePerNation
+                , map showCi . nubBy compNation
                 )
             n ->
                 ( "by_nation" </> n
-                , (== n) . fst
-                , map showLol . hideNation
+                , (== n) . clNation . ciLoc
+                , map (showCi . hideNation)
                 )
     writeFile ("output" </> runType) . unlines .
-        finalFunc .
-        filter filterFunc $
-        map (\ ci -> (clNation $ ciLoc ci, (ciPop ci, clCity $ ciLoc ci)))
-        cityInfos
+        finalFunc $
+        filter filterFunc cityInfos
