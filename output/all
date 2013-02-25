@@ -187,7 +187,7 @@
 2.3M Uzbekistan: Tashkent
 2.3M China: Zhongshan, GD
 2.3M Haiti: Port-au-Prince
-2.3M China: Zhangjiaggang-Jiangyin, (Suzhou-Wuxi) JS
+2.3M China: Zhangjiaggang-Jiangyin (Suzhou-Wuxi), JS
 2.2M Nigeria: Abuja
 2.2M UK: Manchester
 2.2M China: Nanning, GX
@@ -232,7 +232,7 @@
 1.9M USA: Orlando, FL
 1.9M Brazil: Manaus
 1.9M Venezuela: Valencia
-1.9M India: Vadodara. GUJ
+1.9M India:  Vadodara, GUJ
 1.9M Belarus: Minsk
 1.9M India: Thrissur, KER
 1.9M Morocco: Rabat
@@ -250,7 +250,7 @@
 1.8M India: Agra, UP
 1.8M Guinea: Conakry
 1.8M USA: Sacramento, CA
-1.8M India: Visakhpatnam.AP
+1.8M India: Visakhpatnam, AP
 1.8M USA: Cleveland, OH
 1.7M Bolivia: La Paz
 1.7M Uganda: Kampala
@@ -276,7 +276,7 @@
 1.6M RCongo: Brazzaville
 1.6M Cambodia: Phhom Pehn
 1.6M DRCongo: Lumumbashi
-1.6M USA: Cincinnati, OH--KY--IN
+1.6M USA: Cincinnati, OH-KY-IN
 1.6M El Salvador: San Salvador
 1.6M China: Jilin, JL
 1.6M China: Haikou, HA
@@ -298,7 +298,7 @@
 1.5M Saudi Arabia: Mecca
 1.5M Iraq: Mosul
 1.5M China: Yangzhou, JS
-1.5M India: Vijayawada. AP
+1.5M India: Vijayawada, AP
 1.5M Iran: Tabriz
 1.5M USA: Indianapolis, IN
 1.5M Costa Rica: San Jose
@@ -309,7 +309,7 @@
 1.5M Portugal: Porto
 1.5M South Korea: Guangju
 1.5M Russia: Novosibersk
-1.5M India: Varanasi.UP
+1.5M India: Varanasi, UP
 1.5M Philippines: Davao City
 1.5M Turkey: Adana
 1.5M India: Meerut, UP
@@ -342,7 +342,7 @@
 1.3M India: Srinigar, JK
 1.3M Armenia: Yerevan
 1.3M New Zealand: Auckland
-1.3M India: Jabalpur.MP
+1.3M India: Jabalpur, MP
 1.3M Sweden: Stockholm
 1.3M China: Baoding, HEB
 1.3M Argentina: Rosario
@@ -575,7 +575,7 @@
 770k Nigeria: Jos
 770k China: Jingzhou, HUB
 770k China: Panzhuihua, SC
-760k India: Warangal. AP
+760k India: Warangal, AP
 760k Laos: Vientienne
 760k Mexico: Tampico
 760k Poland: Krakow
@@ -635,7 +635,7 @@
 670k India: Jammu, JK
 670k China: Yueyang, HUN
 670k UK: Nottingham
-660k USA: Allentown, PA--NJ
+660k USA: Allentown, PA-NJ
 660k USA: Fresno, CA
 660k Chile: Concepcion
 660k China: Jieyang, GD
@@ -647,7 +647,7 @@
 650k Brazil: Blumenau
 650k Brazil: Sao Jose dos Campos
 650k China: Changde, HUN
-650k China: Yuyao (Ningbo)
+650k China: Yuyao (Ningbo), ZJ
 650k China: Hsinchu, Taiwan
 650k Germany: Bremen
 650k India: Saharanpur, UP
@@ -682,7 +682,7 @@
 600k China: Jining, SD
 600k Brazil: Ribiero Preto
 600k Djibouti: Djibouti
-600k India: Jamnagar.GUJ
+600k India: Jamnagar, GUJ
 600k Indonesia: Banjarmasin
 600k Indonesia: Tasikmalaya
 600k Libya: Banghazi
@@ -810,7 +810,7 @@
 500k CAR: Bangui
 500k China: Lhasa, TIB
 500k China: Luohe, HEN
-500k China: Zhuji, (Shaoxing), ZJ
+500k China: Zhuji (Shaoxing), ZJ
 500k Colombia: Pereira
 500k DRCongo: Goma
 500k DRCongo: Kolwezi
@@ -918,7 +918,7 @@
 400k China: Heze, SD
 400k China: Jinhua, ZJ
 400k China: Loudi, HUN
-400k China: Shangyu, (Shaoxing), ZJ
+400k China: Shangyu (Shaoxing), ZJ
 400k Egypt: Tanta
 400k Estonia: Talinn
 400k Italy: Verona
@@ -939,7 +939,7 @@
 390k USA: Spokane, WA
 390k China: Fuyang (Hangzhou), ZJ
 390k Russia: Stavropol
-390k USA: Augusta, GA--SC
+390k USA: Augusta, GA-SC
 390k USA: Youngstown, OH-PA
 380k China: Cangzhou, HEB
 380k China: Puyang, HEN
@@ -1056,7 +1056,7 @@
 300k China: Taizhou, JS
 300k China: Yakeshi, NM
 300k China: Zhaozhuang, SD
-300k India: Rajamundry
+300k India: Rajamundry, AP
 300k Japan: Akita
 300k Malta: Valetta
 300k North Korea: Sinuju
@@ -1065,7 +1065,7 @@
 300k Uzbekistan: Bukhara
 300k Uzbekistan: Namangan
 300k USA: Rockford, IL
-300k USA: Shreveport LA
+300k USA: Shreveport, LA
 300k USA: Aguadilla, Puerto Rico
 300k Canada: Halifax, NS
 300k China: Tongling, AH
@@ -1182,7 +1182,7 @@
 200k China: Anda, HL
 200k China: Anqiu, SD
 200k China: Guiyuan, NX
-200k China: Huangyan (Taizhou) ZJ
+200k China: Huangyan (Taizhou), ZJ
 200k China: Liaocheng, SD
 200k China: Wanxian, CQ
 200k Germany: Erfurt
@@ -1215,7 +1215,7 @@
 180k USA: Salinas, CA
 180k USA: Deltona, FL
 180k UK: Sunderland
-180k USA: Hagerstown, MD--WV--PA
+180k USA: Hagerstown, MD-WV-PA
 180k USA: Spartanburg, SC
 180k France: Dunkerque
 180k USA: Lorain, OH
@@ -1225,7 +1225,7 @@
 180k France: Bayonne
 180k USA: Cedar Rapids, IA
 180k USA: Olympia, WA
-180k USA: Fargo, ND--MN
+180k USA: Fargo, ND-MN
 180k China: Liuan, AH
 180k Argentina: Comodora Rivadavia
 180k Brazil: Santarem
@@ -1237,7 +1237,7 @@
 170k East Timor: Dili
 170k India: Bahadurgarh, HAR
 170k USA: North Port, FL
-170k USA: Gastonia, NC--SC
+170k USA: Gastonia, NC-SC
 170k Canada: Barrie, ON
 170k UK: Wigan
 170k USA: High Point, NC
@@ -1251,13 +1251,13 @@
 160k Norway: Trondheim
 160k Russia: Berezniki
 160k USA: Ocala, FL
-160k USA: Clarksville, TN--KY
+160k USA: Clarksville, TN-KY
 160k USA: Manchester, NH
 160k USA: Sioux Falls, SD
 160k UK: Dundee
 160k UK: Mansfield
 160k UK: Warrington
-160k USA: Binghamton, NY--PA
+160k USA: Binghamton, NY-PA
 160k New Zealand: Hamilton
 160k UK: Swindon
 150k USA: Medford, OR
@@ -1282,7 +1282,7 @@
 140k USA: Champaign, IL
 140k USA: Houma, LA
 140k USA: Marysville, WA
-140k USA: Elkhart, IN--MI
+140k USA: Elkhart, IN-MI
 140k UK: Oxford
 140k USA: Lake Charles, LA
 140k USA: Panama City, FL
@@ -1307,7 +1307,7 @@
 140k UK: Peterborough
 140k USA: Harlingen, TX
 140k Guyana: Gerogetown
-140k USA: Yuma, AZ--CA
+140k USA: Yuma, AZ-CA
 130k USA: Fairfield, CA
 130k USA: Racine, WI
 130k France: Troyes
@@ -1345,7 +1345,7 @@
 120k Canada: Guelph, ON
 120k USA: Mauldin, SC
 120k USA: Burlington, NC
-120k USA: Duluth, MN--WI
+120k USA: Duluth, MN-WI
 120k USA: Greeley, CO
 120k USA: Johnson City, TN
 120k USA: South Lyon, MI
@@ -1394,8 +1394,8 @@
 110k UK: Eastbourne
 110k UK: Exeter
 110k USA: Iowa City, IA
-110k USA: Kingsport, TN--VA
-110k USA: Sioux City, IA--NE--SD
+110k USA: Kingsport, TN-VA
+110k USA: Sioux City, IA-NE-SD
 110k USA: Texas City, TX
 100k France: Calais
 100k New Zealand: Dunedin
@@ -1411,7 +1411,7 @@
 100k UK: Bedford
 100k UK: Basildon
 100k UK: Chesterfield
-100k USA: La Crosse, WI--MN
+100k USA: La Crosse, WI-MN
 100k China: Xingyi, GS
 100k China: Xuancheng, AN
 100k Equitorial Guinea: Malabo

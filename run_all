@@ -4,5 +4,7 @@ set -e
 ./demog_urban_areas nation_by_count
 ./demog_urban_areas un1
 cat output/un_nations_with_uas | while read N
-do ./demog_urban_areas "$N"
+do
+  ./demog_urban_areas "$N"
+  ./demog_urban_areas R:"$N"
 done

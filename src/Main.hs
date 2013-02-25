@@ -1,5 +1,4 @@
 import Control.Applicative
-import Control.Arrow
 import Data.Char
 import Data.Function
 import Data.List
@@ -7,6 +6,7 @@ import Data.List.Split
 import Data.Maybe
 import Data.Monoid
 import Data.Ord
+import System.Directory
 import System.Environment
 import System.FilePath
 
@@ -189,6 +189,26 @@ cityFix "Chaoyang-Chaonan (Shantou,) GD" =
     cityFix "Chaoyang-Chaonan (Shantou), GD"
 cityFix "Puning (Jieyang,) GD" =
     cityFix "Puning (Jieyang), GD"
+cityFix "Yuyao (Ningbo)" =
+    cityFix "Yuyao (Ningbo), ZJ"
+cityFix "Huangyan (Taizhou) ZJ" =
+    cityFix "Huangyan (Taizhou), ZJ"
+cityFix "Zhuji, (Shaoxing), ZJ" =
+    cityFix "Zhuji (Shaoxing), ZJ"
+cityFix "Shangyu, (Shaoxing), ZJ" =
+    cityFix "Shangyu (Shaoxing), ZJ"
+cityFix "Zhangjiaggang-Jiangyin, (Suzhou-Wuxi) JS" =
+    cityFix "Zhangjiaggang-Jiangyin (Suzhou-Wuxi), JS"
+cityFix "Vadodara. GUJ" = cityFix " Vadodara, GUJ"
+cityFix "Visakhpatnam.AP" = cityFix "Visakhpatnam, AP"
+cityFix "Vijayawada. AP" = cityFix "Vijayawada, AP"
+cityFix "Varanasi.UP" = cityFix "Varanasi, UP"
+cityFix "Jabalpur.MP" = cityFix "Jabalpur, MP"
+cityFix "Warangal. AP" = cityFix "Warangal, AP"
+cityFix "Jamnagar.GUJ" = cityFix "Jamnagar, GUJ"
+cityFix "Rajamundry" = cityFix "Rajamundry, AP"
+cityFix "Shreveport LA" = cityFix "Shreveport, LA"
+cityFix "" = cityFix ""
 cityFix cityOrig =
     if null commaAndRest
     then ("", "", cityOrig)
@@ -215,7 +235,8 @@ cleanData :: (String, String, String) -> Maybe CityInfo
 -- Dupe typo for Bundaberg (AU):
 cleanData (_n, "Bandaburg, QLD", _p) = Nothing
 cleanData (n, c, p) =
-    Just $ CityInfo (cleanLoc (f n) (f c)) (read $ filter isDigit p)
+    Just $
+    CityInfo (cleanLoc (f n) (noDubDash $ f c)) (read $ filter isDigit p)
   where
     -- Simple replacements (typos, abbrs.):
     f "Dijibouti" = "Djibouti"
@@ -230,6 +251,10 @@ cleanData (n, c, p) =
     f "Central African Rep." = "CAR"
     f "Southamption" = "Southampton"
     f x = x
+    -- Kill inconsistent use of double dashes:
+    noDubDash ('-':'-':xs) = noDubDash ('-':xs)
+    noDubDash (x:xs) = x : noDubDash xs
+    noDubDash [] = []
 
 readDemog :: String -> [CityInfo]
 readDemog inp =
@@ -255,14 +280,14 @@ main = do
         compNation = (==) `on` (clNation . ciLoc)
         hideNation (CityInfo (CityLoc _n _nX r rX c) p) =
             CityInfo (CityLoc "" "" r rX c) p
-        (runType, filterFunc, finalFunc) = case runTypeArg of
+        (outSubDir, outFile, filterFunc, finalFunc) = case runTypeArg of
             "all" ->
-                ( runTypeArg
+                ( "", runTypeArg
                 , const True
                 , map showCi
                 )
             "nation_by_count" ->
-                ( runTypeArg
+                ( "", runTypeArg
                 , (>= dataHasAllCitiesThisSize) . ciPop
                 , map (\ (count, nation) -> show count ++ " " ++ nation) .
                   (\ xs -> xs ++ [(sum (map fst xs), "total")]) .
@@ -271,15 +296,22 @@ main = do
                   groupBy compNation . sort
                 )
             "un1" ->
-                ( runTypeArg
+                ( "", runTypeArg
                 , const True
                 , map showCi . nubBy compNation
                 )
+            'R':':':n ->
+                ( "by_region", n
+                , (== n) . clNation . ciLoc
+                , map (showCi . hideNation) .
+                  sortBy (compare `on` (clRegion . ciLoc))
+                )
             n ->
-                ( "by_nation" </> n
+                ( "by_nation", n
                 , (== n) . clNation . ciLoc
                 , map (showCi . hideNation)
                 )
-    writeFile ("output" </> runType) . unlines .
+    createDirectoryIfMissing True $ "output" </> outSubDir
+    writeFile ("output" </> outSubDir </> outFile) . unlines .
         finalFunc $
         filter filterFunc cityInfos
