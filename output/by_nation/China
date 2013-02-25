@@ -3,7 +3,7 @@
 17M Guangzhou-Foshan, GD
 12M Shenzhen, GD
 8.9M Tianjin, TJ
-8.3M Taipei
+8.3M Taipei, Taiwan
 8.3M Dongguan, GD
 7.9M Chengdu, SC
 7.1M Hong Kong, HK
@@ -30,11 +30,11 @@
 3.2M Changsha, HUN
 3.2M Changchun, JL
 3.0M Shijiazhuang, HEB
-2.9M Taichung
+2.9M Taichung, Taiwan
 2.9M Changzhou, JS
 2.9M Urumqi, XJ
 2.8M Wenzhou, ZJ
-2.8M Kaohsiung
+2.8M Kaohsiung, Taiwan
 2.7M Guiyang, GZ
 2.5M Lanzhou, GS
 2.4M Nanchang, JX
@@ -42,7 +42,7 @@
 2.3M Zhongshan, GD
 2.3M Zhangjiaggang-Jiangyin, (Suzhou-Wuxi) JS
 2.2M Nanning, GX
-2.2M Chaoyang-Chaonan (Shantou,) GD
+2.2M Chaoyang-Chaonan (Shantou), GD
 2.1M Linyi, SD
 2.1M Shaoxing, ZJ
 2.0M Baotou, NM
@@ -65,7 +65,7 @@
 1.4M Yantai, SD
 1.3M Baoding, HEB
 1.2M Zhuhai, GD
-1.2M Tainan
+1.2M Tainan, Taiwan
 1.2M Liuzhou, GX
 1.2M Cixi (Ningbo), ZJ
 1.2M Qiqihar, HL
@@ -93,7 +93,7 @@
 930k Bengbu, AH
 920k Jaingmen, GD
 920k Shaoguan, GD
-910k Puning (Jieyang,) GD
+910k Puning (Jieyang), GD
 910k Yichang, HUB
 900k Daqing, HL
 900k Xiangtan, HUN
@@ -124,7 +124,7 @@
 660k Xiangfan, HUB
 650k Changde, HUN
 650k Yuyao (Ningbo)
-650k Hsinchu
+650k Hsinchu, Taiwan
 650k Leshan, SC
 630k Yingkou, LN
 610k Nanchong, SC
@@ -211,7 +211,7 @@
 310k Zhaoqing, GD
 300k Acheng, HL
 300k Chaohu, AH
-300k Liushu.,GD
+300k Liushu., GD
 300k Shizuishan, NX
 300k Suizhou, HUB
 300k Taizhou, JS
