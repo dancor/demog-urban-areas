@@ -13,16 +13,19 @@ import System.FilePath
 data LineType = Header | Num | Word | Letter
   deriving (Eq, Show)
 
--- Note "nation" is a UN nation and "region" is a top-level division
+-- "Nation" is a UN nation and "region" is a top-level division
 -- (states, provinces, etc.).  Region also includes independently
--- administered countries which in the nation as far as the UN is concerned
+-- administered countries in the nation for UN purposes
 -- (e.g. Taiwan in China).
+-- The "extra" parts record additional places that a city may spill
+-- over into.
 data CityLoc
     = CityLoc
     { clNation :: String
     , clNationExtra :: String
     , clRegion :: String
     , clRegionExtra :: String
+    , clCity :: String
     }
     deriving (Eq, Ord, Show)
 
@@ -73,7 +76,7 @@ lineGetType cs =
 
 toChunk
     :: LineType
-    -> [(LineType, [String])] 
+    -> [(LineType, [String])]
     -> Maybe ([String], [(LineType, [String])])
 toChunk lineType cs =
   if null cs2 then Nothing else Just (snd $ head cs2, tail cs2)
@@ -105,53 +108,6 @@ getRemainingPages cs = do
         Nothing -> []
         Just r2 -> r2
   return (zip3 countries cities pops ++ r)
-
-unIfy :: String -> String
-unIfy "Austria & Germany" = "Austria"
-unIfy "Bermuda" = "UK"
-unIfy "China: Taiwan" = "China"
-unIfy "France-Belgium" = "France"
-unIfy "France: Mayotte" = "France"
-unIfy "Germany-France" = "Germany"
-unIfy "Germany-Netherlands" = "Germany"
-unIfy "Greenland" = "Denmark"
-unIfy "Mauretania" = "Mauritania"
-unIfy "Palestine" = "Israel"
-unIfy "Switzerland & D & F" = "Switzerland"
-unIfy "Switzerland & F" = "Switzerland"
-unIfy "US: American Samoa" = "USA"
-unIfy "US: Guam" = "USA"
-unIfy "US: N. Marianas" = "USA"
-unIfy "US: Puerto Rico" = "USA"
-unIfy "US:Virgin Islands" = "USA"
-unIfy "Western Sahara" = "Morocco"
-unIfy x = x
-
--- I have a certain set of names and abbrs. that I tend to stick too.
--- Also some other normalization and cleanup.
-cleanData :: (String, String, String) -> Maybe (String, String, String)
-cleanData (n, c, p) = if cityIsWack c then Nothing else Just (f n', f c', p)
-  where
-  (n', c') = case (n, c) of
-    -- typos in data
-    ("Chad", "Niamey") -> (n, "N'Djamena")
-    ("Australia", "Port Maquarie") -> (n, "Port Macquarie")
-    _ -> (n, c)
-  f x = case x of
-    "United States" -> "USA"
-    "Viet Nam" -> "Vietnam"
-    "Congo (Dem. Rep.)" -> "DRCongo"
-    "United Kingdom" -> "UK"
-    "Ivory Coast" -> "Côte d'Ivoire"
-    "United Arab Emirates" -> "UAE"
-    "Congo (Rep.)" -> "RCongo"
-    "Dijibouti" -> "Djibouti"
-    "Central African Rep." -> "CAR"
-    "Serbia-Montenegro" -> "Montenegro"
-    "Katowice-Gliwice-Tychy" -> "Katowice"
-    "Southamption" -> "Southampton"
-    _ -> x
-  cityIsWack = (== "Bandaburg, QLD")  -- dupe typo for Bundaberg (AU)
 
 expNot :: Double -> (Double, Int)
 expNot x =
@@ -199,14 +155,89 @@ showN x =
 showLol :: (Maybe String, (Int, String)) -> String
 showLol (n, (p, c)) = showN p ++ " " ++ (maybe "" (++ ": ") n) ++ c
 
+nationFix :: String -> (String, String, String)
+nationFix "Austria & Germany" = ("Austria", "-Germany", "")
+nationFix "Bermuda" = ("UK", "", "Bermuda")
+nationFix "China: Taiwan" = ("China", "", "Taiwan")
+nationFix "France-Belgium" = ("France", "-Belgium", "")
+nationFix "France: Mayotte" = ("France", "", "Mayotte")
+nationFix "Germany-France" = ("Germany", "-France", "")
+nationFix "Germany-Netherlands" = ("Germany", "-Netherlands", "")
+nationFix "Greenland" = ("Denmark", "", "Greenland")
+nationFix "Katowice-Gliwice-Tychy" = ("Katowice", "-Gliwice-Tychy", "")
+nationFix "Palestine" = ("Israel", "", "Palestine")
+-- Here's an unusual case where the nominal nation was put second:
+nationFix "Serbia-Montenegro" = ("Montenegro", "-Serbia", "")
+nationFix "Switzerland & D & F" = ("Switzerland", "-D-F", "")
+nationFix "Switzerland & F" = ("Switzerland", "-F", "")
+nationFix "US: American Samoa" = ("USA", "", "American Samoa")
+nationFix "US: Guam" = ("USA", "", "Guam")
+nationFix "US: N. Marianas" = ("USA", "", "N. Marianas")
+nationFix "US: Puerto Rico" = ("USA", "", "Puerto Rico")
+nationFix "US:Virgin Islands" = ("USA", "", "Virgin Islands")
+nationFix "Western Sahara" = ("Morocco", "", "Western Sahara")
+nationFix x = (x, "", "")
+
+cityFix :: String -> (String, String, String)
+cityFix cityOrig =
+    if null commaAndRest
+    then ("", "", cityOrig)
+    else (region, regionExtra, city)
+  where
+    (city, commaAndRest) = break (== ',') cityOrig
+    regionFull = drop 2 commaAndRest
+    (region, hyphenAndRest) = break (== '-') regionFull
+    regionExtra = drop 2 hyphenAndRest
+
+cleanLoc :: String -> String -> CityLoc
+-- Typos in data:
+cleanLoc "Chad" "Niamey" = cleanLoc "Chad" "N'Djamena"
+cleanLoc "Australia" "Port Maquarie" = cleanLoc "Australia" "Port Macquarie"
+cleanLoc n c = CityLoc nation nationExtra region regionExtra city
+  where
+    (nation, nationExtra, region1) = nationFix n
+    (region2, regionExtra, city) = cityFix c
+    region =
+        if null region1
+        then region2
+        else if null region1 then region2 else error "Region overload!"
+
+cleanData :: (String, String, String) -> Maybe CityInfo
+-- Dupe typo for Bundaberg (AU):
+cleanData (_n, "Bandaburg, QLD", _p) = Nothing
+cleanData (n, c, p) =
+    Just $ CityInfo (cleanLoc (f n) (f c)) (read $ filter isDigit p)
+  where
+    -- Simple replacements (typos, abbrs.):
+    f "Dijibouti" = "Djibouti"
+    f "Mauretania" = "Mauritania"
+    f "United States" = "USA"
+    f "Viet Nam" = "Vietnam"
+    f "Congo (Dem. Rep.)" = "DRCongo"
+    f "United Kingdom" = "UK"
+    f "Ivory Coast" = "Côte d'Ivoire"
+    f "United Arab Emirates" = "UAE"
+    f "Congo (Rep.)" = "RCongo"
+    f "Central African Rep." = "CAR"
+    f "Southamption" = "Southampton"
+    f x = x
+
+readDemog :: String -> [CityInfo]
+readDemog inp =
+    mapMaybe cleanData .
+    fromJust $
+    getAllPages linesChunkedByType
+  where
+    linesChunkedByType =
+        map (\ xs -> (fst (head xs), map snd xs)) .
+        groupBy ((==) `on` fst) $
+        map (\ l -> (lineGetType l, l)) $ lines inp
+
 main :: IO ()
 main = do
-    ls <- lines <$> readFile "data/raw_pdf_copy"
+    cityInfos <- readDemog <$> readFile "data/raw_pdf_copy"
     args <- getArgs
-    let typeChunks =
-            map (\ xs -> (fst (head xs), map snd xs)) .
-            groupBy ((==) `on` fst) $
-            map (\ l -> (lineGetType l, l)) ls
+    let dataHasAllCitiesThisSize = 500000
         usageErr = error "Program was invoked with invalid arguments."
         runTypeArg = case args of
             [] -> "all"
@@ -215,7 +246,6 @@ main = do
         onePerNation = nubBy ((==) `on` fst)
         showNation = map (first Just)
         hideNation = map (first (const Nothing))
-        unIfyNations = map (first unIfy)
         (runType, filterFunc, finalFunc) = case runTypeArg of
             "all" ->
                 ( runTypeArg
@@ -223,27 +253,26 @@ main = do
                 , map showLol . showNation)
             "nation_by_count" ->
                 ( runTypeArg
-                , \ (_nation, (population, _city)) -> population >= 500000
+                , \ (_nation, (population, _city)) ->
+                    population >= dataHasAllCitiesThisSize
                 , map (\ (count, nation) -> show count ++ " " ++ nation) .
                   (\ xs -> xs ++ [(sum (map fst xs), "total")]) .
                   sortBy (flip (comparing fst) `mappend` comparing snd) .
                   map (\ x -> (length x, fst $ head x)) .
-                  groupBy ((==) `on` fst) . sort . unIfyNations
+                  groupBy ((==) `on` fst) . sort
                 )
             "un1" ->
                 ( runTypeArg
                 , const True
-                , map showLol . showNation . onePerNation . unIfyNations
+                , map showLol . showNation . onePerNation
                 )
             n ->
                 ( "by_nation" </> n
-                , (== n) . unIfy . fst
+                , (== n) . fst
                 , map showLol . hideNation
                 )
     writeFile ("output" </> runType) . unlines .
         finalFunc .
-        filter filterFunc .
-        map (\ (n, c, p) -> (n, (read $ filter isDigit p, c))) .
-        mapMaybe cleanData .
-        fromJust $
-        getAllPages typeChunks
+        filter filterFunc $
+        map (\ ci -> (clNation $ ciLoc ci, (ciPop ci, clCity $ ciLoc ci)))
+        cityInfos

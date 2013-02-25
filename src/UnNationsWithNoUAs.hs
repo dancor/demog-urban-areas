@@ -2,7 +2,7 @@
 
 main = do
     un1L <- lines <$> readFile "/home/danl/p/demog_urban_areas/output/un1"
-    unAllL <- lines <$> readFile "/home/danl/n/world/un_nations" 
+    unAllL <- lines <$> readFile "/home/danl/n/world/un_nations"
     let un1L' = map (takeWhile (/= ':') . drop 1 . dropWhile (/= ' ')) un1L
         unAllL' =
             map (replace "Central African Republic" "CAR") $
