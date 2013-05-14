@@ -10,6 +10,8 @@ import System.Directory
 import System.Environment
 import System.FilePath
 
+import SigDigs
+
 data LineType = Header | Num | Word | Letter
   deriving (Eq, Show)
 
@@ -86,7 +88,7 @@ toChunk lineType cs =
 getAllPages :: [(LineType, [String])] -> Maybe [(String, String, String)]
 getAllPages cs = do
   (countries, cs2) <- toChunk Word cs
-  (cities, cs3) <- toChunk Word cs2
+  (urbAreas, cs3) <- toChunk Word cs2
   (pops, cs4) <- toChunk Num cs3
   (_yrs, cs5) <- toChunk Num cs4
   (_pop2sArea2s, cs6) <- toChunk Num cs5
@@ -95,62 +97,19 @@ getAllPages cs = do
   (denssYr2s, cs9) <- toChunk Num cs8
   let _denss = map head $ chunksOf 2 denssYr2s
   r <- getRemainingPages cs9
-  return $ zip3 countries cities pops ++ r
+  return $ zip3 countries urbAreas pops ++ r
 
 getRemainingPages :: [(LineType, [String])] -> Maybe [(String, String, String)]
 getRemainingPages cs = do
   (cc, cs2) <- toChunk Word cs
-  let (countries:cities:_) = chunksOf (length cc `div` 2) cc
+  let (countries:urbAreas:_) = chunksOf (length cc `div` 2) cc
   (lol, cs3) <- toChunk Num cs2
   let [pops, _yrs, _pop2s, _area2s, _dens2s, _areas, _denss, _yr2s] =
         chunksOf (length lol `div` 8) lol
       r = case getRemainingPages cs3 of
         Nothing -> []
         Just r2 -> r2
-  return (zip3 countries cities pops ++ r)
-
-expNot :: Double -> (Double, Int)
-expNot x =
-  (c, e)
-  where
-  e = floor (logBase 10 x)
-  c = x / (10 ** fromIntegral e)
-
--- result of (1234, 2) means 1.234e2
-expNotSigDigs :: Int -> Double -> (Int, Int)
-expNotSigDigs d x = (cSig', e')
-  where
-  (cSig', e') =
-    if length (show cSig) > d
-      then (cSig `div` 10, e + 1)
-      else (cSig, e)
-  cSig = round $ c * (10 ** fromIntegral (d - 1))
-  (c, e) = expNot x
-
-placeDecimal :: Int -> Int -> String
-placeDecimal pos x =
-  l ++ (if null r then "" else "." ++ r)
-  where
-  l = take pos (sx ++ repeat '0')
-  r = drop pos sx
-  sx = show x
-
-metricSigDigs :: Int -> Double -> (String, String)
-metricSigDigs d x =
-  if e >= 6
-    then (placeDecimal (e + 1 - 6) c, "M")
-    else
-      if e >= 3
-        then (placeDecimal (e + 1 - 3) c, "k")
-        else (placeDecimal (e + 1) c, "")
-  where
-  (c, e) = expNotSigDigs d x
-
-showN :: Int -> String
-showN x =
-  c ++ suf
-  where
-  (c, suf) = metricSigDigs 2 (fromIntegral x)
+  return (zip3 countries urbAreas pops ++ r)
 
 showCi :: CityInfo -> String
 showCi (CityInfo (CityLoc n nX r rX c) p) =
