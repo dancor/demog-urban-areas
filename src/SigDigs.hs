@@ -37,7 +37,9 @@ metricSigDigs d x =
   where
   (c, e) = expNotSigDigs d x
 
+-- XXX: Probably should deal with 0 deeper in the logic?
 showN :: Int -> String
+showN 0 = "0"
 showN x =
   c ++ suf
   where
