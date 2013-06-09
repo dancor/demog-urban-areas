@@ -38,79 +38,6 @@ data CityInfo
     }
     deriving (Eq, Ord, Show)
 
-headerPrefixes :: [String]
-headerPrefixes = [
-  "Demographia World Urban Areas: ",
-  "Table 1",
-  "LARGEST URBAN AREAS IN THE WORLD",
-  "Threshold Population for Ranking",
-  "Rank",
-  "Geography",
-  "Urban Area",
-  "Population",
-  "Estimate",
-  "Year",
-  "Base Year Land Area:",
-  "Square",
-  "Miles",
-  "Land",
-  "Area:",
-  "Km2",
-  "Density Base Year",
-  "Popula-",
-  "tion",
-  "Method",
-  "Area",
-  "Source"
-  ]
-
-multiIf :: [(Bool, a)] -> a
-multiIf = snd . head . filter fst
-
-lineGetType :: String -> LineType
-lineGetType cs =
-  multiIf [
-    (all (\ c -> isDigit c || c == ',') cs, Num),
-    (any (`isPrefixOf` cs) headerPrefixes, Header),
-    (length cs == 1 && all isUpper cs, Letter),
-    (True, Word)
-    ]
-
-toChunk
-    :: LineType
-    -> [(LineType, [String])]
-    -> Maybe ([String], [(LineType, [String])])
-toChunk lineType cs =
-  if null cs2 then Nothing else Just (snd $ head cs2, tail cs2)
-  where
-  cs2 = dropWhile ((/= lineType) . fst) cs
-
-getAllPages :: [(LineType, [String])] -> Maybe [(String, String, String)]
-getAllPages cs = do
-  (countries, cs2) <- toChunk Word cs
-  (urbAreas, cs3) <- toChunk Word cs2
-  (pops, cs4) <- toChunk Num cs3
-  (_yrs, cs5) <- toChunk Num cs4
-  (_pop2sArea2s, cs6) <- toChunk Num cs5
-  (_dens2s, cs7) <- toChunk Num cs6
-  (_areas, cs8) <- toChunk Num cs7
-  (denssYr2s, cs9) <- toChunk Num cs8
-  let _denss = map head $ chunksOf 2 denssYr2s
-  r <- getRemainingPages cs9
-  return $ zip3 countries urbAreas pops ++ r
-
-getRemainingPages :: [(LineType, [String])] -> Maybe [(String, String, String)]
-getRemainingPages cs = do
-  (cc, cs2) <- toChunk Word cs
-  let (countries:urbAreas:_) = chunksOf (length cc `div` 2) cc
-  (lol, cs3) <- toChunk Num cs2
-  let [pops, _yrs, _pop2s, _area2s, _dens2s, _areas, _denss, _yr2s] =
-        chunksOf (length lol `div` 8) lol
-      r = case getRemainingPages cs3 of
-        Nothing -> []
-        Just r2 -> r2
-  return (zip3 countries urbAreas pops ++ r)
-
 showCi :: CityInfo -> String
 showCi (CityInfo (CityLoc n nX r rX c) p) =
     showN p ++ " " ++
@@ -215,20 +142,62 @@ cleanData (n, c, p) =
     noDubDash (x:xs) = x : noDubDash xs
     noDubDash [] = []
 
-readDemog :: String -> [CityInfo]
-readDemog inp =
-    mapMaybe cleanData .
-    fromJust $
-    getAllPages linesChunkedByType
+tryTakePrefix :: String -> String -> Maybe (String, String)
+tryTakePrefix prefix s =
+    if prefix `isPrefixOf` s then Just (prefix, drop (length prefix) s)
+                             else Nothing
+
+tryTakePrefixes :: [String] -> String -> Maybe (String, String)
+tryTakePrefixes prefixes s =
+    listToMaybe . catMaybes $ map (\ p -> tryTakePrefix p s) prefixes
+
+readDemogLine :: String -> (String, String, String)
+readDemogLine l = (nation, city, population)
   where
-    linesChunkedByType =
-        map (\ xs -> (fst (head xs), map snd xs)) .
-        groupBy ((==) `on` fst) $
-        map (\ l -> (lineGetType l, l)) $ lines inp
+    (placeName, stats) = break isDigit l
+    (nation, city) = fromMaybe (p1, unwords pRest) $ tryTakePrefixes
+        [ "Congo (Dem. Rep.)"
+        , "Congo (Rep.)"
+        , "Ivory Coast"
+        , "Saudi Arabia"
+        , "South Africa"
+        , "South Korea"
+        , "United Kingdom"
+        , "United States"
+        , "Viet Nam"
+        ]
+        placeName
+    p1:pRest = words placeName
+    population = head . words $ filter (/= ',') stats
+  {-
+  (countries, cs2) <- toChunk Word cs
+  (urbAreas, cs3) <- toChunk Word cs2
+  (pops, cs4) <- toChunk Num cs3
+  (_yrs, cs5) <- toChunk Num cs4
+  (_pop2sArea2s, cs6) <- toChunk Num cs5
+  (_dens2s, cs7) <- toChunk Num cs6
+  (_areas, cs8) <- toChunk Num cs7
+  (denssYr2s, cs9) <- toChunk Num cs8
+  let _denss = map head $ chunksOf 2 denssYr2s
+  r <- getRemainingPages cs9
+  return $ zip3 countries urbAreas pops ++ r
+  -}
+
+-- readDemog :: String -> [CityInfo]
+readDemog =
+    mapMaybe cleanData .
+    map readDemogLine .
+    -- Kill numbering of top of list:
+    map (dropWhile isDigit) .
+    -- Kill page heading lines:
+    filter (not . ("Demographia" `isPrefixOf`)) .
+    -- Kill header:
+    dropWhile (not . ("1" `isPrefixOf`)) .
+    lines
 
 main :: IO ()
 main = do
-    cityInfos <- readDemog <$> readFile "data/raw_pdf_copy"
+    cityInfos <- readDemog <$> readFile "data/pdf-copy-paste"
     args <- getArgs
     let dataHasAllCitiesThisSize = 500000
         usageErr = error "Program was invoked with invalid arguments."
@@ -245,7 +214,7 @@ main = do
                 , const True
                 , map showCi
                 )
-            "nation_by_count" ->
+            "nation-by-count" ->
                 ( "", runTypeArg
                 , (>= dataHasAllCitiesThisSize) . ciPop
                 , map (\ (count, nation) -> show count ++ " " ++ nation) .
@@ -260,13 +229,13 @@ main = do
                 , map showCi . nubBy compNation
                 )
             'R':':':n ->
-                ( "by_region", n
+                ( "by-region", n
                 , (== n) . clNation . ciLoc
                 , map (showCi . hideNation) .
                   sortBy (compare `on` (clRegion . ciLoc))
                 )
             n ->
-                ( "by_nation", n
+                ( "by-nation", n
                 , (== n) . clNation . ciLoc
                 , map (showCi . hideNation)
                 )
