@@ -155,7 +155,8 @@ readDemogLine :: String -> (String, String, String)
 readDemogLine l = (nation, city, population)
   where
     (placeName, stats) = break isDigit l
-    (nation, city) = fromMaybe (p1, unwords pRest) $ tryTakePrefixes
+    city = reverse . dropWhile isSpace . reverse $ dropWhile isSpace spCity
+    (nation, spCity) = fromMaybe (p1, unwords pRest) $ tryTakePrefixes
         [ "Congo (Dem. Rep.)"
         , "Congo (Rep.)"
         , "Ivory Coast"
