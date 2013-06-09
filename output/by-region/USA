@@ -1,5 +1,6 @@
 300k  Shreveport LA 
 250k  Anchorage, AK 
+760k  Birmingham, AL 
 330k  Mobile, AL 
 290k  Huntsville, AL 
 270k  Montgomery, AL 
@@ -8,6 +9,14 @@
 120k  Fort Smith, AR-OK 
 440k  Little Rock, AR 
 140k  Yuma, AZ-CA 
+4.0M  Phoenix, AZ 
+860k  Tucson, AZ 
+15M  Los Angeles, CA 
+6.0M  San Francisco-San Jose, CA 
+3.1M  San Diego, CA 
+1.8M  Sacramento, CA 
+660k  Fresno, CA 
+540k  Bakersfield, CA 
 470k  Murrieta, CA 
 380k  Stockton, CA 
 370k  Indio, CA 
@@ -32,15 +41,25 @@
 120k  Yuba City, CA 
 110k  Seaside, CA 
 110k  El Centro, CA 
+2.5M  Denver, CO 
+570k  Colorado Springs, CO 
 270k  Fort Collins, CO 
 140k  Pueblo, CO 
 130k  Grand Junction, CO 
 120k  Greeley, CO 
 120k  Boulder, CO 
 210k  Norwich, CT-RI 
+920k  Hartford, CT 
 200k  Waterbury, CT 
+4.8M  Washington, DC-VA-MD 
 110k  Dover, DE 
 340k  Pensacola, FL-AL 
+5.8M  Miami, FL 
+2.5M  Tampa-St. Petersburg, FL 
+1.9M  Orlando, FL 
+1.1M  Jacksonville, FL 
+650k  Sarasota, FL 
+550k  Cape Coral, FL 
 460k  Palm Bay, FL 
 380k  Port St. Lucie, FL 
 350k  Palm Coast, FL 
@@ -60,11 +79,13 @@
 110k  Lady Lake, FL 
 390k  Augusta, GA-SC 
 250k  Columbus, GA-AL 
+4.7M  Atlanta, GA 
 260k  Savannah, GA 
 140k  Macon, GA 
 130k  Warner Robins, GA 
 130k  Gainesville, GA 
 130k  Athens, GA 
+830k  Honolulu, HI 
 110k  Kailua, HI 
 280k  Davenport, IA-IL 
 110k  Sioux City, IA-NE-SD 
@@ -74,6 +95,7 @@
 110k  Iowa City, IA 
 360k  Boise City, ID 
 150k  Nampa, ID 
+9.1M  Chicago, IL-IN-WI 
 300k  Rockford, IL 
 270k  Peoria, IL 
 160k  Springfield, IL 
@@ -82,25 +104,34 @@
 280k  South Bend, IN-MI 
 230k  Evansville, IN-KY 
 140k  Elkhart, IN-MI 
+1.5M  Indianapolis, IN 
 320k  Fort Wayne, IN 
 150k  Lafayette, IN 
 110k  Bloomington, IN 
 480k  Wichita, KS 
 150k  Topeka, KS 
+990k  Louisville, KY-IN 
 290k  Lexington, KY 
+940k  New Orleans, LA 
+600k  Baton Rouge, LA 
 260k  Lafayette, LA 
 140k  Houma, LA 
 140k  Lake Charles, LA 
 120k  Monroe, LA 
+4.5M  Boston, MA-NH-RI 
+620k  Springfield, MA-CT 
 490k  Worcester, MA-CT 
 250k  Barnstable Town, MA 
 150k  New Bedford, MA 
 120k  Leominster, MA 
 180k  Hagerstown, MD-WV-PA 
+2.3M  Baltimore, MD 
 210k  Aberdeen, MD 
 140k  Frederick, MD 
 110k  Waldorf, MD 
 200k  Portland, ME 
+3.7M  Detroit, MI 
+580k  Grand Rapids, MI 
 360k  Flint, MI 
 310k  Lansing, MI 
 310k  Ann Arbor, MI 
@@ -108,15 +139,20 @@
 160k  Muskegon, MI 
 130k  Saginaw, MI 
 120k  South Lyon, MI 
+2.7M  Minneapolis-St. Paul, MN-WI 
 120k  Duluth, MN-WI 
 110k  St. Cloud, MN 
 110k  Rochester, MN 
+2.2M  St. Louis, MO-IL 
+1.5M  Kansas City, MO-KS 
 280k  Springfield, MO 
 120k  Columbia, MO 
 350k  Jackson, MS 
 210k  Gulfport, MS 
 120k  Billings, MT 
+1.3M  Charlotte, NC-SC 
 170k  Gastonia, NC-SC 
+960k  Raleigh, NC 
 400k  Winston-Salem, NC 
 350k  Durham, NC 
 320k  Greensboro, NC 
@@ -130,22 +166,41 @@
 120k  Greenville, NC 
 100k  Jacksonville, NC 
 180k  Fargo, ND-MN 
+730k  Omaha, NE-IA 
 260k  Lincoln, NE 
 160k  Manchester, NH 
 250k  Atlantic City, NJ 
+750k  Albuquerque, NM 
 130k  Las Cruces, NM 
 400k  Reno, NV-CA 
+2.0M  Las Vegas, NV 
+21M  New York, NY-NJ-CT 
 430k  Poughkeepsie, NY-NJ 
 160k  Binghamton, NY-PA 
+920k  Buffalo, NY 
+720k  Rochester, NY 
+600k  Albany, NY 
 410k  Syracuse, NY 
 120k  Utica, NY 
+1.6M  Cincinnati, OH-KY-IN 
+510k  Toledo, OH-MI 
 380k  Youngstown, OH-PA 
+1.8M  Cleveland, OH 
+1.4M  Columbus, OH 
+720k  Dayton, OH 
+570k  Akron, OH 
 280k  Canton, OH 
 180k  Lorain, OH 
+900k  Oklahoma City, OK 
+660k  Tulsa, OK 
 100k  Norman, OK 
+1.9M  Portland, OR-WA 
 250k  Eugene, OR 
 240k  Salem, OR 
 150k  Medford, OR 
+5.5M  Philadelphia, PA-NJ-DE-MD 
+660k  Allentown, PA-NJ 
+1.7M  Pittsburgh, PA 
 450k  Harrisburg, PA 
 400k  Lancaster, PA 
 380k  Scranton, PA 
@@ -153,17 +208,29 @@
 240k  York, PA 
 200k  Erie, PA 
 110k  Pottstown, PA 
+1.2M  Providence, RI-MA 
 220k  Myrtle Beach, SC-NC 
+560k  Charleston, SC 
+560k  Columbia, SC 
 400k  Greenville, SC 
 180k  Spartanburg, SC 
 120k  Mauldin, SC 
 100k  Rock Hill, SC 
 160k  Sioux Falls, SD 
+1.1M  Memphis, TN-MS-AR 
 380k  Chattanooga, TN-GA 
 160k  Clarksville, TN-KY 
 110k  Kingsport, TN-VA 
+1.0M  Nashville, TN 
+570k  Knoxville, TN 
 130k  Murfreesboro, TN 
 120k  Johnson City, TN 
+810k  El Paso, TX-NM 
+6.0M  Dallas-Fort Worth, TX 
+5.5M  Houston, TX 
+1.9M  San Antonio, TX 
+1.5M  Austin, TX 
+750k  McAllen, TX 
 320k  Corpus Christi, TX 
 240k  Laredo, TX 
 240k  Lubbock, TX 
@@ -180,11 +247,16 @@
 120k  Midland, TX 
 110k  Abilene, TX 
 110k  Texas City, TX 
+1.1M  Salt Lake City, UT 
+560k  Ogden, UT 
 500k  Provo, UT 
+1.5M  Virginia Beach-Norfolk, VA 
+980k  Richmond, VA 
 210k  Roanoke, VA 
 140k  Fredericksburg, VA 
 120k  Lynchburg, VA 
 110k  Burlington, VT 
+3.2M  Seattle, WA 
 390k  Spokane, WA 
 220k  Kennewick, WA 
 200k  Bremerton, WA 
@@ -193,6 +265,7 @@
 130k  Yakima, WA 
 110k  Bellingham, WA 
 100k  La Crosse, WI-MN 
+1.4M  Milwaukee, WI 
 410k  Madison, WI 
 220k  Appleton, WI 
 210k  Green Bay, WI 

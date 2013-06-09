@@ -125,17 +125,17 @@ cleanData (n, c, p) =
     CityInfo (cleanLoc (f n) (noDubDash $ f c)) (read $ filter isDigit p)
   where
     -- Simple replacements (typos, abbrs.):
+    f "Central African Rep." = "CAR"
+    f "Congo (Dem. Rep.)" = "DRCongo"
+    f "Congo (Rep.)" = "RCongo"
     f "Dijibouti" = "Djibouti"
+    f "Ivory Coast" = "Côte d'Ivoire"
     f "Mauretania" = "Mauritania"
+    f "Southamption" = "Southampton"
+    f "United Arab Emirates" = "UAE"
+    f "United Kingdom" = "UK"
     f "United States" = "USA"
     f "Viet Nam" = "Vietnam"
-    f "Congo (Dem. Rep.)" = "DRCongo"
-    f "United Kingdom" = "UK"
-    f "Ivory Coast" = "Côte d'Ivoire"
-    f "United Arab Emirates" = "UAE"
-    f "Congo (Rep.)" = "RCongo"
-    f "Central African Rep." = "CAR"
-    f "Southamption" = "Southampton"
     f x = x
     -- Kill inconsistent use of double dashes:
     noDubDash ('-':'-':xs) = noDubDash ('-':xs)
@@ -169,26 +169,26 @@ readDemogLine l = (nation, city, population)
         placeName
     p1:pRest = words placeName
     population = head . words $ filter (/= ',') stats
-  {-
-  (countries, cs2) <- toChunk Word cs
-  (urbAreas, cs3) <- toChunk Word cs2
-  (pops, cs4) <- toChunk Num cs3
-  (_yrs, cs5) <- toChunk Num cs4
-  (_pop2sArea2s, cs6) <- toChunk Num cs5
-  (_dens2s, cs7) <- toChunk Num cs6
-  (_areas, cs8) <- toChunk Num cs7
-  (denssYr2s, cs9) <- toChunk Num cs8
-  let _denss = map head $ chunksOf 2 denssYr2s
-  r <- getRemainingPages cs9
-  return $ zip3 countries urbAreas pops ++ r
-  -}
+    {-
+    (countries, cs2) <- toChunk Word cs
+    (urbAreas, cs3) <- toChunk Word cs2
+    (pops, cs4) <- toChunk Num cs3
+    (_yrs, cs5) <- toChunk Num cs4
+    (_pop2sArea2s, cs6) <- toChunk Num cs5
+    (_dens2s, cs7) <- toChunk Num cs6
+    (_areas, cs8) <- toChunk Num cs7
+    (denssYr2s, cs9) <- toChunk Num cs8
+    let _denss = map head $ chunksOf 2 denssYr2s
+    r <- getRemainingPages cs9
+    return $ zip3 countries urbAreas pops ++ r
+    -}
 
--- readDemog :: String -> [CityInfo]
+readDemog :: String -> [CityInfo]
 readDemog =
     mapMaybe cleanData .
     map readDemogLine .
     -- Kill numbering of top of list:
-    map (dropWhile isDigit) .
+    map (dropWhile isSpace . dropWhile isDigit) .
     -- Kill page heading lines:
     filter (not . ("Demographia" `isPrefixOf`)) .
     -- Kill header:
