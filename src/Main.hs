@@ -38,15 +38,14 @@ data CityInfo
     }
     deriving (Eq, Ord, Show)
 
-showCi :: CityInfo -> String
-showCi (CityInfo (CityLoc n nX r rX c) p) =
+showCi :: Bool -> CityInfo -> String
+showCi doFullNation (CityInfo (CityLoc n nX r rX c) p) =
     showN p ++ " " ++
-    --showN p ++ " " ++ show p ++ " " ++
     (if null nFull then "" else nFull ++ ": ") ++ c ++
     (if null rFull then "" else ", " ++ rFull)
   where
     rFull = r ++ rX
-    nFull = n ++ nX
+    nFull = if doFullNation then n ++ nX else n
 
 nationFix :: String -> (String, String, String)
 nationFix "Austria & Germany" = ("Austria", "-Germany", "")
@@ -195,7 +194,7 @@ main = do
             "all" ->
                 ( "", runTypeArg
                 , const True
-                , map showCi
+                , map (showCi True)
                 )
             "nation-by-count" ->
                 ( "", runTypeArg
@@ -209,18 +208,18 @@ main = do
             "un1" ->
                 ( "", runTypeArg
                 , const True
-                , map showCi . nubBy compNation
+                , map (showCi False) . nubBy compNation
                 )
             'R':':':n ->
                 ( "by-region", n
                 , (== n) . clNation . ciLoc
-                , map (showCi . hideNation) .
+                , map (showCi True . hideNation) .
                   sortBy (compare `on` (clRegion . ciLoc))
                 )
             n ->
                 ( "by-nation", n
                 , (== n) . clNation . ciLoc
-                , map (showCi . hideNation)
+                , map (showCi False . hideNation)
                 )
     createDirectoryIfMissing True $ "output" </> outSubDir
     writeFile ("output" </> outSubDir </> outFile) . unlines .
