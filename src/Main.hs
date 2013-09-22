@@ -41,6 +41,7 @@ data CityInfo
 showCi :: CityInfo -> String
 showCi (CityInfo (CityLoc n nX r rX c) p) =
     showN p ++ " " ++
+    --showN p ++ " " ++ show p ++ " " ++
     (if null nFull then "" else nFull ++ ": ") ++ c ++
     (if null rFull then "" else ", " ++ rFull)
   where
@@ -154,6 +155,8 @@ tryTakePrefixes prefixes s =
 readDemogLine :: String -> (String, String, String)
 readDemogLine l = (nation, city, population)
   where
+    [nation, city, population, _area] = splitOn "\t" l
+{-
     (placeName, stats) = break isDigit l
     city = reverse . dropWhile isSpace . reverse $ dropWhile isSpace spCity
     (nation, spCity) = fromMaybe (p1, unwords pRest) $ tryTakePrefixes
@@ -170,35 +173,14 @@ readDemogLine l = (nation, city, population)
         placeName
     p1:pRest = words placeName
     population = head . words $ filter (/= ',') stats
-    {-
-    (countries, cs2) <- toChunk Word cs
-    (urbAreas, cs3) <- toChunk Word cs2
-    (pops, cs4) <- toChunk Num cs3
-    (_yrs, cs5) <- toChunk Num cs4
-    (_pop2sArea2s, cs6) <- toChunk Num cs5
-    (_dens2s, cs7) <- toChunk Num cs6
-    (_areas, cs8) <- toChunk Num cs7
-    (denssYr2s, cs9) <- toChunk Num cs8
-    let _denss = map head $ chunksOf 2 denssYr2s
-    r <- getRemainingPages cs9
-    return $ zip3 countries urbAreas pops ++ r
-    -}
+-}
 
 readDemog :: String -> [CityInfo]
-readDemog =
-    mapMaybe cleanData .
-    map readDemogLine .
-    -- Kill numbering of top of list:
-    map (dropWhile isSpace . dropWhile isDigit) .
-    -- Kill page heading lines:
-    filter (not . ("Demographia" `isPrefixOf`)) .
-    -- Kill header:
-    dropWhile (not . ("1" `isPrefixOf`)) .
-    lines
+readDemog = mapMaybe cleanData . map readDemogLine . lines
 
 main :: IO ()
 main = do
-    cityInfos <- readDemog <$> readFile "data/pdf-copy-paste"
+    cityInfos <- readDemog <$> readFile "data/ua-tsv.txt"
     args <- getArgs
     let dataHasAllCitiesThisSize = 500000
         usageErr = error "Program was invoked with invalid arguments."
@@ -206,7 +188,7 @@ main = do
             [] -> "all"
             [x] -> x
             _ -> usageErr
-        compNation = (==) `on` (clNation . ciLoc)
+        compNation = (==) `on` clNation . ciLoc
         hideNation (CityInfo (CityLoc _n _nX r rX c) p) =
             CityInfo (CityLoc "" "" r rX c) p
         (outSubDir, outFile, filterFunc, finalFunc) = case runTypeArg of

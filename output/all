@@ -34,10 +34,10 @@
 9.1M USA: Chicago, IL-IN-WI
 9.0M India: Bangalore, KAR
 9.0M Colombia: Bogota
-8.0 Vietnam: Ho Chi Minh City
+8.8M Vietnam: Ho Chi Minh City
 8.6M China: Dongguan, GD
 8.4M China: Chengdu, SC
-8.4M China:: Taiwan Taipei
+8.4M China: Taipei, Taiwan
 8.2M India: Hyderabad, AP
 8.0M Pakistan: Lahore
 7.4M South Africa: Johannesburg-East Rand
@@ -119,7 +119,7 @@
 3.4M Saudi Arabia: Jiddah
 3.4M China: Xiamen, FJ
 3.4M South Korea: Busan
-3.3M United: Arab Emirates Dubai
+3.3M UAE: Dubai
 3.3M China: Ningbo, ZJ
 3.3M Venezuela: Caracas
 3.3M Senegal: Dakar
@@ -137,20 +137,20 @@
 3.1M Iran: Mashhad
 3.1M Bangladesh: Chittagong
 3.1M USA: San Diego, CA
-3.0M North: Korea Pyongyang
+3.0M North Korea: Pyongyang
 3.0M China: Shijiazhuang, HEB
 3.0M India: Kanpur, UP
 3.0M Ghana: Kumasi
 3.0M India: Lucknow, UP
 3.0M Algeria: Algiers
-3.0M China:: Taiwan Taichung
+3.0M China: Taichung, Taiwan
 3.0M China: Changzhou, JS
 2.9M Turkey: Izmir
 2.9M China: Urumqi, XJ
 2.8M Pakistan: Hyderabad
 2.8M China: Wenzhou, ZJ
 2.8M Ukraine: Kiyev
-2.8M China:: Taiwan Kaohsiung
+2.8M China: Kaohsiung, Taiwan
 2.8M India: Kalyan, MAH
 2.7M China: Guiyang, GZ
 2.7M Syria: Damascus
@@ -160,13 +160,13 @@
 2.7M Japan: Sapporo
 2.6M Jordan: Amman
 2.6M Cameroon: Douala
-2.0 Yemen: Sana
+2.6M Yemen: Sana
 2.6M India: Nagpur, MAH
 2.6M South Africa: Pretoria (Tshwane)
 2.6M Cameroon: Yaounde
 2.6M Japan: Fukuoka
 2.5M Brazil: Campinas
-2.0 Vietnam: Hanoi
+2.5M Vietnam: Hanoi
 2.5M USA: Tampa-St. Petersburg, FL
 2.5M China: Lanzhou, GS
 2.5M Poland: Katowice-Gliwice-Tychy
@@ -191,7 +191,7 @@
 2.3M China: Nanning, GX
 2.3M China: Zhongshan, GD
 2.3M India: Indore, MP
-2.3M Dominican: Republic Santo Domingo
+2.3M Dominican Republic: Santo Domingo
 2.3M USA: Baltimore, MD
 2.2M Indonesia: Medan
 2.2M India: Coimbatore, TN
@@ -199,12 +199,12 @@
 2.2M India: Kochi, KER
 2.2M Paraguay: Ascunsion
 2.2M China: Chaoyang-Chaonan (Shantou), GD
-2.2M Burkina: Faso Ouagadougou
+2.2M Burkina Faso: Ouagadougou
 2.2M Mali: Bamako
 2.2M Panama: Panama City
-2.2M Sri: Lanka Colombo
+2.2M Sri Lanka: Colombo
 2.2M Canada: Vancouver, BC
-2.2M US:: Puerto Rico San Juan, PR
+2.2M USA: San Juan, Puerto Rico
 2.2M USA: St. Louis, MO-IL
 2.1M India: Patna, BR
 2.1M Brazil: Goiania
@@ -242,7 +242,7 @@
 1.9M USA: San Antonio, TX
 1.9M China: Huaiyin, JS
 1.9M India: Thrissur, KER
-1.0 Zambia: Lusaka
+1.8M Zambia: Lusaka
 1.8M Indonesia: Semarang
 1.8M Guinea: Conakry
 1.8M Mexico: Tijuana
@@ -277,14 +277,14 @@
 1.7M Uruguay: Montevideo
 1.7M Australia: Perth, WA
 1.6M Iran: Tabriz
-1.6M El: Salvador San Salvador
+1.6M El Salvador: San Salvador
 1.6M India: Kannur, KER
 1.6M China: Jilin, JL
 1.6M Malaysia: Johor-Bharu
 1.6M Somalia: Mogadishu
 1.6M India: Nashik, MAH
 1.6M USA: Cincinnati, OH-KY-IN
-1.0 Zimbabwe: Harrare
+1.6M Zimbabwe: Harrare
 1.6M China: Datong, SAX
 1.6M Nigeria: Kaduna
 1.6M Pakistan: Peshawar
@@ -301,7 +301,7 @@
 1.6M India: Vijayawada, AP
 1.5M France: Lyon
 1.5M USA: Kansas City, MO-KS
-1.5M Costa: Rica San Jose
+1.5M Costa Rica: San Jose
 1.5M UK: Leeds-Bradford
 1.5M Indonesia: Palembang
 1.5M USA: Indianapolis, IN
@@ -341,7 +341,7 @@
 1.3M Japan: Hiroshima
 1.3M Brazil: Sao Luis
 1.3M China: Baoding, HEB
-1.3M New: Zealand Auckland
+1.3M New Zealand: Auckland
 1.3M USA: Charlotte, NC-SC
 1.3M Armenia: Yerevan
 1.3M India: Asansol, WB
@@ -350,9 +350,9 @@
 1.3M Germany: Stuttgart
 1.3M India: Allahabad, UP
 1.3M Venezuela: Barquisimeto
-1.3M Czech: Republic Prague
+1.3M Czech Republic: Prague
 1.3M Mexico: Torreon
-1.3M China:: Taiwan Tainan
+1.3M China: Tainan, Taiwan
 1.2M Indonesia: Yogyakarta
 1.2M India: Dhanbad, JHA
 1.2M Russia: Nizhni Novgorod
@@ -455,7 +455,7 @@
 1.0M Ukraine: Dnepropetrovsk
 1.0M Russia: Volgograd
 1.0M India: Solapur, MAH
-990k Sierra: Leone Freetown
+990k Sierra Leone: Freetown
 990k China: Zhanjiang, GD
 990k Russia: Perm
 990k USA: Louisville, KY-IN
@@ -556,11 +556,11 @@
 800k China: Rizhao, SD
 800k Japan: Niigata
 800k Philippines: Angeles City
-800k United: Arab Emirates Abu Dhabi
+800k UAE: Abu Dhabi
 800k Vietnam: Da Nang
 800k China: Yancheng, JS
 800k Russia: Saratov
-790k Central: African Rep. Bangui
+790k CAR: Bangui
 790k Mexico: Hermosillo
 790k Morocco: Agadir
 790k Morocco: Tangier
@@ -590,7 +590,7 @@
 750k China: Tainan, SD
 750k Indonesia: Denpasar
 750k Latvia: Riga
-750k North: Korea Humhung
+750k North Korea: Humhung
 750k Spain: Bilbao
 750k Spain: Seville
 750k Ukraine: Kryvyy Rih
@@ -600,10 +600,10 @@
 740k Switzerland: Zurich
 740k Malawi: Lilonge
 740k Russia: Krasnodar
-7.0 Yemen: Aden
+740k Yemen: Aden
 740k India: Bhiwandi, MAH
 730k USA: Omaha, NE-IA
-7.0 Yemen: Ta'izz
+730k Yemen: Ta'izz
 730k Algeria: Constantine
 730k Mexico: Reynosa
 720k Germany: Hannover
@@ -638,7 +638,7 @@
 680k Turkey: Keyseri
 670k India: Guntur, AP
 670k Canada: Winnipeg, MB
-6.0 Yemen: Al-Hudaydah
+670k Yemen: Al-Hudaydah
 670k China: Shaoguan, GD
 670k China: Xiangfan, HUB
 670k UK: Nottingham
@@ -655,7 +655,7 @@
 650k China: Changde, HUN
 650k China: Hegang, HL
 650k China: Yuyao (Ningbo), ZJ
-650k China:: Taiwan Hsinchu
+650k China: Hsinchu, Taiwan
 650k Germany: Bremen
 650k India: Saharanpur, UP
 650k Indonesia: Karawang
@@ -663,9 +663,9 @@
 650k Japan: Okayama
 650k Malaysia: Kuching
 650k Mexico: Morelia
-650k North: Korea Chongjin
+650k North Korea: Chongjin
 650k South Africa: Vereeniging (Emfuleni)
-6.0 Zimbabwe: Bulawayo
+650k Zimbabwe: Bulawayo
 650k India: Bikaner, RAJ
 650k India: Amravati, MAH
 640k China: Yingkou, LN
@@ -795,7 +795,7 @@
 520k Nigeria: Ikorado
 520k Philippines: Bacolod City
 520k Senegal: Touba
-520k Trinidad: & Tobago Port of Spain
+520k Trinidad & Tobago: Port of Spain
 520k Ukraine: Luhansk
 520k Venezuela: Barcelona-Puerto la Cruz
 520k Bangladesh: Rajshahi
@@ -808,7 +808,7 @@
 520k Russia: Razan
 520k Russia: Tomsk
 520k Germany-France: Saarbrucken
-520k Switzerland: & F Geneva
+520k Switzerland-France: Geneva
 510k India: Sangali, MAH
 510k China: Tongxiang (Jiaxing), ZJ
 510k China: Wenling (Taizhou), ZJ
@@ -817,7 +817,7 @@
 510k Kazakhstan: Symkent
 510k Russia: Naberenznyje Celny
 510k Russia: Penza
-510k Switzerland: & D & F Basel
+510k Switzerland-France-Germany: Basel
 510k USA: Toledo, OH-MI
 510k China: Shangqui, HEN
 500k Argentina: Santa Fe
@@ -839,7 +839,7 @@
 500k Colombia: Pereira
 500k DRCongo: Goma
 500k DRCongo: Kolwezi
-500k Dominican: Republic Santiago
+500k Dominican Republic: Santiago
 500k Egypt: Suez
 500k Eritrea: Asmara
 500k Gambia: Bangui
@@ -877,7 +877,7 @@
 500k France: Grenoble
 490k USA: Worcester, MA-CT
 480k UK: Belfast
-480k Czech: Republic Ostrava
+480k Czech Republic: Ostrava
 480k USA: Wichita, KS
 480k Japan: Yamaguchi
 470k USA: Murrieta, CA
@@ -909,7 +909,7 @@
 430k China: Guigang, GX
 430k Japan: Wakayama
 430k USA: Poughkeepsie, NY-NJ
-420k Burkina: Faso Bobo-Dioulasso
+420k Burkina Faso: Bobo-Dioulasso
 420k Japan: Kochi
 420k Pakistan: Sukkur
 420k Russia: Kaliningrad
@@ -965,7 +965,7 @@
 380k India: Gaya, BR
 380k Mexico: Mazatlan
 380k Russia: Archangelsk
-380k United: Arab Emirates Al Ain
+380k UAE: Al Ain
 370k China: Zhaotong, YN
 370k France: Saint-Etienne
 370k China: Korla, XJ
@@ -982,7 +982,7 @@
 360k USA: Modesto, CA
 360k UK: Stoke-on-Trent
 360k Germany: Augsburg
-360k North: Korea Nampo
+360k North Korea: Nampo
 360k USA: Boise City, ID
 360k USA: Lancaster, CA
 360k France: Valenciennes
@@ -994,7 +994,7 @@
 350k France: Bethune
 350k Austria: Graz
 350k Belgium: Ghent
-350k Bosnia: & Herzegovina Sarajevo
+350k Bosnia & Herzegovina: Sarajevo
 350k Brazil: Macapa
 350k Brazil: Porto Velho
 350k China: Bozhou, AN
@@ -1008,8 +1008,8 @@
 350k India: Akola, MAH
 350k Japan: Myazaki
 350k Mexico: Ciudad Obregon
-350k New: Zealand Christchurch
-350k New: Zealand Wellington
+350k New Zealand: Christchurch
+350k New Zealand: Wellington
 350k South Africa: East London (Buffalo City)
 350k Syria: Hamah
 350k USA: Victorville, CA
@@ -1051,7 +1051,7 @@
 310k Australia: Newcastle, NSW
 310k USA: Ann Arbor, MI
 310k USA: Santa Rosa, CA
-310k US:: Puerto Rico Aguadilla, PR
+310k USA: Aguadilla, Puerto Rico
 300k France: Rennes
 300k UK: Southampton
 300k USA: Fayetteville, AR-MO
@@ -1069,7 +1069,7 @@
 300k India: Rajamundry, AP
 300k Japan: Akita
 300k Malta: Valetta
-300k North: Korea Sinuiju
+300k North Korea: Sinuiju
 300k Russia: Murmansk
 300k Uzbekistan: Bukhara
 300k Uzbekistan: Namangan
@@ -1094,7 +1094,7 @@
 280k USA: Antioch, CA
 280k USA: South Bend, IN-MI
 280k Canada: Windsor, ON
-280k Austria: & Germany Salzburg
+280k Austria-Germany: Salzburg
 280k Azerbaijan: Sumqayit
 280k Botswana: Gaborone
 280k China: Xiantao, HEB
@@ -1176,7 +1176,7 @@
 210k France: Reims
 210k Germany: Frieburg
 210k Russia: Blagoveshchensk
-2.0 Vietnam: Ninh Kieu (Can Tho)
+210k Vietnam: Ninh Kieu (Can Tho)
 210k Australia: Sunshine Coast, QLD
 210k USA: Gulfport, MS
 210k USA: Norwich, CT-RI
@@ -1229,7 +1229,7 @@
 180k China: Shiyan, HUB
 180k UK: Crawley
 180k USA: Olympia, WA
-1.0 Western: Sahara Laayoune
+180k Morocco: Laayoune, Western Sahara
 180k France: Bayonne
 180k USA: Cedar Rapids, IA
 180k USA: Fargo, ND-MN
@@ -1241,7 +1241,7 @@
 170k USA: Waco, TX
 170k Australia: Hobart, TAS
 170k USA: College Station, TX
-170k East: Timor Dili
+170k East Timor: Dili
 170k India: Bahadurgarh, HAR
 170k USA: North Port, FL
 170k USA: Gastonia, NC-SC
@@ -1269,7 +1269,7 @@
 160k USA: Binghamton, NY-PA
 160k China: Suihua, HL
 160k China: Tianchang (Chuzhou), AN
-160k New: Zealand Hamilton
+160k New Zealand: Hamilton
 160k UK: Swindon
 150k USA: Medford, OR
 150k France: Annecy
@@ -1282,7 +1282,7 @@
 150k Philippines: Naga City
 150k UK: Burnley
 150k USA: Topeka, KS
-150k US:: Puerto Rico Ponce, PR
+150k USA: Ponce, Puerto Rico
 150k USA: New Bedford, MA
 150k USA: Sebastian, FL
 150k USA: Beaumont, TX
@@ -1305,8 +1305,8 @@
 140k Canada: Sherbrooke, QC
 140k USA: Fredericksburg, VA
 140k Sweden: Upsalla
-140k US:: Guam Dededo
-140k US:: Puerto Rico Arecibo, PR
+140k USA: Dededo, Guam
+140k USA: Arecibo, Puerto Rico
 140k UK: Grimsby
 140k UK: Newport
 140k USA: Merced, CA
@@ -1368,7 +1368,7 @@
 120k USA: Lynchburg, VA
 120k USA: Midland, TX
 120k USA: Redding, CA
-120k US:: Puerto Rico San German, PR
+120k USA: San German, Puerto Rico
 120k USA: Leominster, MA
 120k USA: Monroe, LA
 120k USA: Utica, NY
@@ -1394,7 +1394,7 @@
 110k UK: Torbay
 110k USA: Abilene, TX
 110k USA: Waldorf, MD
-110k US:: Puerto Rico Mayaguez, PR
+110k USA: Mayaguez, Puerto Rico
 110k USA: Bloomington, IN
 110k USA: Burlington, VT
 110k China: Chengde, HEB
@@ -1412,7 +1412,7 @@
 110k USA: Sioux City, IA-NE-SD
 110k USA: Texas City, TX
 100k France: Calais
-100k New: Zealand Dunedin
+100k New Zealand: Dunedin
 100k USA: Jacksonville, NC
 100k USA: Rock Hill, SC
 100k UK: Colchester
@@ -1428,14 +1428,14 @@
 100k UK: Chesterfield
 100k USA: La Crosse, WI-MN
 100k China: Xingyi, GS
-100k Equitorial: Guinea Malabo
+100k Equitorial Guinea: Malabo
 100k Luxembourg: Luxembourg
 100k Maldives: Male
 97k Australia: Toowoomba, QLD
 96k Canada: Saint John, NB
-95k New: Zealand Tauranga
+95k New Zealand: Tauranga
 94k Canada: Brantford, ON
-91k US:: Puerto Rico Yauco, PR
+91k USA: Yauco, Puerto Rico
 90k Canada: Red DeeR, AB
 90k Russia: Magadan
 90k Sweden: Jonkoping
@@ -1457,7 +1457,7 @@
 73k Canada: Kamloops, BC
 72k China: Xuancheng, AN
 71k Canada: Châteauguay, QC
-70k New: Zealand Palmerston North
+70k New Zealand: Palmerston North
 68k Canada: Sault Ste. Marie, ON
 67k Australia: Maitland, NSW
 66k Canada: Chilliwack, BC
@@ -1477,22 +1477,22 @@
 60k Germany: Weimar
 55k Albania: Fier
 55k Canada: Grande Prairie, QB
-55k New: Zealand Hastings
+55k New Zealand: Hastings
 54k Canada: North Bay, ON
 51k Canada: Beloeil, QC
-51k US:Virgin: Islands Charlotte Amalie
+51k USA: Charlotte Amalie, Virgin Islands
 50k Australia: Bundaberg, QLD
-50k France:: Mayotte Mamoudzou
-50k New: Zealand Napier
-50k New: Zealand Whangarei
+50k France: Mamoudzou, Mayotte
+50k New Zealand: Napier
+50k New Zealand: Whangarei
 49k Australia: Hervey Bay, QLD
-48k US:: N. Marianas Saipan
+48k USA: Saipan, N. Marianas
 47k Australia: Wagga Wagga, NSW
-47k US:Virgin: Islands Chistiansted
+47k USA: Chistiansted, Virgin Islands
 46k Australia: Coffs Harbour, NSW
 45k Albania: Berat
 45k Bhutan: Thimphu
-45k US:: American Samoa Tafuna
+45k USA: Tafuna, American Samoa
 42k Australia: Port Maquarie, NSW
 39k Australia: Shepparton, VIC
 36k Australia: Melton, VIC
