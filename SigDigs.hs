@@ -23,15 +23,9 @@ sciSigDigs sigDigN x = (placeDecimal (e + 1 - 3 * thousands) c, thouAbbr)
     (c, e) = expNotSigDigs sigDigN x
     thousands = e `quot` 3
     thouAbbr = case thousands of
-      0 -> ""
-      1 -> "k"
-      2 -> "M"
-      3 -> "B"
-      4 -> "T"
-      5 -> "Q"
+      0 -> ""; 1 -> "k"; 2 -> "M"; 3 -> "B"; 4 -> "T"; 5 -> "Q"
       _ -> error "sciSigDigs: Should we handle beyond quintillions?"
 
--- XXX: Probably should deal with 0 deeper in the logic?
 showN :: Int -> String
 showN 0 = "0"
 showN x = c ++ suf where (c, suf) = sciSigDigs 2 $ fromIntegral x
