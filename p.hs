@@ -5,6 +5,7 @@ import Data.Text (Text)
 import qualified Data.Text as T
 import qualified Data.Text.IO as T
 import Safe
+import SigFig
 
 p0N = 54
 midN = 63
@@ -44,7 +45,10 @@ main = do
     p:ps <- splitWhen ("\12" `T.isPrefixOf`) . takeWhile (/= "\12Table 3") . 
         drop 5 . dropWhile (/= "\12Table 2") . T.lines <$> 
         T.readFile "db-worldua.txt"
-    T.writeFile "data.csv" . T.unlines . ("Population\tkm2\tCountry\tCity":) .
+    let es = procPage0 p ++ concatMap procMidPage (init ps) ++
+            procLastPage (last ps)
+    T.writeFile "data.tsv" . T.unlines . ("Population\tkm2\tCountry\tCity":) $
         map (\(Entry p c n k) -> T.pack (show n) <> "\t" <> T.pack (show k) <>
-        "\t" <> c <> "\t" <> p) $ procPage0 p ++ 
-        concatMap procMidPage (init ps) ++ procLastPage (last ps)
+        "\t" <> c <> "\t" <> p) es
+    T.writeFile "all.tsv" . T.unlines $
+        map (\(Entry p c n _) -> T.pack (showN n) <> "\t" <> c <> "\t" <> p) es
