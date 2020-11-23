@@ -60,7 +60,9 @@ main = do
     T.writeFile "all.tsv" . T.unlines $
         map (\(Entry p c n _) -> T.pack (showN n) <> "\t" <> p <> "\t" <> c) es
     T.writeFile "by-nation.tsv" . T.unlines .
-        map (\(Entry p c n _) -> T.pack (showN n) <> "\t" <> p <> "\t" <> c) .
-        concat . sortBy (flip $ comparing length <> comparing (ePop . head)) .
+        map (\((tot, pos), Entry p c n _) -> T.pack (showN n) <> "\t" <> p <> "\t" <>
+        c <> " #" <> T.pack (show pos) <> "/" <> T.pack (show tot)) .
+        concat . map (\l -> zip (map ((,) (length l)) [1..]) l) .
+        sortBy (flip $ comparing length <> comparing (ePop . head)) .
         map snd . HM.toList . HM.fromListWith (flip (++)) $ 
         map (\e -> (eCountry e, [e])) es
