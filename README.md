@@ -1,18 +1,12 @@
-This is a program to manipulate Demographia data on the urban areas of the
-world.  The (not always totally clean..) data is supposed to have all of them
-in the world with >= 500k people, and for certain countries has additional data
-(e.g. all the way down to >= 5k in AU).
+Click on data.tsv to see the urban areas of the world with >= 500,000 people.
 
-The data here is from the 2013-03 edition.
+It was generated (by the included Haskell script) from the Demographia data on
+the urban areas of the world with >= 500,000 people:
+- run: pdftotext db-worldua.pdf
+- That makes db-worldua.txt.
+- run: runhaskell p.hs
+- That makes data.tsv.
 
-For "urban area" vs "metro area":
-http://en.wikipedia.org/wiki/List_of_urban_areas_by_population#Definitions_and_issues
-
-The data seems to only be published as a PDF so there was various hackery to do
-to get it into a form which is easy to process.
-
-## Dependencies ##
-- xpdf
-
-## Todo ##
-- ?
+Note that these are based on urban areas, not administrative city boundaries
+(which are usually smaller) nor metro areas (which are usually bigger).
+https://en.wikipedia.org/wiki/List_of_largest_cities#Urban_area

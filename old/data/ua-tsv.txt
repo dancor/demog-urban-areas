@@ -1,0 +1,1526 @@
+Japan	Tokyo-Yokohama	37239000	8547
+Indonesia	Jakarta (Jabotabek)	26746000	2784
+South Korea	Seoul-Incheon	22868000	2163
+India	Delhi, DL-HR-UP	22826000	1943
+China	Shanghai, SHG	21766000	3497
+Philippines	Manila	21241000	1437
+Pakistan	Karachi	20877000	803
+United States	New York, NY-NJ-CT	20673000	11642
+Brazil	Sao Paulo	20568000	3173
+Mexico	Mexico City	20032000	2046
+China	Beijing, BJ	18241000	3497
+China	Guangzhou-Foshan, GD	17681000	3173
+India	Mumbai, MAH	17307000	546
+Japan	Osaka-Kobe-Kyoto	17175000	3212
+Russia	Moscow	15788000	4403
+Egypt	Cairo	15071000	1658
+United States	Los Angeles, CA	15067000	6299
+India	Kolkota, WB	14630000	1204
+Thailand	Bangkok	14544000	2331
+Bangladesh	Dhaka	14399000	324
+Argentina	Buenos Aires	13776000	2642
+Iran	Tehran	13309000	1360
+Turkey	Istanbul	12919000	1347
+China	Shenzhen, GD	12506000	1748
+Nigeria	Lagos	12090000	907
+Brazil	Rio de Janeiro	11616000	2020
+France	Paris	10869000	2845
+Japan	Nagoya	10183000	3820
+United Kingdom	London	9576000	1623
+Peru	Lima	9400000	648
+Congo (Dem. Rep.)	Kinshasa	9387000	583
+China	Tianjin, TJ	9277000	1684
+India	Chennai, TN	9182000	842
+United States	Chicago, IL-IN-WI	9104000	6856
+India	Bangalore, KAR	9044000	738
+Colombia	Bogota	9009000	414
+Viet Nam	Ho Chi Minh City	8764000	1269
+China	Dongguan, GD	8591000	1554
+China	Chengdu, SC	8386000	971
+China: Taiwan	Taipei	8357000	1140
+India	Hyderabad, AP	8206000	881
+Pakistan	Lahore	7994000	583
+South Africa	Johannesburg-East Rand	7426000	2694
+China	Wuhan, HUB	7411000	1088
+Germany	Essen-Dusseldorf	7312000	2642
+China	Hong Kong, HK	7162000	275
+India	Ahmedabad, GUJ	6732000	298
+China	Chongqing, CQ	6632000	881
+Malaysia	Kuala Lumpur	6608000	1943
+China	Hangzhou, ZJ	6559000	1127
+Iraq	Baghdad	6366000	596
+Canada	Toronto, ON	6184000	2287
+Chile	Santiago	6171000	984
+Spain	Madrid	6087000	1321
+United States	Dallas-Fort Worth, TX	6022000	5175
+United States	San Francisco-San Jose, CA	6020000	2797
+China	Quanzhou, FJ	5913000	1399
+United States	Miami, FL	5804000	3209
+China	Nanjing, JS	5770000	1140
+China	Shenyang, LN	5631000	881
+Brazil	Belo Horizonte	5582000	1088
+United States	Philadelphia, PA-NJ-DE-MD	5508000	5131
+United States	Houston, TX	5485000	4644
+Angola	Luanda	5425000	767
+China	Xi'an, SAA	5332000	803
+Singapore	Singapore	5287000	518
+India	Pune, MAH	5265000	376
+Italy	Milan	5248000	1891
+Saudi Arabia	Riyadh	5133000	1502
+Sudan	Khartoum	4919000	932
+Russia	St. Petersburg	4899000	1191
+United States	Washington, DC-VA-MD	4825000	3424
+India	Surat, GUJ	4791000	161
+Indonesia	Bandung	4764000	427
+United States	Atlanta, GA	4707000	6851
+Indonesia	Surabaya	4703000	673
+Myanmar	Yangon	4620000	350
+Spain	Barcelona	4604000	1075
+Egypt	Alexandria	4603000	293
+Ivory Coast	Abidjan	4603000	324
+Mexico	Guadalajara	4567000	699
+China	Harbin, HL	4543000	518
+United States	Boston, MA-NH-RI	4514000	5325
+Kenya	Nairobi	4457000	557
+China	Qingdao, SD	4444000	1153
+China	Suzhou, JS	4402000	907
+Turkey	Ankara	4221000	583
+Mexico	Monterey	4220000	894
+China	Zhengzhou, HEN	4184000	648
+Brazil	Salvador	4075000	389
+United States	Phoenix, AZ	4044000	3276
+Brazil	Porto Alegre	4002000	777
+Australia	Sydney, NSW	3956000	2037
+Germany	Berlin	3956000	1347
+Ghana	Accra	3933000	945
+Kuwait	Kuwait	3851000	712
+Italy	Rome	3798000	1114
+Brazil	Recife	3793000	414
+China	Dalian, LN	3777000	777
+Australia	Melbourne, VIC	3761000	2543
+United States	Detroit, MI	3734000	3463
+Colombia	Medellin	3732000	189
+Italy	Naples	3726000	1023
+Tanzania	Dar es Salaam	3723000	570
+Brazil	Fortaleza	3636000	725
+Nigeria	Kano	3636000	251
+China	Fuzhou, FJ	3625000	440
+South Africa	Cape Town	3560000	816
+China	Taiyuan, SAX	3526000	466
+China	Hefei, AH	3523000	596
+Greece	Athens	3510000	583
+China	Jinan, SD	3479000	725
+Afghanistan	Kabul	3476000	259
+South Africa	Durban (Ethekwini)	3457000	1036
+Canada	Montréal, QC	3450000	1546
+China	Wuxi, JS	3445000	673
+Israel	Tel Aviv	3421000	479
+China	Kunming, YN	3413000	596
+Saudi Arabia	Jiddah	3413000	842
+China	Xiamen, FJ	3388000	583
+South Korea	Busan	3384000	259
+United Arab Emirates	Dubai	3319000	1230
+China	Ningbo, ZJ	3312000	738
+Venezuela	Caracas	3279000	272
+Senegal	Dakar	3270000	194
+Syria	Aleppo	3264000	259
+Brazil	Curitiba	3233000	842
+China	Changsha, HUN	3228000	466
+Ethiopia	Addis Abeba	3226000	389
+China	Changchun, JL	3212000	531
+India	Jaipur, RAJ	3208000	168
+Pakistan	Faisalabad	3197000	181
+Nigeria	Ibadan	3180000	389
+United States	Seattle, WA	3180000	2616
+Pakistan	Rawalpindi-Islamabad	3135000	427
+Morocco	Casablanca	3120000	220
+Iran	Mashhad	3097000	298
+Bangladesh	Chittagong	3073000	111
+United States	San Diego, CA	3065000	1896
+North Korea	Pyongyang	3048000	176
+China	Shijiazhuang, HEB	3044000	518
+India	Kanpur, UP	3044000	192
+Ghana	Kumasi	3031000	337
+India	Lucknow, UP	3026000	238
+Algeria	Algiers	2994000	453
+China: Taiwan	Taichung	2973000	492
+China	Changzhou, JS	2971000	829
+Turkey	Izmir	2946000	272
+China	Urumqi, XJ	2939000	376
+Pakistan	Hyderabad	2850000	73
+China	Wenzhou, ZJ	2817000	259
+Ukraine	Kiyev	2816000	544
+China: Taiwan	Kaohsiung	2796000	363
+India	Kalyan, MAH	2763000	93
+China	Guiyang, GZ	2749000	298
+Syria	Damascus	2749000	181
+United States	Minneapolis-St. Paul, MN-WI	2731000	2647
+Portugal	Lisbon	2697000	958
+Mozambique	Maputo	2691000	414
+Japan	Sapporo	2654000	622
+Jordan	Amman	2630000	344
+Cameroon	Douala	2612000	205
+Yemen	Sana	2608000	179
+India	Nagpur, MAH	2605000	220
+South Africa	Pretoria (Tshwane)	2602000	1230
+Cameroon	Yaounde	2587000	231
+Japan	Fukuoka	2556000	531
+Brazil	Campinas	2541000	932
+Viet Nam	Hanoi	2533000	285
+United States	Tampa-St. Petersburg, FL	2516000	2479
+China	Lanzhou, GS	2514000	220
+Poland	Katowice-Gliwice-Tychy	2507000	725
+United States	Denver, CO	2505000	1730
+Colombia	Cali	2486000	155
+China	Nanchang, JX	2469000	544
+Philippines	Cebu	2463000	207
+Tunisia	Tunis	2456000	363
+South Korea	Daegu	2400000	246
+Brazil	Brasilia	2394000	673
+Ecuador	Guayaquil	2379000	220
+Mexico	Puebla	2374000	622
+China	Shantou, GD	2364000	363
+Nigeria	Abuja	2360000	225
+Venezuela	Maracaibo	2343000	155
+Haiti	Port-au-Prince	2332000	171
+Uzbekistan	Tashkent	2316000	531
+China	Zhangjiaggang-Jiangyin, (Suzhou-Wuxi) JS	2306000	492
+Germany	Frankfurt	2303000	673
+Iran	Esfahan	2299000	350
+United Kingdom	Birmingham	2297000	600
+China	Nanning, GX	2277000	306
+China	Zhongshan, GD	2275000	648
+India	Indore, MP	2264000	130
+Dominican Republic	Santo Domingo	2257000	246
+United States	Baltimore, MD	2251000	1857
+Indonesia	Medan	2250000	246
+India	Coimbatore, TN	2246000	171
+United Kingdom	Manchester	2246000	558
+India	Kochi, KER	2211000	220
+Paraguay	Ascunsion	2203000	557
+China	Chaoyang-Chaonan (Shantou,) GD	2200000	272
+Burkina Faso	Ouagadougou	2193000	350
+Mali	Bamako	2193000	311
+Panama	Panama City	2182000	168
+Sri Lanka	Colombo	2177000	223
+Canada	Vancouver, BC	2166000	1150
+US: Puerto Rico	San Juan, PR	2163000	2246
+United States	St. Louis, MO-IL	2157000	2393
+India	Patna, BR	2139000	127
+Brazil	Goiania	2131000	673
+China	Linyi, SD	2123000	596
+India	Kozhikode, KR	2120000	119
+Netherlands	Rotterdam-Hague	2119000	842
+Brazil	Belem	2116000	259
+Azerbaijan	Baku	2112000	298
+Cuba	Havana	2112000	285
+China	Shaoxing, ZJ	2094000	461
+Madagascar	Antananarivo	2075000	220
+Germany	Cologne-Bonn	2069000	932
+China	Baotou, NM	2065000	376
+China	Tangshan, HEB	2059000	277
+Lebanon	Beirut	2035000	673
+Japan	Kitakyushu	2005000	492
+Nigeria	Port Harcourt	2002000	158
+China	Hohhot, NM	1988000	401
+India	Bhopal, MP	1967000	148
+United States	Las Vegas, NV	1955000	1080
+Belgium	Brussels	1944000	751
+Colombia	Barranquilla	1941000	142
+Romania	Bucharest	1931000	285
+United States	Orlando, FL	1931000	1958
+Brazil	Manaus	1923000	298
+United States	Portland, OR-WA	1923000	1357
+Australia	Brisbane, QLD	1912000	1972
+India	Vadodara. GUJ	1897000	137
+Venezuela	Valencia	1896000	218
+Morocco	Rabat	1881000	142
+Pakistan	Multan	1871000	142
+Togo	Lome	1862000	207
+Pakistan	Gujranwala	1861000	148
+Belarus	Minsk	1860000	324
+United States	San Antonio, TX	1860000	1546
+China	Huaiyin, JS	1856000	148
+India	Thrissur, KER	1854000	363
+Zambia	Lusaka	1849000	179
+Indonesia	Semarang	1846000	259
+Guinea	Conakry	1838000	161
+Mexico	Tijuana	1827000	466
+India	Agra, UP	1824000	130
+Uganda	Kampala	1820000	492
+India	Visakhpatnam.AP	1806000	181
+Germany	Hamburg	1796000	712
+United States	Sacramento, CA	1776000	1220
+Bolivia	La Paz	1770000	155
+United States	Cleveland, OH	1765000	1999
+India	Thiruvananthapuram, KL	1762000	142
+China	Luoyang, HEN	1761000	220
+Bolivia	Santa Cruz	1749000	220
+Mexico	Toluca	1747000	220
+United States	Pittsburgh, PA	1734000	2344
+Austria	Vienna	1732000	453
+Turkey	Bursa	1729000	127
+China	Handan, HEB	1728000	168
+Hungary	Budapest	1726000	894
+Brazil	Santos	1716000	207
+Poland	Warsaw	1715000	544
+Iran	Shiraz	1702000	246
+India	Malappuram, KER	1698000	324
+Congo (Dem. Rep.)	Lumumbashi	1696000	155
+China	Yinchuan, NX	1694000	158
+Cambodia	Phhom Pehn	1693000	166
+Congo (Rep.)	Brazzaville	1685000	181
+India	Ludhiana, PU	1685000	168
+Ecuador	Quito	1684000	479
+Brazil	Vittoria	1666000	363
+Mexico	Leon	1665000	158
+Uruguay	Montevideo	1661000	259
+Australia	Perth, WA	1657000	1566
+Iran	Tabriz	1647000	168
+El Salvador	San Salvador	1646000	155
+India	Kannur, KER	1643000	91
+China	Jilin, JL	1641000	194
+Malaysia	Johor-Bharu	1640000	712
+Somalia	Mogadishu	1637000	96
+India	Nashik, MAH	1635000	111
+United States	Cincinnati, OH--KY--IN	1625000	2041
+Zimbabwe	Harrare	1619000	596
+China	Datong, SAX	1611000	181
+Nigeria	Kaduna	1610000	153
+Pakistan	Peshawar	1606000	117
+China	Haikou, HA	1600000	311
+Indonesia	Makassar	1600000	179
+China	Zibo, SD	1598000	350
+China	Kunshan (Suzhou), JS	1596000	492
+China	Yangzhou, JS	1593000	233
+France	Marseille	1587000	1204
+China	Anshan, LN	1571000	181
+Iraq	Mosul	1567000	140
+Saudi Arabia	Mecca	1567000	389
+Argentina	Cordoba	1564000	363
+India	Vijayawada. AP	1558000	57
+France	Lyon	1547000	1178
+United States	Kansas City, MO-KS	1547000	1756
+Costa Rica	San Jose	1543000	324
+United Kingdom	Leeds-Bradford	1543000	370
+Indonesia	Palembang	1542000	220
+United States	Indianapolis, IN	1532000	1829
+India	Madurai, TN	1525000	75
+South Korea	Daejeon	1513000	132
+Italy	Turin	1499000	376
+India	Varanasi.UP	1498000	101
+Philippines	Davao City	1493000	130
+India	Meerut, UP	1489000	104
+United States	Austin, TX	1488000	1355
+South Korea	Guangju	1481000	127
+Turkey	Adana	1477000	124
+Russia	Novosibersk	1470000	622
+United States	Virginia Beach-Norfolk, VA	1466000	1334
+China	Liuzhou, GX	1458000	207
+India	Rajkot, GUJ	1455000	75
+Ukraine	Kharkov	1449000	466
+Nigeria	Benin City	1439000	228
+Sweden	Stockholm	1435000	382
+Congo (Dem. Rep.)	Mjubi Mayi (Bakwanga)	1430000	122
+China	Weifang, SD	1422000	246
+Kazakhstan	Almaty	1415000	420
+China	Fushun, LN	1412000	130
+United States	Columbus, OH	1409000	1321
+Portugal	Porto	1398000	389
+India	Jamshedpur, JHA	1397000	109
+United States	Milwaukee, WI	1388000	1414
+China	Huizhou, GD	1387000	168
+China	Yantai, SD	1377000	262
+Mexico	Ciudad Juarez	1369000	324
+Germany	Munich	1357000	466
+Brazil	Natal	1342000	181
+Russia	Ekaterinburg	1340000	518
+Japan	Sendai	1334000	324
+India	Srinigar, JK	1331000	127
+India	Jabalpur.MP	1325000	91
+Japan	Hiroshima	1325000	285
+Brazil	Sao Luis	1323000	427
+China	Baoding, HEB	1322000	220
+New Zealand	Auckland	1310000	544
+United States	Charlotte, NC-SC	1310000	1919
+Armenia	Yerevan	1300000	324
+India	Asansol, WB	1300000	65
+Argentina	Rosario	1290000	233
+China	Zhuhai, GD	1274000	246
+Germany	Stuttgart	1274000	414
+India	Allahabad, UP	1271000	124
+Venezuela	Barquisimeto	1265000	96
+Czech Republic	Prague	1264000	285
+Mexico	Torreon	1260000	168
+China: Taiwan	Tainan	1259000	207
+Indonesia	Yogyakarta	1250000	233
+India	Dhanbad, JHA	1249000	96
+Russia	Nizhni Novgorod	1247000	622
+China	Xuzhou, JS	1246000	233
+India	Aurangabad, MH	1244000	73
+Iran	Ahvaz	1241000	233
+India	Amritsar, PU	1239000	98
+Guatemala	Guatemala City	1228000	298
+Brazil	Maceio	1225000	104
+Denmark	Copenhagen	1218000	453
+China	Wuhu, AH	1217000	161
+China	Qiqihar, HL	1216000	130
+Turkey	Gaziantep	1209000	88
+United Kingdom	Glasgow	1203000	368
+China	Cixi (Ningbo), ZJ	1200000	298
+China	Xining, QH	1200000	106
+China	Zhangzhou, FJ	1200000	350
+Niger	Niamey	1199000	130
+Brazil	Joao Pessoa	1196000	194
+China	Anyang, HEN	1195000	181
+India	Jodhpur, RAJ	1190000	83
+United States	Providence, RI-MA	1187000	1412
+Bulgaria	Sofia	1182000	207
+Bangladesh	Khulna	1179000	70
+India	Ranchi, JHA	1179000	57
+India	Raipur, CH	1176000	111
+Angola	Huambo	1175000	57
+Saudi Arabia	Medina	1172000	350
+India	Durg-Bhilainagar, CH	1164000	114
+Russia	Samara	1162000	376
+Libya	Tripoli	1160000	194
+Finland	Helsinki	1159000	492
+India	Gwalior, MP	1152000	57
+China	Putian, FJ	1150000	453
+Malaysia	Penang	1150000	298
+Russia	Omsk	1148000	492
+India	Vasai-Virar, MAH	1147000	91
+Mexico	Queretero	1144000	150
+Ireland	Dublin	1143000	453
+China	Zhangjaikou, HEB	1142000	130
+Russia	Kazan	1141000	492
+China	Changshu (Suzhou), JS	1139000	285
+Colombia	Bucaramanga	1134000	60
+Venezuela	Maracay	1133000	158
+Honduras	Tegucigalpa	1130000	98
+Russia	Chelyabinsk	1130000	583
+Georgia	Tblisi	1122000	194
+Australia	Adelaide, SA	1120000	852
+Canada	Calgary, AB	1119000	704
+Morocco	Fez	1117000	52
+China	Huainan, AH	1112000	109
+India	Kollam, KER	1110000	181
+Myanmar	Mandalay	1108000	85
+Nepal	Kathmandu	1106000	60
+Myanmar	Nay Pyi Taw	1105000	233
+Serbia	Belgrade	1101000	233
+United States	Jacksonville, FL	1101000	1373
+China	Xiangyang, HUB	1100000	135
+Brazil	Joinville	1092000	150
+Mongolia	Ulaanbaatar	1091000	233
+Russia	Rostov	1089000	414
+South Korea	Ulsan	1087000	104
+China	Chifeng, NM	1085000	85
+China	Jiamusi, HL	1080000	80
+United States	Memphis, TN-MS-AR	1079000	1287
+Iraq	Erbil	1078000	75
+India	Chandigarh, CH	1074000	202
+Israel	Haifa	1072000	228
+Turkey	Konya	1069000	130
+India	Tiruchirappalli, TN	1068000	85
+United States	Salt Lake City, UT	1068000	720
+Brazil	Florianopolis	1061000	130
+China	Dongying, SD	1060000	220
+Kenya	Mombasa	1055000	85
+Mexico	Merida	1055000	207
+Rwanda	Kigali	1055000	114
+France-Belgium	Lille	1050000	474
+Netherlands	Amsterdam	1050000	414
+China	Xinxiang, HEN	1048000	104
+India	Kota, RJ	1047000	62
+China	Jiaxing, ZJ	1044000	259
+Nigeria	Zaria	1044000	88
+Chad	Niamey	1040000	83
+Mexico	San Luis Potosi	1040000	132
+China	Huaibei, AH	1036000	91
+China	Nantong, JS	1036000	233
+Iran	Qom	1034000	117
+India	Mysore, KAR	1033000	91
+India	Bareilly, UP	1025000	83
+Germany	Nuremberg	1020000	337
+Russia	Ufa	1015000	168
+India	Guwahati, AS	1014000	70
+United States	Nashville, TN	1014000	1458
+Ukraine	Odessa	1010000	207
+Colombia	Cartagena	1001000	83
+Japan	Hamamatsu	1000000	259
+Liberia	Monrovia	1000000	194
+South Africa	Port Elizabeth (N. Mandela Bay)	1000000	389
+South Korea	Changwong	1000000	104
+Ukraine	Dnepropetrovsk	1000000	324
+Russia	Volgograd	997000	673
+India	Solapur, MAH	995000	54
+Sierra Leone	Freetown	994000	91
+China	Zhanjiang, GD	993000	83
+Russia	Perm	992000	337
+United States	Louisville, KY-IN	988000	1235
+China	Lianyungang, JS	985000	155
+China	Zhenjiang, JS	983000	168
+China	Zhuzhou, HUN	982000	155
+Nicaragua	Managua	982000	155
+Iraq	Basrah	980000	158
+United States	Richmond, VA	980000	1274
+Canada	Edmonton, AB	978000	855
+Japan	Naha	970000	285
+Russia	Krasnojarsk	970000	440
+China	Qinhuangdao, HEB	967000	155
+France	Nice	966000	743
+Mexico	Aguascalientes	966000	106
+China	Ruian (Wenzhou), ZJ	965000	132
+Morocco	Marrakech	965000	80
+China	Fuxin, LN	964000	124
+Argentina	Mendoza	963000	246
+India	Tiruppur, TN	963000	104
+Mexico	Mexicali	963000	202
+Ukraine	Donetsk	962000	451
+India	Salem, TN	961000	49
+Belgium	Antwerp	960000	660
+Saudi Arabia	Damman	960000	971
+Congo (Dem. Rep.)	Kananga	959000	54
+United States	Raleigh, NC	959000	1342
+Pakistan	Quetta	955000	124
+India	Aligarh, UP	953000	41
+China	Bengbu, AH	950000	168
+Canada	Ottawa, ON-QC	948000	502
+United States	New Orleans, LA	936000	650
+Brazil	Teresina	934000	153
+Benin	Cotonou	931000	194
+China	Yiwu-Dongyang (Jinhua), ZJ	925000	233
+United States	Hartford, CT	925000	1336
+China	Yichang, HUB	924000	65
+China	Daqing, HL	922000	117
+China	Jaingmen, GD	920000	259
+United States	Buffalo, NY	919000	984
+Indonesia	Padang	916000	73
+Turkey	Antalya	915000	155
+China	Puning (Jieyang,) GD	910000	179
+China	Guilin, GX	909000	106
+Nigeria	Onitsha	908000	148
+China	Pingdingshan, HEN	906000	88
+Poland	Lodz	906000	181
+Indonesia	Bandar Lampung	905000	88
+China	Mudanjiang, HL	902000	109
+China	Benxi, LN	901000	117
+United States	Oklahoma City, OK	901000	1064
+China	Xiangtan, HUN	900000	130
+Indonesia	Batam	900000	218
+Nigeria	Maiduguri	900000	155
+China	Hengyang, HUN	899000	60
+Norway	Oslo	899000	285
+United Kingdom	Newcastle upon Tyne	894000	211
+India	Moradabad, UP	890000	52
+Ivory Coast	Yamoussoukro	890000	57
+France	Toulouse	884000	811
+India	Bhubaveswar, OR	882000	73
+Russia	Voronezh	879000	158
+Italy	Palermo	876000	145
+Chile	Valparaiso-Vina del Mar	875000	161
+Jamaica	Kingston	875000	231
+Argentina	Tucuman	874000	114
+India	Jalandhar, PU	874000	57
+Mexico	Chihuahua	871000	166
+Iran	Kermanshah	867000	104
+Nigeria	Aba	866000	91
+Mexico	Culiacan	865000	106
+Nigeria	Ilorin	861000	83
+Malawi	Blantyre	860000	101
+United States	Tucson, AZ	857000	914
+Mexico	Saltillo	851000	218
+France	Bordeaux	848000	1173
+Viet Nam	Haiphong	848000	65
+China	Fuqing (Fuzhou), FJ	847000	220
+China	Jinzhou, LN	840000	78
+Greece	Thessaloniki	840000	194
+Iraq	Sulaymaniyah	840000	62
+Indonesia	Malang	838000	88
+Kyrgyzstan	Bishkek	830000	181
+United States	Honolulu, HI	826000	440
+Indonesia	Pekan Baru	825000	67
+Italy	Florence	821000	220
+United Kingdom	Liverpool	821000	186
+Algeria	Wahran	819000	93
+Brazil	Cuiaba	819000	233
+China	Baoji, SAA	815000	73
+China	Jiaozuo, HEN	814000	130
+United States	El Paso, TX-NM	811000	650
+Congo (Rep.)	Pointe Noire	810000	101
+Spain	Valencia	810000	272
+Nigeria	Enugu	807000	78
+Brazil	Campo Grande	805000	210
+Brazil	Londrina	800000	124
+China	Rizhao, SD	800000	148
+Japan	Niigata	800000	223
+Philippines	Angeles City	800000	186
+United Arab Emirates	Abu Dhabi	800000	881
+Viet Nam	Da Nang	800000	65
+China	Yancheng, JS	797000	207
+Russia	Saratov	797000	225
+Central African Rep.	Bangui	792000	111
+Mexico	Hermosillo	790000	130
+Morocco	Agadir	790000	91
+Morocco	Tangier	790000	49
+Peru	Arequippa	790000	142
+Chile	Concepcion	785000	106
+Congo (Dem. Rep.)	Kisangani	780000	57
+Israel	Jerusalem	780000	233
+Venezuela	Ciudada Guayana	780000	158
+Brazil	Sorocaba	776000	135
+Colombia	Cucuta	775000	88
+Ivory Coast	Bouake	775000	98
+Japan	Otsu	775000	303
+Poland	Gdansk	775000	155
+Nigeria	Jos	772000	70
+Ukraine	Zaporizhzhya	772000	259
+China	Jingzhou, HUB	770000	62
+China	Panzhuihua, SC	770000	52
+India	Warangal. AP	760000	88
+Laos	Vientienne	760000	60
+Mexico	Tampico	760000	145
+Poland	Krakow	760000	220
+Syria	Hims	758000	65
+United States	Birmingham, AL	756000	1373
+United States	Albuquerque, NM	753000	650
+Philippines	Zamboanga	752000	54
+China	Dandong, LN	750000	117
+China	Tainan, SD	750000	117
+Indonesia	Denpasar	750000	130
+Latvia	Riga	750000	259
+North Korea	Humhung	750000	49
+Spain	Bilbao	750000	130
+Spain	Seville	750000	135
+Ukraine	Kryvyy Rih	750000	166
+Ukraine	Lviv	750000	194
+Brazil	Aracaju	748000	117
+United States	McAllen, TX	746000	927
+Switzerland	Zurich	744000	246
+Malawi	Lilonge	740000	70
+Russia	Krasnodar	740000	181
+Yemen	Aden	740000	49
+India	Bhiwandi, MAH	737000	52
+United States	Omaha, NE-IA	732000	702
+Yemen	Ta'izz	732000	44
+Algeria	Constantine	730000	98
+Mexico	Reynosa	730000	168
+Germany	Hannover	725000	285
+Palestine	Gaza	725000	44
+United States	Rochester, NY	723000	839
+United States	Dayton, OH	722000	909
+Italy	Catania	720000	246
+China	Danyang (Zhenjiang), JS	717000	73
+India	Dehradun, UTL	714000	114
+China	Maanshan, AH	710000	194
+Japan	Fuji	710000	153
+Russia	Tojatti	710000	145
+China	Cangnan (Wenzhou), ZJ	700000	65
+China	Weihei, SD	700000	109
+Croatia	Zagreb	700000	158
+India	Siliguri, WB	700000	44
+Japan	Shizuoka	700000	130
+Malaysia	Ipoh	700000	259
+Spain	Las Palmas	700000	104
+Canada	Québec, QC	697000	668
+India	Gorakhpur, UP	693000	54
+China	Fuzhou, JX	690000	67
+China	Huzhou, ZJ	690000	111
+China	Nanyang, HEN	689000	85
+India	Jammu, JK	684000	70
+Argentina	La Plata	675000	228
+China	Liaoyang, LN	675000	117
+China	Xingtai, HEB	675000	117
+China	Yueyang, HUN	675000	62
+Japan	Kumamoto	675000	130
+Mexico	Cueurnavaca	675000	171
+Turkey	Keyseri	675000	101
+India	Guntur, AP	674000	36
+Canada	Winnipeg, MB	672000	451
+Yemen	Al-Hudaydah	671000	31
+China	Shaoguan, GD	670000	130
+China	Xiangfan, HUB	669000	142
+United Kingdom	Nottingham	666000	159
+United States	Allentown, PA--NJ	665000	896
+United States	Fresno, CA	663000	443
+China	Jieyang, GD	660000	194
+United States	Tulsa, OK	660000	870
+India	Cuttack, OR	659000	52
+China	Leshan, SC	658000	44
+India	Pudacherry, PUD	654000	83
+United States	Sarasota, FL	654000	847
+Brazil	Blumenau	650000	104
+Brazil	Sao Jose dos Campos	650000	168
+China	Changde, HUN	650000	98
+China	Hegang, HL	650000	117
+China	Yuyao (Ningbo)	650000	122
+China: Taiwan	Hsinchu	650000	117
+Germany	Bremen	650000	272
+India	Saharanpur, UP	650000	39
+Indonesia	Karawang	650000	207
+Indonesia	Samarinda	650000	52
+Japan	Okayama	650000	168
+Malaysia	Kuching	650000	181
+Mexico	Morelia	650000	78
+North Korea	Chongjin	650000	78
+South Africa	Vereeniging (Emfuleni)	650000	337
+Zimbabwe	Bulawayo	650000	233
+India	Bikaner, RAJ	648000	65
+India	Amravati, MAH	647000	44
+China	Yingkou, LN	645000	62
+United Kingdom	Sheffield	641000	162
+Germany	Dresden	640000	285
+Bolivia	Cochabamba	625000	111
+China	Nanchong, SC	625000	70
+Italy	Genoa	625000	78
+Mexico	Villahermosa	625000	65
+South Korea	Cheongju	625000	57
+United States	Springfield, MA-CT	621000	904
+India	Mangalore, KAR	620000	65
+Russia	Izevsk	620000	142
+China	Jining, SD	612000	75
+India	Belgaum, KAR	610000	47
+Russia	Barnaul	610000	111
+Russia	Uljanovsk	610000	91
+India	Bhavnagar, GUJ	606000	34
+China	Changzhi, SAA	605000	96
+United States	Baton Rouge, LA	602000	951
+Brazil	Ribiero Preto	600000	111
+China	Shaoyang, HUN	600000	106
+Dijibouti	Dijibouti	600000	39
+India	Jamnagar.GUJ	600000	47
+Indonesia	Banjarmasin	600000	52
+Indonesia	Tasikmalaya	600000	39
+Iran	Zahedan	600000	91
+Libya	Banghazi	600000	119
+Mexico	Acapulco	600000	85
+Mexico	Veracruz	600000	88
+Peru	Trujillo	600000	85
+Philippines	Cagayan de Oro	600000	70
+Poland	Poznan	600000	220
+Poland	Wroclaw	600000	124
+Qatar	Doha	600000	311
+South Korea	Jeonju	600000	49
+Spain	Malaga	600000	168
+Turkey	Mersin	600000	75
+Turkmenistan	Ashgabad	600000	122
+Uzbekistan	Samarkand	600000	197
+United States	Albany, NY	597000	767
+China	Huangshi, HUB	595000	91
+China	Kaifeng, HEN	594000	117
+China	Lufeng (Shanwei), GD	590000	47
+Russia	Vladivostock	590000	91
+Germany	Mannheim	586000	168
+France	Nantes	585000	539
+Germany-Netherlands	Aachen	585000	401
+United States	Grand Rapids, MI	584000	728
+India	Durgapur, WB	581000	49
+China	Panjin, LN	580000	104
+Iran	Rezalyeh	580000	93
+Russia	Irkutsk	580000	142
+India	Malegaon, HAM	576000	23
+Argentina	Mar del Plata	575000	109
+Brazil	Uberlandia	575000	132
+Japan	Kanazawa	575000	137
+Japan	Nagano	575000	194
+Russia	Jaroslavl	575000	233
+Turkey	Diyarbakir	575000	39
+China	Linfen, SAX	570000	106
+Germany	Liepzig	570000	285
+India	Hubli, KL	570000	52
+Russia	Chabarovsk	570000	194
+Russia	Machackala	570000	137
+Turkey	Eskisehir	570000	111
+United States	Akron, OH	569000	842
+China	Fuyang, AH	568000	93
+China	Heze, SD	568000	124
+United States	Colorado Springs, CO	567000	487
+United States	Knoxville, TN	566000	1134
+India	Bokaro Steel City, JHA	563000	49
+India	Kolhapur, MAH	562000	41
+China	Mianyang, SC	561000	65
+Albania	Tirana	560000	85
+China	Macau, AO	560000	21
+China	Yangquan, SAX	560000	70
+France	Toulon	559000	764
+China	Liupanshui, GZ	557000	91
+United States	Charleston, SC	557000	759
+United States	Columbia, SC	557000	984
+United States	Ogden, UT	556000	565
+China	Xinyu, JX	555000	80
+India	Raurkela, OR	553000	85
+India	Ajmer, RAJ	551000	31
+United Kingdom	Bristol	551000	140
+Belgium	Liege	550000	285
+China	Dongsheng, NM	550000	104
+China	Loudi, HUN	550000	57
+China	Puyang, HEN	550000	119
+China	Qingyuan, GD	550000	93
+China	Yangjiang, GD	550000	98
+Egypt	Port Said	550000	36
+Gabon	Libreville	550000	181
+India	Jhansi, UP	550000	41
+Iran	Kerman	550000	117
+Iran	Rasht	550000	62
+Lithuania	Vilnius	550000	220
+Mauretania	Nouakchott	550000	85
+Mexico	Cancun	550000	101
+Mexico	Tuxla Guitierrez	550000	96
+Moldova	Chisinau	550000	104
+Nigeria	Warri	550000	142
+Pakistan	Sargodha	550000	52
+Russia	Khabarovsk	550000	285
+Sweden	Goteborg	550000	205
+Tajikistan	Dushanbe	550000	85
+United States	Cape Coral, FL	547000	855
+Oman	Muscat	545000	207
+India	Gulbarga, KAR	540000	39
+Japan	Kagoshima	540000	127
+Russia	Novokuzneck	540000	106
+Russia	Orenburg	540000	67
+United States	Bakersfield, CA	535000	357
+Australia	Gold Coast, QLD-NSW	534000	609
+China	Pingxiang, JX	531000	65
+China	Xinyang, HEN	530000	75
+Russia	Kemerovo	530000	106
+Argentina	Salta	525000	109
+Bahrain	Al-Manamah	525000	313
+Brazil	Feira de Santana	525000	78
+Brazil	Luziana-Gama, GO-DF	525000	259
+China	Songyuan, JL	525000	93
+Indonesia	Serang	525000	65
+Japan	Matsuyama	525000	80
+Kazakhstan	Astana	525000	155
+Nigeria	Ikorado	525000	130
+Philippines	Bacolod City	525000	83
+Senegal	Touba	525000	142
+Trinidad & Tobago	Port of Spain	525000	285
+Ukraine	Luhansk	525000	122
+Venezuela	Barcelona-Puerto la Cruz	525000	109
+Bangladesh	Rajshahi	524000	26
+China	Taicang (Suzhou), JS	523000	117
+China	Jinhua, ZJ	520000	186
+China	Luzhou, SC	520000	23
+China	Maoming, GD	520000	60
+India	Erode, TN	520000	52
+Russia	Astrakhan	520000	119
+Russia	Razan	520000	130
+Russia	Tomsk	520000	104
+Germany-France	Saarbrucken	515000	233
+Switzerland & F	Geneva	515000	181
+India	Sangali, MAH	514000	47
+China	Tongxiang (Jiaxing), ZJ	510000	52
+China	Wenling (Taizhou), ZJ	510000	52
+France	Douai-Lens	510000	484
+Italy	Bologna	510000	155
+Kazakhstan	Symkent	510000	135
+Russia	Naberenznyje Celny	510000	130
+Russia	Penza	510000	91
+Switzerland & D & F	Basel	510000	199
+United States	Toledo, OH-MI	508000	622
+China	Shangqui, HEN	506000	78
+Argentina	Santa Fe	500000	117
+Belarus	Gomel	500000	127
+Brazil	Maringa	500000	155
+China	Akesu, XJ	500000	91
+China	Anging, AH	500000	104
+China	Cangzhou, HEB	500000	130
+China	Chaoyang, LN	500000	127
+China	Lhasa, TIB	500000	104
+China	Luohe, HEN	500000	44
+China	Shanqiu, HEN	500000	130
+China	Wanzhou, CQ	500000	41
+China	Xucheng, HEN	500000	67
+China	Yongkang (Jinhua), ZJ	500000	223
+China	Zhaoqing, GD	500000	65
+China	Zhuji, (Shaoxing), ZJ	500000	117
+Colombia	Ibague	500000	34
+Colombia	Pereira	500000	44
+Congo (Dem. Rep.)	Goma	500000	39
+Congo (Dem. Rep.)	Kolwezi	500000	49
+Dominican Republic	Santiago	500000	104
+Egypt	Suez	500000	73
+Eritrea	Asmara	500000	106
+Gambia	Bangui	500000	259
+India	Firozabad, UP	500000	28
+India	Nellore, AP	500000	41
+India	Tellicherry, KER	500000	80
+India	Ujjain, MP	500000	41
+Indonesia	Balikpapan	500000	57
+Indonesia	Jambi	500000	78
+Indonesia	Pontianak	500000	62
+Iraq	Kirkuk	500000	83
+Japan	Fukuyama	500000	168
+Japan	Mito	500000	246
+Japan	Utsonomiya	500000	119
+Kazakhstan	Qaraghandy	500000	324
+Macedonia	Skopje	500000	91
+Malaysia	Seremban	500000	155
+Morocco	Miknas	500000	52
+Nigeria	Oyo	500000	49
+Pakistan	Saikot	500000	52
+Peru	Chiclayo	500000	57
+Philippines	Iolio City	500000	65
+Russia	Bryansk	500000	181
+Russia	Lipeck	500000	106
+Russia	Tula	500000	130
+Russia	Tumen	500000	122
+Saudi Arabia	Al Taif	500000	83
+South Korea	Cheonan	500000	57
+South Korea	Pohang	500000	91
+Spain	Palma de Mallorca	500000	168
+Spain	Zaragoza	500000	88
+Thailand	Chon Buri	500000	166
+Ukraine	Mariulpol	500000	171
+United States	Provo, UT	496000	438
+France	Grenoble	495000	513
+United States	Worcester, MA-CT	489000	787
+United Kingdom	Belfast	481000	163
+Czech Republic	Ostrava	480000	192
+United States	Wichita, KS	476000	557
+Japan	Yamaguchi	475000	285
+United States	Murrieta, CA	472000	420
+France	Strasbourg, Fr-Ger	471000	222
+China	Huludao, LN	470000	114
+Russia	Kirov	470000	142
+China	Anshun, GZ	469000	41
+China	Langfang, HEB-TJ	465000	130
+France	Rouen	462000	453
+United Kingdom	Brighton	461000	94
+Japan	Nagasaki	460000	78
+United States	Palm Bay, FL	459000	601
+United States	Des Moines, IA	457000	521
+Argentina	San Juan	450000	117
+China	Fuyang (Hangzhou), ZJ	450000	49
+Cuba	Santiago	450000	65
+Egypt	Al Mahallah al Kubra	450000	26
+Egypt	Al Mansurah	450000	34
+Italy	Bari	450000	117
+Netherlands	Haarlem	450000	142
+Pakistan	Bahawalpur	450000	39
+United States	Harrisburg, PA	446000	673
+Canada	Kitchener, ON	445000	313
+United Kingdom	Portsmouth	442000	95
+France	Avignon	441000	1370
+United Kingdom	Leicester	441000	102
+United States	Little Rock, AR	436000	668
+China	Liaoyuan, JL	435000	44
+China	Guigang, GX	432000	93
+Japan	Wakayama	430000	91
+United States	Poughkeepsie, NY-NJ	427000	847
+Burkina Faso	Bobo-Dioulasso	425000	78
+Japan	Kochi	425000	142
+Pakistan	Sukkur	425000	21
+Russia	Kaliningrad	425000	155
+United Kingdom	Edinburgh	421000	120
+China	Ganzhou, JX	420000	73
+China	Jiujiang, JX	420000	47
+China	Siping, JL	420000	91
+Italy	Venice	420000	130
+China	Shuangyashan, HL	415000	34
+United States	Syracuse, NY	411000	505
+China	Jixi, HL	410000	57
+Japan	Kurume	410000	130
+Japan	Oita	410000	148
+Russia	Kursk	410000	91
+United States	Madison, WI	407000	391
+United States	Greenville, SC	405000	829
+United States	Lancaster, PA	405000	642
+China	Chuzhou, AN	400000	166
+China	Qianan (Tangshan), HEB	400000	168
+China	Shangyu, (Shaoxing), ZJ	400000	158
+Egypt	Tanta	400000	23
+Estonia	Talinn	400000	181
+Italy	Verona	400000	168
+Japan	Kurashiki	400000	130
+Mexico	Enseneda	400000	60
+Mexico	Matamoros	400000	111
+Netherlands	Utrecht	400000	109
+Nigeria	Abeokuta	400000	62
+Poland	Szczecin	400000	88
+Russia	Ceboksary	400000	83
+Russia	Ivanovo	400000	142
+Russia	Magnitogorsk	400000	114
+Russia	Tver	400000	130
+Slovakia	Bratislava	400000	119
+United States	Reno, NV-CA	399000	425
+United States	Winston-Salem, NC	396000	837
+United States	Spokane, WA	393000	425
+China	Yiyang, HUN	392000	31
+Russia	Stavropol	390000	117
+United States	Augusta, GA--SC	390000	673
+Colombia	Santa Marta	385000	28
+South Korea	Gumi	385000	47
+United States	Chattanooga, TN-GA	385000	777
+United States	Port St. Lucie, FL	385000	539
+United States	Youngstown, OH-PA	385000	624
+France	Montpellier	384000	311
+United Kingdom	Bournemouth	384000	108
+Australia	Canberra, ACT-NSW	382000	472
+United States	Scranton, PA	382000	443
+United States	Stockton, CA	377000	241
+China	Jiaojiang (Taizhou), ZJ	375000	41
+China	Yangi, JL	375000	49
+India	Gaya, BR	375000	21
+Mexico	Mazatlan	375000	54
+Russia	Archangelsk	375000	109
+United Arab Emirates	Al Ain	375000	389
+China	Zhaotong, YN	373000	21
+France	Saint-Etienne	372000	420
+China	Korla, XJ	370000	117
+China	Tonghua, JL	370000	104
+Germany	Bielefeld	370000	246
+United Kingdom	Reading	370000	93
+United States	Indio, CA	370000	373
+United States	Oxnard, CA	369000	218
+India	Kakinada, AP	368000	62
+China	Zigong, SC	367000	41
+Canada	London, ON	366000	223
+China	Baicheng, JL	365000	65
+United Kingdom	Middlesborough (Teeside)	365000	114
+United States	Modesto, CA	363000	238
+United Kingdom	Stoke-on-Trent	362000	97
+Germany	Augsburg	360000	117
+North Korea	Nampo	360000	34
+United States	Boise City, ID	359000	347
+United States	Lancaster, CA	358000	300
+France	Valenciennes	357000	507
+China	Yining, XJ	355000	49
+United States	Flint, MI	355000	611
+United States	Jackson, MS	354000	627
+United States	Palm Coast, FL	354000	464
+United States	Durham, NC	353000	471
+France	Bethune	351000	751
+Austria	Graz	350000	246
+Belgium	Ghent	350000	194
+Bosnia & Herzegovina	Sarajevo	350000	67
+Brazil	Macapa	350000	67
+Brazil	Porto Velho	350000	85
+China	Bozhou, AN	350000	635
+China	Chaozhou, GD	350000	85
+China	Jingmen, HUB	350000	31
+China	Laiwu, SD	350000	101
+China	Longyan, FJ	350000	88
+China	Luan, AH	350000	31
+China	Shihezi, XJ	350000	52
+Germany	Karlsruhe	350000	119
+India	Akola, MAH	350000	44
+Japan	Myazaki	350000	91
+Mexico	Ciudad Obregon	350000	44
+New Zealand	Christchurch	350000	179
+New Zealand	Wellington	350000	184
+South Africa	East London (Buffalo City)	350000	233
+Syria	Hamah	350000	47
+United States	Victorville, CA	350000	433
+France	Tours	345000	666
+United States	Pensacola, FL-AL	343000	603
+Chile	Antofagasta	340000	28
+Guinea-Bissau	Bissau	340000	70
+United Kingdom	Coventry	336000	76
+China	Kashi, XJ	335000	39
+China	Neijiang, SC	335000	21
+China	Jinzhong, SAX	330000	52
+Netherlands	Eindhoven	330000	153
+United Kingdom	Cardiff	328000	76
+United States	Mobile, AL	327000	578
+Nigeria	Ogbomosho	326000	41
+China	Chenzhou, HUN	325000	28
+China	Tieling (Shenyang), LN	325000	65
+China	Wuhai, NM	325000	47
+Japan	Asahikawa	325000	88
+Japan	Morioka	325000	65
+Japan	Yamagata	325000	104
+Russia	Ulan Ude	325000	96
+Ukraine	Sebastopol	325000	60
+United States	Corpus Christi, TX	321000	311
+China	Dezhou, SD	320000	57
+Russia	Smolensk	320000	54
+United Kingdom	Birkenhead	320000	89
+Uzbekistan	Andijon	320000	127
+Canada	Victoria, BC	316000	277
+United States	Greensboro, NC	316000	479
+China	Tianshui, GS	315000	65
+Japan	Toyama	315000	88
+United States	Bonita Springs, FL	315000	484
+United States	Fort Wayne, IN	315000	445
+United States	Lansing, MI	314000	409
+United States	Fayetteville, NC	311000	513
+Burundi	Bujumbura	310000	60
+Canada	St. Catharines, ON	309000	378
+Australia	Newcastle, NSW	308000	292
+United States	Ann Arbor, MI	308000	414
+United States	Santa Rosa, CA	308000	254
+US: Puerto Rico	Aguadilla, PR	307000	620
+France	Rennes	305000	285
+United Kingdom	Southamption	304000	74
+United States	Fayetteville, AR-MO	303000	487
+United Kingdom	Kingston	301000	80
+United States	Rockford, IL	301000	396
+Azerbaijan	Ganca	300000	73
+Brazil	Rio Branco	300000	83
+China	Acheng, HL	300000	39
+China	Chaohu (Hefei), AH	300000	65
+China	Liushu.,GD	300000	44
+China	Shizuishan, NX	300000	57
+China	Suizhou, HUB	300000	21
+China	Taizhou, JS	300000	117
+China	Yakeshi, NM	300000	31
+India	Rajamundry	300000	26
+Japan	Akita	300000	98
+Malta	Valetta	300000	91
+North Korea	Sinuiju	300000	13
+Russia	Murmansk	300000	57
+Uzbekistan	Bukhara	300000	181
+Uzbekistan	Namangan	300000	142
+United States	Shreveport LA	299000	479
+Australia	Central Coast, NSW	298000	401
+Canada	Halifax, NS	298000	269
+China	Tongling, AH	295000	57
+United States	Lexington, KY	293000	228
+United States	Huntsville, AL	291000	544
+France	Metz	290000	306
+Japan	Hakodate	290000	60
+France	Nancy	287000	246
+United States	Asheville, NC	284000	686
+United States	Reading, PA	284000	269
+China	Yulin, GX	280000	57
+Germany	Kiel	280000	117
+Sweden	Malmo	280000	77
+United States	Davenport, IA-IL	280000	357
+United States	Canton, OH	279000	430
+United States	Springfield, MO	279000	368
+China	Tongliao, NM	278000	31
+United States	Antioch, CA	278000	210
+United States	South Bend, IN-MI	278000	417
+Canada	Windsor, ON	276000	176
+Austria & Germany	Salzburg	275000	60
+Azerbaijan	Sumqayit	275000	91
+Botswana	Gaborone	275000	236
+China	Xiantao, HEB	275000	26
+United States	Santa Clarita, CA	272000	199
+United Kingdom	Swansea	271000	80
+Chile	Temuco	270000	31
+France	Orleans	269000	290
+United Kingdom	Southend	269000	67
+United States	Lakeland, FL	269000	378
+United States	Fort Collins, CO	268000	285
+United States	Peoria, IL	268000	373
+United States	Montgomery, AL	266000	399
+China	Yichun, JX	265000	41
+United Kingdom	Preston	265000	61
+United States	Savannah, GA	265000	427
+United States	Lincoln, NE	262000	228
+United Kingdom	Blackpool	261000	66
+Austria	Linz	260000	104
+China	Dongyang (Jinhua), ZJ	260000	104
+France	Clermont-Ferrand	260000	181
+Germany	Magdeburg	260000	130
+Mexico	Coatzacoalcos	260000	60
+United States	Lafayette, LA	256000	464
+United States	Anchorage, AK	254000	220
+United States	Columbus, GA-AL	254000	381
+Brazil	Boa Vista	250000	111
+China	Hailar, NM	250000	70
+China	Hunjiang, JL	250000	31
+China	Shangzhi, HL	250000	18
+Congo (Dem. Rep.)	Bukava	250000	23
+Denmark	Arhus	250000	93
+Germany	Braunschweig	250000	114
+Netherlands	Arnhem	250000	117
+United States	Atlantic City, NJ	250000	324
+United States	Eugene, OR	249000	225
+United States	Barnstable Town, MA	247000	717
+Australia	Wollongong, NSW	246000	219
+France	Le Havre	244000	192
+France	Mulhouse	244000	238
+United States	Tallahassee, FL	243000	329
+United States	Laredo, TX	241000	171
+China	Shanwei, GD	240000	23
+Russia	Dzerzhinsk	240000	142
+Suriname	Paramaraibo	240000	78
+United States	Salem, OR	240000	197
+United States	Lubbock, TX	239000	249
+France	Dijon	238000	166
+United States	York, PA	235000	342
+Cyprus	Nicosia	230000	119
+United States	Evansville, IN-KY	230000	308
+Norway	Bergen	227000	96
+United States	Wilmington, NC	226000	347
+Finland	Tampere	225000	104
+Finland	Turku	225000	73
+Namibia	Windhoek	225000	85
+Russia	Petropavlosk-Kamchatka	225000	44
+Russia	Yakutsk	225000	75
+Slovenia	Ljubljana	225000	54
+Turkey	Tarsus	225000	18
+United States	Visalia, CA	223000	163
+Canada	Saskatoon, SK	222000	150
+United States	Brownsville, TX	221000	212
+United States	Killeen, TX	221000	220
+United States	Myrtle Beach, SC-NC	221000	492
+China	Lanxi (Jinhua), ZJ	220000	34
+China	Suqian, JS	220000	36
+France	Angers	216000	189
+United States	Appleton, WI	216000	269
+United States	Thousand Oaks, CA	216000	223
+Switzerland	Berne	215000	57
+United States	Concord, NC	215000	466
+United States	Kennewick, WA	215000	264
+United States	Aberdeen, MD	214000	339
+United States	Hickory, NC	213000	679
+United States	Kalamazoo, MI	211000	342
+United States	Roanoke, VA	211000	321
+Bahamas	Nassau	210000	148
+China	Hengshui, HEB	210000	34
+France	Reims	210000	94
+Germany	Frieburg	210000	44
+Russia	Blagoveshchensk	210000	60
+Viet Nam	Ninh Kieu (Can Tho)	210000	39
+Australia	Sunshine Coast, QLD	209000	273
+United States	Gulfport, MS	209000	427
+United States	Norwich, CT-RI	209000	394
+France	Le Mans	208000	295
+United States	Green Bay, WI	208000	272
+United States	Portland, ME	205000	352
+China	Taishan (Jiangmen), GD	204000	44
+United States	Huntington, WV-KY-OH	203000	337
+France	Brest	201000	199
+United States	Winter Haven, FL	201000	347
+China	Anda, HL	200000	23
+China	Anqiu, SD	200000	23
+China	Guiyuan, NX	200000	28
+China	Huangyan (Taizhou) ZJ	200000	34
+China	Liaocheng, SD	200000	52
+Germany	Erfurt	200000	78
+Indonesia	Banda Aceh	200000	47
+Ireland	Cork	200000	78
+Lesotho	Meseru	200000	70
+France	Pau	199000	515
+United States	Amarillo, TX	199000	210
+United States	Bremerton, WA	199000	352
+China	Yichun, HL	198000	13
+France	Caen	198000	142
+United Kingdom	Northampton	197000	50
+United States	Erie, PA	197000	212
+United States	Santa Barbara, CA	196000	145
+United Kingdom	Norwich	195000	56
+United States	Waterbury, CT	195000	233
+Canada	Regina,SK	193000	119
+United Kingdom	Aberdeen	193000	61
+United States	Fort Walton Beach, FL	192000	313
+Egypt	Luxor	190000	13
+Mexico	Nogales	190000	44
+United States	Gainesville, FL	190000	225
+France	Perpignan	189000	218
+Norway	Stavenger	189000	79
+France	Limoges	186000	236
+Iceland	Reykjavik	185000	80
+United Kingdom	Milton Keynes	185000	57
+United States	Salinas, CA	185000	127
+United States	Deltona, FL	184000	249
+United Kingdom	Sunderland	183000	40
+United States	Hagerstown, MD--WV--PA	183000	344
+United States	Spartanburg, SC	183000	492
+France	Dunkerque	181000	167
+United States	Lorain, OH	181000	259
+China	Gaoyou, Yangzhou, JS	180000	39
+China	Hebi, HEN	180000	39
+China	Shiyan, HUB	180000	39
+United Kingdom	Crawley	180000	54
+United States	Olympia, WA	180000	275
+Western Sahara	Laayoune	180000	21
+France	Bayonne	179000	314
+United States	Cedar Rapids, IA	179000	215
+United States	Fargo, ND--MN	177000	181
+Argentina	Comodora Rivadavia	175000	47
+Brazil	Santarem	175000	47
+France	Chambery	175000	321
+China	Suining, SC	174000	18
+France	Nimes	173000	267
+United States	Waco, TX	172000	233
+Australia	Hobart, TAS	171000	269
+United States	College Station, TX	171000	184
+East Timor	Dili	170000	21
+India	Bahadurgarh, HAR	170000	36
+United States	North Port, FL	170000	308
+United States	Gastonia, NC--SC	169000	360
+China	Jianhu (Yancheng), JS	168000	36
+Canada	Barrie, ON	167000	171
+United Kingdom	Wigan	167000	39
+United States	High Point, NC	166000	293
+Canada	St. John's, NL	165000	186
+United States	Santa Cruz, CA	164000	150
+France	Amiens	163000	137
+United States	Hemet, CA	163000	127
+United States	Muskegon, MI	161000	290
+United States	Ocala, FL	161000	290
+United States	Springfield, IL	161000	238
+Cyprus	Lemesos	160000	57
+Norway	Trondheim	160000	64
+Russia	Berezniki	160000	41
+United States	Sioux Falls, SD	160000	166
+United States	Clarksville, TN--KY	159000	285
+United States	Manchester, NH	159000	223
+Australia	Townsville, QLD	158000	253
+United Kingdom	Dundee	158000	46
+United Kingdom	Mansfield	158000	45
+United Kingdom	Warrington	158000	44
+United States	Binghamton, NY--PA	158000	192
+China	Suihua, HL	156000	34
+China	Tianchang (Chuzhou), AN	156000	34
+New Zealand	Hamilton	155000	70
+United Kingdom	Swindon	155000	41
+United States	Medford, OR	154000	168
+France	Annecy	153000	210
+United States	Charleston, WV	153000	254
+United States	Port Arthur, TX	153000	275
+United States	Nampa, ID	151000	179
+Brazil	Maraba	150000	44
+Canada	Abbotsford, BC	150000	158
+Kazakhstan	Temertau	150000	47
+Philippines	Naga City	150000	13
+United Kingdom	Burnley	150000	30
+United States	Topeka, KS	150000	207
+US: Puerto Rico	Ponce, PR	150000	114
+United States	New Bedford, MA	149000	142
+United States	Sebastian, FL	149000	251
+United States	Beaumont, TX	148000	238
+United States	Lafayette, IN	148000	166
+United States	Spring Hill, FL	148000	298
+France	Saint-Nazaire	147000	306
+United States	Champaign, IL	145000	122
+United States	Houma, LA	145000	236
+United States	Marysville, WA	145000	212
+Australia	Geelong, VIC	144000	115
+China	Zengcheng (Guangzhou), GD	144000	31
+United States	Elkhart, IN--MI	144000	238
+United Kingdom	Oxford	143000	32
+United States	Lake Charles, LA	143000	329
+United States	Panama City, FL	143000	238
+Canada	Kelowna,BC	142000	142
+United Kingdom	Ipswich	142000	41
+United Kingdom	Slough	142000	31
+United States	Frederick, MD	142000	189
+Canada	Sherbrooke, QC	141000	171
+United States	Fredericksburg, VA	141000	202
+Sweden	Upsalla	140000	49
+US: Guam	Dededo	140000	155
+US: Puerto Rico	Arecibo, PR	140000	218
+United Kingdom	Grimsby	139000	34
+United Kingdom	Newport	139000	39
+United States	Merced, CA	139000	124
+United States	Tuscaloosa, AL	139000	233
+United Kingdom	Telford	138000	42
+United Kingdom	York	138000	31
+United States	Macon, GA	138000	254
+France	Besancon	137000	122
+United Kingdom	Blackburn	137000	32
+United States	Pueblo, CO	137000	192
+United Kingdom	Gloucester	136000	35
+United Kingdom	Peterborough	136000	40
+United States	Harlingen, TX	136000	215
+Guyana	Gerogetown	135000	70
+United States	Yuma, AZ--CA	135000	153
+Australia	Cairns, QLD	134000	127
+United States	Fairfield, CA	134000	101
+United States	Racine, WI	134000	127
+France	Troyes	133000	174
+United States	Bloomington, IL	133000	127
+United States	Murfreesboro, TN	133000	199
+United States	Warner Robins, GA	133000	262
+China	Tongcheng (Anqing), AN	132000	28
+United Kingdom	Nuneaton	132000	33
+United Kingdom	Cambridge	131000	36
+United States	Gainesville, GA	131000	326
+United States	Leesburg, FL	131000	243
+France	Thionville	130000	137
+Russia	Norilsk	130000	31
+United States	Santa Maria, CA	130000	75
+United States	Tyler, TX	130000	233
+United States	Yakima, WA	130000	155
+France	Poitiers	129000	174
+United States	Athens, GA	129000	254
+United States	Las Cruces, NM	129000	168
+United Kingdom	Doncaster	128000	25
+United States	Grand Junction, CO	128000	205
+France	La Rochelle	127000	124
+France	Valence	127000	181
+Canada	Trois-Rivières, QC	126000	176
+United Kingdom	Hastings	126000	32
+United States	Odessa, TX	126000	153
+United States	Saginaw, MI	126000	184
+United States	Simi Valley, CA	126000	80
+Serbia-Montenegro	Podgorica	125000	23
+United States	Columbia, MO	125000	161
+United States	Fort Smith, AR-OK	124000	184
+Canada	Guelph, ON	122000	78
+United States	Greeley, CO	121000	106
+United States	Mauldin, SC	121000	218
+United States	Burlington, NC	120000	233
+United States	Duluth, MN--WI	120000	181
+United States	Johnson City, TN	120000	285
+United States	South Lyon, MI	120000	267
+United Kingdom	Thanet	119000	27
+Canada	Kingston, ON	118000	93
+United Kingdom	High Wycombe	118000	33
+United States	Greenville, NC	118000	168
+United States	Lynchburg, VA	118000	231
+United States	Midland, TX	118000	137
+United States	Redding, CA	118000	184
+US: Puerto Rico	San German, PR	118000	246
+United States	Leominster, MA	117000	168
+United States	Monroe, LA	117000	212
+United States	Utica, NY	117000	161
+United States	Yuba City, CA	117000	101
+France	Lorient	116000	107
+United Kingdom	Southport	116000	31
+United States	Boulder, CO	116000	83
+China	Zunyi, GX	115000	23
+United Kingdom	St. Albans	115000	32
+United States	Billings, MT	115000	137
+United States	Bellingham, WA	114000	124
+United States	Kailua, HI	114000	101
+United States	Seaside, CA	114000	101
+France	Montbeliard	113000	140
+United States	Lady Lake, FL	113000	184
+United States	Waterloo, IA	113000	161
+China	Yibin, SC	111000	13
+Sweden	Vasteras	111000	53
+United States	Dover, DE	111000	192
+United States	St. Cloud, MN	111000	130
+France	Angouleme	110000	202
+United Kingdom	Cheltenham	110000	27
+United Kingdom	Torbay	110000	27
+United States	Abilene, TX	110000	142
+United States	Waldorf, MD	110000	176
+US: Puerto Rico	Mayaguez, PR	110000	137
+United States	Bloomington, IN	109000	117
+United States	Burlington, VT	109000	161
+China	Chengde, HEB	108000	23
+China	Suzhou, AN	108000	23
+United States	El Centro, CA	108000	78
+United States	Pottstown, PA	108000	205
+United States	Rochester, MN	108000	132
+Canada	Chicoutimi, QC	107000	132
+Canada	Moncton, NB	107000	130
+Canada	Sudbury, ON	107000	272
+United Kingdom	Eastbourne	107000	24
+United Kingdom	Exeter	107000	25
+United States	Iowa City, IA	107000	119
+United States	Kingsport, TN--VA	107000	295
+United States	Sioux City, IA--NE--SD	106000	140
+United States	Texas City, TX	106000	197
+France	Calais	105000	137
+New Zealand	Dunedin	105000	85
+United States	Jacksonville, NC	105000	184
+United States	Rock Hill, SC	105000	249
+United Kingdom	Colchester	104000	30
+United Kingdom	Lincoln	104000	30
+United States	Norman, OK	104000	117
+Australia	Darwin, NT	103000	216
+United States	Eau Claire, WI	103000	179
+Canada	Kanata, ON	102000	49
+Canada	Thunder Bay, ON	102000	179
+Norway	Frederikstad	102000	67
+United Kingdom	Bedford	102000	24
+United Kingdom	Basildon	101000	25
+United Kingdom	Chesterfield	101000	28
+United States	La Crosse, WI--MN	101000	132
+China	Xingyi, GS	100000	16
+Equitorial Guinea	Malabo	100000	8
+Luxembourg	Luxembourg	100000	62
+Maldives	Male	100000	6
+Australia	Toowoomba, QLD	97000	119
+Canada	Saint John, NB	96000	210
+New Zealand	Tauranga	95000	75
+Canada	Brantford, ON	94000	73
+US: Puerto Rico	Yauco, PR	91000	122
+Canada	Red DeeR, AB	90000	62
+Russia	Magadan	90000	34
+Sweden	Jonkoping	90000	45
+Canada	Nanaimo, BC	89000	104
+Australia	Ballarat, VIC	86000	114
+Canada	Lethbridge, AB	84000	122
+China	Dingzhou (Baoding), HEB	84000	18
+Australia	Bendigo, VIC	83000	146
+Canada	Saint-Jean-sur-Richelieu, QC	83000	88
+Canada	White Rock, BC	82000	47
+Canada	Peterborough, ON	81000	75
+Canada	Sarnia, ON	80000	93
+China	Pinghu (Jiaxing), ZJ	80000	10
+Gabon	Port-Gentil	80000	28
+Australia	Albury, NSW-VIC	77000	116
+Canada	Milton, ON	76000	31
+Australia	Launceston, TAS	74000	95
+Australia	Mackay, QLD	74000	126
+Canada	Kamloops, BC	73000	52
+China	Xuancheng, AN	72000	16
+Canada	Châteauguay, QC	71000	91
+New Zealand	Palmerston North	70000	39
+Canada	Sault Ste. Marie, ON	68000	57
+Australia	Maitland, NSW	67000	131
+Canada	Chilliwack, BC	66000	80
+Canada	Drummondville, QC	66000	62
+Canada	Medicine Hat, AB	66000	130
+Canada	Prince George, BC	66000	101
+Canada	Saint-Jérôme, QC	66000	54
+Australia	Bunbury, WA	64000	116
+Canada	Belleville, ON	64000	80
+Australia	Rockhampton, QLD	62000	95
+Canada	Fredericton, NB	62000	142
+Canada	Fort McMurray, AB	61000	60
+Bermuda	Hamilton	60000	50
+Canada	Granby, QC	60000	91
+China	Chizhou, AN	60000	13
+Comoros	Moroni	60000	8
+Germany	Weimar	60000	21
+Albania	Fier	55000	14
+Canada	Grande Prairie, QB	55000	41
+New Zealand	Hastings	55000	31
+Canada	North Bay, ON	54000	137
+Canada	Beloeil, QC	51000	47
+US:Virgin Islands	Charlotte Amalie	51000	62
+Australia	Bundaberg, QLD	50000	104
+France: Mayotte	Mamoudzou	50000	5
+New Zealand	Napier	50000	34
+New Zealand	Whangarei	50000	31
+Australia	Hervey Bay, QLD	49000	93
+US: N. Marianas	Saipan	48000	77
+Australia	Wagga Wagga, NSW	47000	67
+US:Virgin Islands	Chistiansted	47000	91
+Australia	Coffs Harbour, NSW	46000	78
+Albania	Berat	45000	6
+Bhutan	Thimphu	45000	5
+US: American Samoa	Tafuna	45000	65
+Australia	Port Maquarie, NSW	42000	45
+Australia	Shepparton, VIC	39000	70
+Australia	Melton, VIC	36000	55
+Australia	Tamworth, NSW	36000	72
+Australia	Orange, NSW	35000	64
+Australia	Mildura, VIC-NSW	33000	48
+Australia	Sunbury, VIC	33000	29
+Australia	Dubbo, NSW	32000	97
+Australia	Gladstone, QLD	32000	96
+Australia	Bathurst, NSW	31000	53
+Australia	Geraldton, WA	31000	63
+Australia	Kalgoorlie, WA	31000	63
+Australia	Warambool, VIC	29000	43
+Australia	Nowra, NSW	28000	36
+China	Kangbashi, NM	28000	11
+Australia	Albany, WA	27000	82
+Australia	Lismore, NSW	27000	40
+Australia	Mount Gambier, SA	25000	27
+Russia	Dudinka	25000	8
+Australia	Alice Springs, NT	24000	49
+Australia	Gawler, SA	24000	43
+Australia	Devonport, TAS	23000	28
+Australia	Goulburn, NSW	22000	65
+Australia	Whyalla, SA	21000	20
+Australia	Broken Hill, NSW	18000	26
+Australia	Warrangata, VIC	17000	36
+Greenland	Nuuk	14000	5
+Australia	Murray Bridge, SA	13000	45
+Australia	Port Augusta, SA	13000	15
+Australia	Lithgow, NSW	11000	24
+Australia	Esperance, WA	10000	30
