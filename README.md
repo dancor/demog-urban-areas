@@ -1,7 +1,7 @@
 Click on data.tsv to see the urban areas of the world with >= 500,000 people.
 
-It was generated (by the included Haskell script) from the Demographia data on
-the urban areas of the world with >= 500,000 people:
+It was generated (by the included Haskell script) from the June 2020 Demographia
+data on the urban areas of the world with >= 500,000 people:
 - run: pdftotext db-worldua.pdf
 - That makes db-worldua.txt.
 - run: runhaskell p.hs
